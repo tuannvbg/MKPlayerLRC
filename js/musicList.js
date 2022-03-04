@@ -111,7 +111,7 @@ var musicList = [
                 url_id: "436514312",  // 链接ID
                 pic_id: "2946691234868155",  // 封面ID
                 lyric_id: "436514312",  // 歌词ID
-				lrc: "lyrics/Dinh.Dai.Vu-My.Nhan.js",
+				lrc: "https://dl.dropboxusercontent.com/s/mith3saibgoet94/Dinh.Dai.Vu-My.Nhan.js",
                 pic: "https://avatar-ex-swe.nixcdn.com/song/2019/11/28/1/e/6/0/1574932935845.jpg",    // 专辑图片
                 url: "https://dl.dropboxusercontent.com/s/0d2ooyr1d3eg3s7/Dinh.Dai.Vu-My.Nhan.mp3"   // mp3链接（此项建议不填，除非你有该歌曲的比较稳定的外链）
             },
