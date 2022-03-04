@@ -1,4 +1,4 @@
-MKOnlineMusicPlayer
+MKPlayerLRC 1.0: I like MKOnlineMusicPlayer from https://github.com/mengkunsoft/MKOnlineMusicPlayer but player not support local music (only china music but I'm Vietnamese, I Want listen music Vietnam with lyric lrc). I edit code support local music or any hosting support direct link (example: dropbox.com) with lrc support 4 type: .lrc, .js, .json, content lrc. Demo: https://tuannvbg.github.io/MKPlayerLRC/
 ========
 MKOnlineMusicPlayer 是一款全屏的音乐播放器 UI 框架（为避免侵权，已移除所有后端功能）。
 
