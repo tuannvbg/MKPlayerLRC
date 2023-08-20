@@ -457,6 +457,7 @@ function ajaxLyric1(music, callback) {
 	if(music.lrc!=undefined){
 		lrcurl = music.lrc;
 	}
+	console.log("lrcurl: "+ lrcurl);
 	if (lrcurl.indexOf('.js') >= 0){
 		lrcext = 1;
 		tempType = 'script';
