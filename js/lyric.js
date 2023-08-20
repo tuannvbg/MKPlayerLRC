@@ -83,23 +83,34 @@ function scrollLyric(time) {
 // 解析歌词
 // 这一函数来自 https://github.com/TivonJJ/html5-music-player
 // 参数：原始歌词文件
+//edit by tuannvbg@gmail.com 2023
 function parseLyric(lrc) {
     if(lrc === '') return '';
     var lyrics = lrc.split("\n");
     var lrcObj = {};
     for(var i=0;i<lyrics.length;i++){
         var lyric = decodeURIComponent(lyrics[i]);
-        var timeReg = /\[\d*:\d*((\.|\:)\d*)*\]/g;
-        var timeRegExpArr = lyric.match(timeReg);
-        if(!timeRegExpArr)continue;
-        var clause = lyric.replace(timeReg,'');
-        for(var k = 0,h = timeRegExpArr.length;k < h;k++) {
-            var t = timeRegExpArr[k];
-            var min = Number(String(t.match(/\[\d*/i)).slice(1)),
-                sec = Number(String(t.match(/\:\d*/i)).slice(1));
-            var time = min * 60 + sec;
-            lrcObj[time] = clause;
-        }
+		//console.log('lyric:'+lyric);
+		var lyricfull = "";
+		if (lyric.length>=12){
+			//console.log('length:'+lyric.length);
+			var timeReg = /\[\d*:\d*((\.|\:)\d*)*\]/g;
+			var timeRegExpArr = lyric.match(timeReg);
+			if(!timeRegExpArr)continue;
+			var clause = lyric.replace(timeReg,'');
+			lyricfull = lyricfull + clause;
+			//console.log(clause);
+			for(var k = 0,h = timeRegExpArr.length;k < h;k++) {
+				var t = timeRegExpArr[k];
+				var min = Number(String(t.match(/\[\d*/i)).slice(1)),
+					sec = Number(String(t.match(/\:\d*/i)).slice(1));
+				var time = min * 60 + sec;
+				lrcObj[time] = clause;
+			}
+			//console.log(lyricfull);
+		} else {
+			
+		}
     }
     return lrcObj;
 }
