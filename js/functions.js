@@ -272,11 +272,24 @@ $(function(){
     $('img').error(function(){
         $(this).attr('src', 'images/player_cover.png');
     });
-    
+    //进度条时间
+    setInterval(function () {
+        $('.audio-time').text(getAudioTime());
+    }, 1000)
     // 初始化播放列表
     initList(); 
 });
-
+// 播放时长处理函数
+function getAudioTime () {
+    var audio = $('audio')[0];
+    var duration = audio.duration;
+    var currentTime = audio.currentTime;
+    if (duration && currentTime) {
+        return (formatTime(currentTime) + '/' + formatTime(duration));
+    } else {
+        return '00:00/00:00';
+    }
+};
 // 展现系统列表中任意首歌的歌曲信息
 function musicInfo(list, index) {
     var music = musicList[list].item[index];
