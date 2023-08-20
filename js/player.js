@@ -3,19 +3,19 @@
  * 播放器主功能模块
  * 编写：mengkun(https://mkblog.cn)
  * 时间：2018-3-13
- * Edit: tuannvbg@gmail.com 2022-03-04
+ * Eidt: tuannvbg@gmail.com 2023-08-20
  *************************************************/
 // 播放器功能配置
 var mkPlayer = {
     api: "api.php", // api地址
     loadcount: 20,  // 搜索结果一次加载多少条
     method: "POST",     // 数据传输方式(POST/GET)
-    defaultlist: 1,    // 默认要显示的播放列表编号
-    autoplay: true,    // 是否自动播放(true/false) *此选项在移动端可能无效
+    defaultlist: 3,    // 默认要显示的播放列表编号
+    autoplay: false,    // 是否自动播放(true/false) *此选项在移动端可能无效
     coverbg: true,      // 是否开启封面背景(true/false) *开启后会有些卡
     mcoverbg: true,     // 是否开启[移动端]封面背景(true/false)
     dotshine: true,    // 是否开启播放进度条的小点闪动效果[不支持IE](true/false) *开启后会有些卡
-    mdotshine: true,   // 是否开启[移动端]播放进度条的小点闪动效果[不支持IE](true/false)
+    mdotshine: false,   // 是否开启[移动端]播放进度条的小点闪动效果[不支持IE](true/false)
     volume: 0.6,        // 默认音量值(0~1之间)
     version: "v2.41",    // 播放器当前版本号(仅供调试)
     debug: false   // 是否开启调试模式(true/false)
@@ -264,7 +264,7 @@ function playList(id) {
     // 记录正在播放的歌曲在正在播放列表中的 id
     rem.playid = id;
     
-    // If the link is empty, ajax gets the data and then plays it
+    // 如果链接为空，则 ajax 获取数据后再播放
     if(musicList[1].item[id].url === null || musicList[1].item[id].url === "") {
         ajaxUrl(musicList[1].item[id], play);
     } else {
@@ -333,14 +333,21 @@ function play(music) {
     rem.errCount = 0;   // 连续播放失败的歌曲数归零
     music_bar.goto(0);  // 进度条强制归零
     changeCover(music);    // 更新封面展示
-    ajaxLyric1(music, lyricCallback);     // ajax加载歌词
+	
+	if (music.lrc!=null){
+		 ajaxLyric1(music, lyricCallback);     // ajax加载歌词
+	} else {
+		 ajaxLyric(music, lyricCallback);     // ajax加载歌词
+	}
+	
+	//ajaxLyric(music, lyricCallback);     // ajax加载歌词
     music_bar.lock(false);  // 取消进度条锁定
 }
 
 
 // 我的要求并不高，保留这一句版权信息可好？
 // 保留了，你不会损失什么；而保留版权，是对作者最大的尊重。
-console.info('欢迎使用 MKOnlinePlayer!\n当前版本：'+mkPlayer.version+' \n作者：mengkun(https://mkblog.cn)\n歌曲来源于各大音乐平台\nGithub：https://github.com/mengkunsoft/MKOnlineMusicPlayer');
+console.info('欢迎使用 MKOnlinePlayer!\n当前版本：'+mkPlayer.version+' \n作者：mengkun(https://mkblog.cn)\n歌曲来源于各大音乐平台\nEdit: tuannvbg@gmail.com\nGithub：https://github.com/mengkunsoft/MKOnlineMusicPlayer');
 
 // 音乐进度条拖动回调函数
 function mBcallback(newVal) {
