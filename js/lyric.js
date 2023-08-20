@@ -15,10 +15,14 @@ function lyricTip(str) {
 // 歌曲加载完后的回调函数
 // 参数：歌词源文件
 function lyricCallback(str, id) {
-    if(id !== musicList[rem.playlist].item[rem.playid].id) return;  // 返回的歌词不是当前这首歌的，跳过
+	if (rem.lrc!=""){
+		
+	} else {
+		if(id !== musicList[rem.playlist].item[rem.playid].id) return;
+	}
+    //if(id !== musicList[rem.playlist].item[rem.playid].id) return;  // 返回的歌词不是当前这首歌的，跳过
     
-    rem.lyric = parseLyric(str);    // 解析获取到的歌词
-    
+    rem.lyric = parseLyric(str);  
     if(rem.lyric === '') {
         lyricTip('没有歌词');
         return false;
@@ -33,10 +37,17 @@ function lyricCallback(str, id) {
     var i = 0;
     for(var k in rem.lyric){
         var txt = rem.lyric[k];
-        if(!txt) txt = "&nbsp;";
-        var li = $("<li data-no='"+i+"' class='lrc-item'>"+txt+"</li>");
-        lyricArea.append(li);
-        i++;
+        //if(!txt) txt = "&nbsp;";
+		//tuannvbg@gmail.com
+		if (txt=="&nbsp;"){
+			//console.log('Ký tự trắng');
+			return false;
+		} else {
+			//console.log('ngon lành');
+			var li = $("<li data-no='"+i+"' class='lrc-item'>"+txt+"</li>");
+			lyricArea.append(li);
+			i++;
+		}
     }
 }
 
