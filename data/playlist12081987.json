@@ -1,0 +1,4870 @@
+{
+	"err": 0,
+	"msg": "Success",
+	"data":
+	{
+		"items": [
+		{
+			"id": "ZUWEADBF",
+			"name": "Phố Đã Lên Đèn (Masew Remix)",
+			"title": "Phố Đã Lên Đèn (Masew Remix)",
+			"code": "LHJHykZHlWmbHsiymTbmLGyLhzgQCpdnd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "68C6O89W",
+			"artists": [
+			{
+				"name": "Masew",
+				"link": "/nghe-si/Pho-Da-Len-Den-Masew-Remix-Masew-Huyen-Tam-Mon-Great"
+			}],
+			"artists_names": "Masew, Huyền Tâm Môn, Great",
+			"performer": "Masew, Huyền Tâm Môn, Great",
+			"type": "audio",
+			"link": "/bai-hat/Pho-Da-Len-Den-Masew-Remix-Masew-Huyen-Tam-Mon-Great/ZUWEADBF.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/5/4/4/2/54428b5941480071626cfbe0653e6ea1.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/7/8/d/978d12830c18df95c26e93e658019166.jpg?fs=MTY0NjU1NDUwMzAxMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 189,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/33dbfdebe3aa0af453bb/4457018915500166957?authen=exp=1646727303~acl=/33dbfdebe3aa0af453bb/*~hmac=b7e1d30bbda4fdff9b229f02e411e557&fs=MTY0NjU1NDUwMzAxM3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "68C6O89W",
+				"link": "/album/Pho-Da-Len-Den-Masew-Remix-Single-Masew-Huyen-Tam-Mon-Great/68C6O89W.html",
+				"title": "Phố Đã Lên Đèn (Masew Remix) (Single)",
+				"name": "Phố Đã Lên Đèn (Masew Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Masew, Huyền Tâm Môn, Great",
+				"artists": [
+				{
+					"name": "Masew",
+					"link": "/nghe-si/Masew-Huyen-Tam-Mon-Great"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/9/7/8/d/978d12830c18df95c26e93e658019166.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/7/8/d/978d12830c18df95c26e93e658019166.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZFD77I",
+				"name": "Masew",
+				"link": "/nghe-si/Masew",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/0/3/3/30332432e55a395202949715ca0162c1.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "01"
+		},
+		{
+			"id": "ZWDUE6WI",
+			"name": "05 (Không Phai) (Masew Remix)",
+			"title": "05 (Không Phai) (Masew Remix)",
+			"code": "kHcHTkmcLJSLGWaymybHZHTkgzhWgWdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6U0Z8BB6",
+			"artists": [
+			{
+				"name": "Nhiều Nghệ Sĩ",
+				"link": "/nghe-si/05-Khong-Phai-Masew-Remix-Tang-Duy-Tan-T-R-I-Phong-Max-Masew"
+			}],
+			"artists_names": "Tăng Duy Tân, T.R.I, Phong Max, Masew",
+			"performer": "Tăng Duy Tân, T.R.I, Phong Max, Masew",
+			"type": "audio",
+			"link": "/bai-hat/05-Khong-Phai-Masew-Remix-Tang-Duy-Tan-T-R-I-Phong-Max-Masew/ZWDUE6WI.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/7/9/c/c/79ccccd4852ff56ee07af2b11cc454e9.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/b/6/1/5b61a30f04aee798909d6357c6a56eaf.jpg?fs=MTY0NjU1NDUwMzAxNXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 205,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/889a3bd5619288ccd183/8025321276558019313?authen=exp=1646727303~acl=/889a3bd5619288ccd183/*~hmac=3e8cb7d07c4c2d6582654d9edb85146e&fs=MTY0NjU1NDUwMzAxNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6U0Z8BB6",
+				"link": "/album/05-Khong-Phai-Masew-Remix-Single-Tang-Duy-Tan-T-R-I-Phong-Max-Masew/6U0Z8BB6.html",
+				"title": "05 (Không Phai) (Masew Remix) (Single)",
+				"name": "05 (Không Phai) (Masew Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Tăng Duy Tân, T.R.I, Phong Max, Masew",
+				"artists": [
+				{
+					"name": "Nhiều Nghệ Sĩ",
+					"link": "/nghe-si/Tang-Duy-Tan-T-R-I-Phong-Max-Masew"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/1/9/a/319a048010efc72fef6eb7c545c74bfe.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/1/9/a/319a048010efc72fef6eb7c545c74bfe.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6W8FO8",
+				"name": "Tăng Duy Tân",
+				"link": "/nghe-si/Tang-Duy-Tan",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/d/d/a/ddda5f9fec1f2ef6c499831661727263.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "02"
+		},
+		{
+			"id": "ZWBI9WA8",
+			"name": "Hai Phút Hơn",
+			"title": "Hai Phút Hơn",
+			"code": "kGJHykmaEQFpubxtnyDnkntkhShQhWdmB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZFDU9IBC",
+			"artists": [
+			{
+				"name": "Pháo",
+				"link": "/nghe-si/Hai-Phut-Hon-Phao-CM1X"
+			}],
+			"artists_names": "Pháo, CM1X",
+			"performer": "Pháo, CM1X",
+			"type": "audio",
+			"link": "/bai-hat/Hai-Phut-Hon-Phao-CM1X/ZWBI9WA8.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/7/1/0/1710ab7f6e6e3a9a1b281379e660d414.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/9/f/c/b9fc0bbb2e0dbaa9d3452d0602bc5da7.jpg?fs=MTY0NjU1NDUwMzAxOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 194,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/d49a0b4e1109f857a118/706236833367217355?authen=exp=1646727303~acl=/d49a0b4e1109f857a118/*~hmac=94e57a78fb43187e16401558ed90d55c&fs=MTY0NjU1NDUwMzAxOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZFDU9IBC",
+				"link": "/album/Hai-Phut-Hon-Single-Phao-CM1X/ZFDU9IBC.html",
+				"title": "Hai Phút Hơn (Single)",
+				"name": "Hai Phút Hơn (Single)",
+				"isoffical": true,
+				"artists_names": "Pháo, CM1X",
+				"artists": [
+				{
+					"name": "Pháo",
+					"link": "/nghe-si/Phao-CM1X"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/b/9/f/c/b9fc0bbb2e0dbaa9d3452d0602bc5da7.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/9/f/c/b9fc0bbb2e0dbaa9d3452d0602bc5da7.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6Z87FU",
+				"name": "Pháo",
+				"link": "/nghe-si/Phao",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/3/5/b/c35bdf095089891beef186830dd6a3e7.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "03"
+		},
+		{
+			"id": "ZWBIFCFC",
+			"name": "Nếu Em Hết Thương Rồi (Remix)",
+			"title": "Nếu Em Hết Thương Rồi (Remix)",
+			"code": "kHcHyknNRQpdLzJyHtbHkHTZCShWCWBmV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZFECA6E7",
+			"artists": [
+			{
+				"name": "Châu Khải Phong",
+				"link": "/nghe-si/Neu-Em-Het-Thuong-Roi-Remix-Chau-Khai-Phong-ACV"
+			}],
+			"artists_names": "Châu Khải Phong, ACV",
+			"performer": "Châu Khải Phong, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Neu-Em-Het-Thuong-Roi-Remix-Chau-Khai-Phong-ACV/ZWBIFCFC.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/e/1/2/d/e12d987d947f4c92311f3ff627f1b3a5.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/a/c/b/5acbbfb3934d9872c3fdb6f44e2b7dc9.jpg?fs=MTY0NjU1NDUwMzAyM3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 273,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/e04e60327a75932bca64/5229338963386001399?authen=exp=1646727303~acl=/e04e60327a75932bca64/*~hmac=78bdda27c0af7dc509560b67879e782f&fs=MTY0NjU1NDUwMzAyNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZFECA6E7",
+				"link": "/album/Neu-Em-Het-Thuong-Roi-Remix-Single-Chau-Khai-Phong-ACV/ZFECA6E7.html",
+				"title": "Nếu Em Hết Thương Rồi (Remix) (Single)",
+				"name": "Nếu Em Hết Thương Rồi (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Châu Khải Phong, ACV",
+				"artists": [
+				{
+					"name": "Châu Khải Phong",
+					"link": "/nghe-si/Chau-Khai-Phong-ACV"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/5/a/c/b/5acbbfb3934d9872c3fdb6f44e2b7dc9.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/a/c/b/5acbbfb3934d9872c3fdb6f44e2b7dc9.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ976C7",
+				"name": "Châu Khải Phong",
+				"link": "/nghe-si/Chau-Khai-Phong",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/3/a/a/73aa6af7968ec8161e59312dfd1e1430.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "04"
+		},
+		{
+			"id": "ZOWEW7ZU",
+			"name": "Kiếp Duyên Không Thành (Remix)",
+			"title": "Kiếp Duyên Không Thành (Remix)",
+			"code": "LmJHTLHJNhiHzpbymyFmkHyLhShphQVGV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6Z7OUZ88",
+			"artists": [
+			{
+				"name": "DIMZ",
+				"link": "/nghe-si/Kiep-Duyen-Khong-Thanh-Remix-DIMZ"
+			}],
+			"artists_names": "DIMZ",
+			"performer": "DIMZ",
+			"type": "audio",
+			"link": "/bai-hat/Kiep-Duyen-Khong-Thanh-Remix-DIMZ/ZOWEW7ZU.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/0/f/e/1/0fe1d24f0d15ca9d2093e3611f9f0f20.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/5/5/8/7558e2c937d2049dc0627f066fa42490.jpg?fs=MTY0NjU1NDUwMzAyN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 183,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/a6d5b9401f07f659af16/11416612340909235?authen=exp=1646727303~acl=/a6d5b9401f07f659af16/*~hmac=4930c8e9917c69f542c0708764c603f1&fs=MTY0NjU1NDUwMzAyOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6Z7OUZ88",
+				"link": "/album/Kiep-Duyen-Khong-Thanh-Single-DIMZ/6Z7OUZ88.html",
+				"title": "Kiếp Duyên Không Thành (Single)",
+				"name": "Kiếp Duyên Không Thành (Single)",
+				"isoffical": true,
+				"artists_names": "DIMZ",
+				"artists": [
+				{
+					"name": "DIMZ",
+					"link": "/nghe-si/DIMZ"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/5/5/8/7558e2c937d2049dc0627f066fa42490.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/5/5/8/7558e2c937d2049dc0627f066fa42490.jpg"
+			},
+			"artist":
+			{
+				"id": "IW689UCI",
+				"name": "DIMZ",
+				"link": "/nghe-si/DIMZ",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/6/5/3/5653c00f7093a17d3f20f232d3189822.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "05"
+		},
+		{
+			"id": "ZOC96B7E",
+			"name": "Xin Đừng Nhấc Máy (Masew Remix)",
+			"title": "Xin Đừng Nhấc Máy (Masew Remix)",
+			"code": "ZncmtkmEsxhpucbynTvHZHyLhSCpCpVmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "S7E7AB88",
+			"artists": [
+			{
+				"name": "Nhiều Nghệ Sĩ",
+				"link": "/nghe-si/Xin-Dung-Nhac-May-Masew-Remix-B-Ray-Han-Sara-Masew-Great"
+			}],
+			"artists_names": "B Ray, Han Sara, Masew, Great",
+			"performer": "B Ray, Han Sara, Masew, Great",
+			"type": "audio",
+			"link": "/bai-hat/Xin-Dung-Nhac-May-Masew-Remix-B-Ray-Han-Sara-Masew-Great/ZOC96B7E.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/9/2/d/8/92d86d0fa22be15b03398cb745c5a89c.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/a/5/0/fa509cf50264b55d7d467592416b8ef1.jpg?fs=MTY0NjU1NDUwMzAzMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 205,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/97e47066b3215a7f0330/3660272141810167859?authen=exp=1646727303~acl=/97e47066b3215a7f0330/*~hmac=a37f7f5df9dab5ebfeb0f0f435a5a467&fs=MTY0NjU1NDUwMzAzMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "S7E7AB88",
+				"link": "/album/Xin-Dung-Nhac-May-Masew-Remix-Single-B-Ray-Han-Sara-Masew-Great/S7E7AB88.html",
+				"title": "Xin Đừng Nhấc Máy (Masew Remix) (Single)",
+				"name": "Xin Đừng Nhấc Máy (Masew Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "B Ray, Han Sara, Masew, Great",
+				"artists": [
+				{
+					"name": "Nhiều Nghệ Sĩ",
+					"link": "/nghe-si/B-Ray-Han-Sara-Masew-Great"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/f/a/5/0/fa509cf50264b55d7d467592416b8ef1.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/a/5/0/fa509cf50264b55d7d467592416b8ef1.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAOAZZ",
+				"name": "B Ray",
+				"link": "/nghe-si/B-Ray-Rapper",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/0/0/3/c00368f9a16eefbedf836821ba6fab36.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "06"
+		},
+		{
+			"id": "ZWBWBI9U",
+			"name": "Nắm (EDM Version)",
+			"title": "Nắm (EDM Version)",
+			"code": "ZmcGyLHaRQRudxHtHtbmLmykhSCWXQBmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "60UB07D8",
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Nam-EDM-Version-Minh-Vuong-M4U-Huong-Ly-ACV"
+			}],
+			"artists_names": "Minh Vương M4U, Hương Ly, ACV",
+			"performer": "Minh Vương M4U, Hương Ly, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Nam-EDM-Version-Minh-Vuong-M4U-Huong-Ly-ACV/ZWBWBI9U.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/4/f/3/0/4f30d5a1266ab835cfad8b6bcf27c580.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/a/7/b/2/a7b259955998d8c77421768b3dd30bfe.jpg?fs=MTY0NjU1NDUwMzAzNXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 231,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/e6ca59a94ceea5b0fcff/1589859632549677930?authen=exp=1646727303~acl=/e6ca59a94ceea5b0fcff/*~hmac=60aa90276a2f202edce74a3927e6d3a4&fs=MTY0NjU1NDUwMzAzNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "60UB07D8",
+				"link": "/album/Nam-EDM-Version-Single-Minh-Vuong-M4U-Huong-Ly-ACV/60UB07D8.html",
+				"title": "Nắm (EDM Version) (Single)",
+				"name": "Nắm (EDM Version) (Single)",
+				"isoffical": true,
+				"artists_names": "Minh Vương M4U, Hương Ly, ACV",
+				"artists": [
+				{
+					"name": "Minh Vương M4U",
+					"link": "/nghe-si/Minh-Vuong-M4U-Huong-Ly-ACV"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/a/7/b/2/a7b259955998d8c77421768b3dd30bfe.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/a/7/b/2/a7b259955998d8c77421768b3dd30bfe.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "07"
+		},
+		{
+			"id": "ZWB0DFU7",
+			"name": "Duyên Trời Lấy 2 (Remix)",
+			"title": "Duyên Trời Lấy 2 (Remix)",
+			"code": "kncmykmNRzJnmGstmTbHZmykXzCQCQVmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZF69CAFO",
+			"artists": [
+			{
+				"name": "Chung Thanh Duy",
+				"link": "/nghe-si/Duyen-Troi-Lay-2-Remix-Chung-Thanh-Duy"
+			}],
+			"artists_names": "Chung Thanh Duy",
+			"performer": "Chung Thanh Duy",
+			"type": "audio",
+			"link": "/bai-hat/Duyen-Troi-Lay-2-Remix-Chung-Thanh-Duy/ZWB0DFU7.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/4/1/e/7/41e7799d481643acc4580f483261532e.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/5/c/a/85ca2da2e4f366d35144e2673c042989.jpg?fs=MTY0NjU1NDUwMzAzOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 256,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/a7cc2ab737f0deae87e1/1387450307305189572?authen=exp=1646727303~acl=/a7cc2ab737f0deae87e1/*~hmac=3ea99f21691374dfb894532885a8a2c3&fs=MTY0NjU1NDUwMzAzOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZF69CAFO",
+				"link": "/album/Duyen-Troi-Lay-2-Remix-Single-Chung-Thanh-Duy/ZF69CAFO.html",
+				"title": "Duyên Trời Lấy 2 (Remix) (Single)",
+				"name": "Duyên Trời Lấy 2 (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Chung Thanh Duy",
+				"artists": [
+				{
+					"name": "Chung Thanh Duy",
+					"link": "/nghe-si/Chung-Thanh-Duy"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/8/5/c/a/85ca2da2e4f366d35144e2673c042989.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/5/c/a/85ca2da2e4f366d35144e2673c042989.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6UIIZW",
+				"name": "Chung Thanh Duy",
+				"link": "/nghe-si/Chung-Thanh-Duy",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/c/4/4/2/c4421417289967ba9ad14d786ffc599b.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/5/4/5/15452c19ea97e0c5d96e79cd93b8cb44.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "08"
+		},
+		{
+			"id": "ZO6II7ZB",
+			"name": "Tuyệt Sắc (Remix)",
+			"title": "Tuyệt Sắc (Remix)",
+			"code": "knxHTZHuZnbchuEtHtFmZnTLhzhQCpBGV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "67IUI9CZ",
+			"artists": [
+			{
+				"name": "NamDuc",
+				"link": "/nghe-si/Tuyet-Sac-Remix-NamDuc-LongDrae"
+			}],
+			"artists_names": "NamDuc, LongDrae",
+			"performer": "NamDuc, LongDrae",
+			"type": "audio",
+			"link": "/bai-hat/Tuyet-Sac-Remix-NamDuc-LongDrae/ZO6II7ZB.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/c/e/3/1/ce318ee3039b032da765458fd4e35a04.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/1/8/a/818a0425ebd2c2415b78158e17b3486c.jpg?fs=MTY0NjU1NDUwMzA0Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 192,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/2357c0015b46b218eb57/77880055557889618?authen=exp=1646727303~acl=/2357c0015b46b218eb57/*~hmac=8014c58013c8d8ac0bf4182a6918909b&fs=MTY0NjU1NDUwMzA0M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "67IUI9CZ",
+				"link": "/album/Tuyet-Sac-Remix-Single-NamDuc-LongDrae/67IUI9CZ.html",
+				"title": "Tuyệt Sắc (Remix) (Single)",
+				"name": "Tuyệt Sắc (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "NamDuc, LongDrae",
+				"artists": [
+				{
+					"name": "NamDuc",
+					"link": "/nghe-si/NamDuc-LongDrae"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/2/5/e/725e36e0b2729b49ee7c67d992857dda.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/2/5/e/725e36e0b2729b49ee7c67d992857dda.jpg"
+			},
+			"artist":
+			{
+				"id": "IW68CZCW",
+				"name": "NamDuc",
+				"link": "/nghe-si/NamDuc",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/6/a/d/f6adfcd65653d9c361b4208e98e096ce.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "09"
+		},
+		{
+			"id": "ZWB00D7E",
+			"name": "Kết Duyên",
+			"title": "Kết Duyên",
+			"code": "ZHJmykmsEzFhdmbtmyvmZmTkgSXpgQdmB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZE0U9AA0",
+			"artists": [
+			{
+				"name": "YuniBoo",
+				"link": "/nghe-si/Ket-Duyen-YuniBoo-Goctoi-Mixer"
+			}],
+			"artists_names": "YuniBoo, Goctoi Mixer",
+			"performer": "YuniBoo, Goctoi Mixer",
+			"type": "audio",
+			"link": "/bai-hat/Ket-Duyen-YuniBoo-Goctoi-Mixer/ZWB00D7E.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2/d/1/9/2d193509918773f126546ece151bf1f9.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/f/3/3/bf33be2bf9f4918f41322030f39eb7e6.jpg?fs=MTY0NjU1NDUwMzA0N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Ket-Duyen-YuniBoo-Goctoi-Mixer/ZWB00D7E.html",
+			"duration": 214,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/54380e4b2f0cc6529f1d/1293274315162689309?authen=exp=1646727303~acl=/54380e4b2f0cc6529f1d/*~hmac=c26539d6995094ca7ac2a914e10b6898&fs=MTY0NjU1NDUwMzA0OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZE0U9AA0",
+				"link": "/album/Ket-Duyen-Single-YuniBoo-Goctoi-Mixer/ZE0U9AA0.html",
+				"title": "Kết Duyên (Single)",
+				"name": "Kết Duyên (Single)",
+				"isoffical": true,
+				"artists_names": "YuniBoo, Goctoi Mixer",
+				"artists": [
+				{
+					"name": "YuniBoo",
+					"link": "/nghe-si/YuniBoo-Goctoi-Mixer"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/b/f/3/3/bf33be2bf9f4918f41322030f39eb7e6.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/f/3/3/bf33be2bf9f4918f41322030f39eb7e6.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6ZZ98C",
+				"name": "YuniBoo",
+				"link": "/nghe-si/YuniBoo",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/b/2/e/2b2e9be76a7bfb2b175dfb0e9258d870.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 10
+		},
+		{
+			"id": "ZWAFZ0DW",
+			"name": "Đau Bởi Vì Ai (Remix)",
+			"title": "Đau Bởi Vì Ai (Remix)",
+			"code": "ZHJmyZHaRBsxmHFtmyDmLmtZhlCQCQBHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZAFUDUOB",
+			"artists": [
+			{
+				"name": "Nhật Phong",
+				"link": "/nghe-si/Dau-Boi-Vi-Ai-Remix-Nhat-Phong"
+			}],
+			"artists_names": "Nhật Phong",
+			"performer": "Nhật Phong",
+			"type": "audio",
+			"link": "/bai-hat/Dau-Boi-Vi-Ai-Remix-Nhat-Phong/ZWAFZ0DW.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/f/a/4/c/fa4c928d30527517246732dca8103acb.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/5/0/c/850c552710a7092d7c279efced19bee5.jpg?fs=MTY0NjU1NDUwMzA1M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 246,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/11bd647d433aaa64f32b/1956972581201825561?authen=exp=1646727303~acl=/11bd647d433aaa64f32b/*~hmac=994bc0783d13ef4a707d45976be84e69&fs=MTY0NjU1NDUwMzA1NHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZAFUDUOB",
+				"link": "/album/Dau-Boi-Vi-Ai-Remix-Single-Nhat-Phong/ZAFUDUOB.html",
+				"title": "Đau Bởi Vì Ai (Remix) (Single)",
+				"name": "Đau Bởi Vì Ai (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Nhật Phong",
+				"artists": [
+				{
+					"name": "Nhật Phong",
+					"link": "/nghe-si/Nhat-Phong"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/8/5/0/c/850c552710a7092d7c279efced19bee5.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/5/0/c/850c552710a7092d7c279efced19bee5.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6W7AZD",
+				"name": "Nhật Phong",
+				"link": "/nghe-si/Nhat-Phong",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/b/e/9/a/be9af4aa954d8e7bb178a0861de0e01a.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/1/7/9/e179c57ec85bd29db29a89bb3c1c049d.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 11
+		},
+		{
+			"id": "ZUIOB80O",
+			"name": "Yêu Nhau Nhé Bạn Thân (Remix)",
+			"title": "Yêu Nhau Nhé Bạn Thân (Remix)",
+			"code": "kHxmyZkHbsBWbVpyGtbHLHyLhzCWXpBnd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "687EEEIF",
+			"artists": [
+			{
+				"name": "Phạm Đình Thái Ngân",
+				"link": "/nghe-si/Yeu-Nhau-Nhe-Ban-Than-Remix-Pham-Dinh-Thai-Ngan-Hino-To-Chau"
+			}],
+			"artists_names": "Phạm Đình Thái Ngân, Hino, Tô Châu",
+			"performer": "Phạm Đình Thái Ngân, Hino, Tô Châu",
+			"type": "audio",
+			"link": "/bai-hat/Yeu-Nhau-Nhe-Ban-Than-Remix-Pham-Dinh-Thai-Ngan-Hino-To-Chau/ZUIOB80O.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/8/2/9/6/8296bbf4fab07f2f4c6773440fc0c29c.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/8/6/9/9869a169582376b58512d56e8b6e843e.jpg?fs=MTY0NjU1NDUwMzA1NXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 244,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/c4dae160bf2656780f37/6107269447863485383?authen=exp=1646727303~acl=/c4dae160bf2656780f37/*~hmac=3f529dac7d45898bfd3b6bfbc099d00e&fs=MTY0NjU1NDUwMzA1Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "687EEEIF",
+				"link": "/album/Yeu-Nhau-Nhe-Ban-Than-Remix-Single-Pham-Dinh-Thai-Ngan-Hino-To-Chau/687EEEIF.html",
+				"title": "Yêu Nhau Nhé Bạn Thân (Remix) (Single)",
+				"name": "Yêu Nhau Nhé Bạn Thân (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Phạm Đình Thái Ngân, Hino, Tô Châu",
+				"artists": [
+				{
+					"name": "Phạm Đình Thái Ngân",
+					"link": "/nghe-si/Pham-Dinh-Thai-Ngan-Hino-To-Chau"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/6/8/4/d/684de24e1d9c670c00cf85a2c9a1f614.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/8/4/d/684de24e1d9c670c00cf85a2c9a1f614.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAOADF",
+				"name": "Phạm Đình Thái Ngân",
+				"link": "/nghe-si/Pham-Dinh-Thai-Ngan",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/b/b/f/4/bbf4d95fa26e7eae282acb7d10d9d991.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/1/d/8/c1d83fbd93fcd828f9a530637b68941a.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 12
+		},
+		{
+			"id": "ZWB0IC9Z",
+			"name": "Đúng Người Đúng Thời Điểm (Nemo Remix)",
+			"title": "Đúng Người Đúng Thời Điểm (Nemo Remix)",
+			"code": "LHcmTkHsiSdmLCQymtFmLHykXSgphWdnd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZEU00UOI",
+			"artists": [
+			{
+				"name": "Thanh Hưng",
+				"link": "/nghe-si/Dung-Nguoi-Dung-Thoi-Diem-Nemo-Remix-Thanh-Hung"
+			}],
+			"artists_names": "Thanh Hưng",
+			"performer": "Thanh Hưng",
+			"type": "audio",
+			"link": "/bai-hat/Dung-Nguoi-Dung-Thoi-Diem-Nemo-Remix-Thanh-Hung/ZWB0IC9Z.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/0/2/2/a/022a2baf5cb57182142bd819ba7125ad.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/0/a/6/70a65f6f36f98c740541e29c0e9bcbf0.jpg?fs=MTY0NjU1NDUwMzA1Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 251,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/9a536a624b25a27bfb34/7927896675572907376?authen=exp=1646727303~acl=/9a536a624b25a27bfb34/*~hmac=933c7ec6f8d467aa691cc651d9aa0b16&fs=MTY0NjU1NDUwMzA1N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZEU00UOI",
+				"link": "/album/Dung-Nguoi-Dung-Thoi-Diem-Nemo-Remix-Single-Thanh-Hung/ZEU00UOI.html",
+				"title": "Đúng Người Đúng Thời Điểm (Nemo Remix) (Single)",
+				"name": "Đúng Người Đúng Thời Điểm (Nemo Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Thanh Hưng",
+				"artists": [
+				{
+					"name": "Thanh Hưng",
+					"link": "/nghe-si/Thanh-Hung"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/b/6/7/e/b67e4bf715202baf391050614eeff3a1.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/6/7/e/b67e4bf715202baf391050614eeff3a1.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9A7ZD",
+				"name": "Thanh Hưng",
+				"link": "/nghe-si/Thanh-Hung-Idol",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/9/7/9/9/9799bf780a59a78b3ceafc297d138aac.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/7/4/7/e747f412594da44531a37b1ee8340ec0.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 13
+		},
+		{
+			"id": "ZWCZ680C",
+			"name": "Em Ơi Em Đừng Khóc (Fireprox Remix)",
+			"title": "Em Ơi Em Đừng Khóc (Fireprox Remix)",
+			"code": "kGxHtLmcHJvWaSmtGyDmkHTLhzhQCpdGd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6WAAB06Z",
+			"artists": [
+			{
+				"name": "Cao Nam Thành",
+				"link": "/nghe-si/Em-Oi-Em-Dung-Khoc-Fireprox-Remix-Cao-Nam-Thanh"
+			}],
+			"artists_names": "Cao Nam Thành",
+			"performer": "Cao Nam Thành",
+			"type": "audio",
+			"link": "/bai-hat/Em-Oi-Em-Dung-Khoc-Fireprox-Remix-Cao-Nam-Thanh/ZWCZ680C.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/a/a/f/b/aafbd3cd0818b7c8a341b21e0d2aa9f5.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/e/c/1/2ec1590e91ae48aa2541cfb522fcd4eb.jpg?fs=MTY0NjU1NDUwMzA2MHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 215,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/396c05276160883ed171/1679493686749208716?authen=exp=1646727303~acl=/396c05276160883ed171/*~hmac=ab54c15456ce10a95e7402b4db94eb01&fs=MTY0NjU1NDUwMzA2MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6WAAB06Z",
+				"link": "/album/Em-Oi-Em-Dung-Khoc-Fireprox-Remix-Single-Cao-Nam-Thanh/6WAAB06Z.html",
+				"title": "Em Ơi Em Đừng Khóc (Fireprox Remix) (Single)",
+				"name": "Em Ơi Em Đừng Khóc (Fireprox Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Cao Nam Thành",
+				"artists": [
+				{
+					"name": "Cao Nam Thành",
+					"link": "/nghe-si/Cao-Nam-Thanh"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/f/f/5/3/ff53c30e301a62aa14ba6c10e58d12da.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/f/5/3/ff53c30e301a62aa14ba6c10e58d12da.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9D9O9",
+				"name": "Cao Nam Thành",
+				"link": "/nghe-si/Cao-Nam-Thanh",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/2/c/e/3/2ce3e50a49ece4ed5471ca376844a8d9.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/2/5/a/e25aa659838ed8aee03390dad3850ab0.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 14
+		},
+		{
+			"id": "ZWDD7ZDW",
+			"name": "Chạnh Lòng Thương Cô (Remix)",
+			"title": "Chạnh Lòng Thương Cô (Remix)",
+			"code": "LmcHtLGJblGFkVGyHybmZHTZgzhQhpBHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6UCDWDIO",
+			"artists": [
+			{
+				"name": "Huy Vạc",
+				"link": "/nghe-si/Chanh-Long-Thuong-Co-Remix-Huy-Vac-Non-Hanta-Hiderway"
+			}],
+			"artists_names": "Huy Vạc, Non Hanta, Hiderway",
+			"performer": "Huy Vạc, Non Hanta, Hiderway",
+			"type": "audio",
+			"link": "/bai-hat/Chanh-Long-Thuong-Co-Remix-Huy-Vac-Non-Hanta-Hiderway/ZWDD7ZDW.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/8/7/9/187934fb9693c977627e5c13e60cf926.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/4/f/f/c4ffd5d7ea3e34789ceb17a4bf6110fd.jpg?fs=MTY0NjU1NDUwMzA2NXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 156,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/2196d09699d1708f29c0/3792557825965351084?authen=exp=1646727303~acl=/2196d09699d1708f29c0/*~hmac=37e447f1c754daa36858d9b64ab7ef01&fs=MTY0NjU1NDUwMzA2Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6UCDWDIO",
+				"link": "/album/Chanh-Long-Thuong-Co-Remix-Single-Huy-Vac-Non-Hanta-Hiderway/6UCDWDIO.html",
+				"title": "Chạnh Lòng Thương Cô (Remix) (Single)",
+				"name": "Chạnh Lòng Thương Cô (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Huy Vạc, Non Hanta, Hiderway",
+				"artists": [
+				{
+					"name": "Huy Vạc",
+					"link": "/nghe-si/Huy-Vac-Non-Hanta-Hiderway"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/c/4/f/f/c4ffd5d7ea3e34789ceb17a4bf6110fd.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/4/f/f/c4ffd5d7ea3e34789ceb17a4bf6110fd.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6W86EF",
+				"name": "Huy Vạc",
+				"link": "/nghe-si/Huy-Vac",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/b/1/3/7/b13722c8f802e9535ea0cacc09236e84.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 15
+		},
+		{
+			"id": "ZUBEFEU6",
+			"name": "Người Lạ Thoáng Qua (EDM)",
+			"title": "Người Lạ Thoáng Qua (EDM)",
+			"code": "LGcnyZLkdRpuxNxynyDHkHyLhSCQXpdGd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Đinh Tùng Huy",
+				"link": "/nghe-si/Nguoi-La-Thoang-Qua-EDM-Dinh-Tung-Huy"
+			}],
+			"artists_names": "Đinh Tùng Huy",
+			"performer": "Đinh Tùng Huy",
+			"type": "audio",
+			"link": "/bai-hat/Nguoi-La-Thoang-Qua-EDM-Dinh-Tung-Huy/ZUBEFEU6.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/4/c/0/8/4c085d0b250763f09cf701d2869e8be7.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/5/d/a/9/5da92b54155ac844f9dac366057cbcde.jpg?fs=MTY0NjU1NDUwMzA2OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 306,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/3964e1d3e99200cc5983/8489330943956665099?authen=exp=1646727303~acl=/3964e1d3e99200cc5983/*~hmac=8e471fdffd36e41e45adc589d89c11df&fs=MTY0NjU1NDUwMzA2OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZA6F8I",
+				"name": "Đinh Tùng Huy",
+				"link": "/nghe-si/Dinh-Tung-Huy",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/0/b/2/1/0b21e78752d9d94935a3c5bf62be9049.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/d/a/9/5da92b54155ac844f9dac366057cbcde.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 16
+		},
+		{
+			"id": "ZUE87FOF",
+			"name": "Mây Đêm Chờ Mấy Đêm EDM (Haky Remix)",
+			"title": "Mây Đêm Chờ Mấy Đêm EDM (Haky Remix)",
+			"code": "ZmcGyZZZhCsixsZTGTFHLmtkhlhpCWVHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Nguyễn Hữu Kha",
+				"link": "/nghe-si/May-Dem-Cho-May-Dem-EDM-Haky-Remix-Nguyen-Huu-Kha-BMZ"
+			}],
+			"artists_names": "Nguyễn Hữu Kha, BMZ",
+			"performer": "Nguyễn Hữu Kha, BMZ",
+			"type": "audio",
+			"link": "/bai-hat/May-Dem-Cho-May-Dem-EDM-Haky-Remix-Nguyen-Huu-Kha-BMZ/ZUE87FOF.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/7/7/f/1/77f1439e0abb1a5c6662515d17d817e3.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/1/d/e/d1de6c73bc6989aff5436571f453c7ba.jpg?fs=MTY0NjU1NDUwMzA3MHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 238,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/b8f434293668df368679/1411793059390180506?authen=exp=1646727303~acl=/b8f434293668df368679/*~hmac=7b8498d59fdca8764e70a7ba4940915d&fs=MTY0NjU1NDUwMzA3MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW7I7A78",
+				"name": "Nguyễn Hữu Kha",
+				"link": "/nghe-si/Nguyen-Huu-Kha",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/6/9/9/26998f45dc9d1f23141feef6080d5e56.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 17
+		},
+		{
+			"id": "ZWBUB79W",
+			"name": "Nụ Cười 18 20 (Remix)",
+			"title": "Nụ Cười 18 20 (Remix)",
+			"code": "ZmxGTZmNRadZRJCtmybmkGTZCzhQXQBHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6IOE8OFI",
+			"artists": [
+			{
+				"name": "Doãn Hiếu",
+				"link": "/nghe-si/Nu-Cuoi-18-20-Remix-Doan-Hieu-BMZ"
+			}],
+			"artists_names": "Doãn Hiếu, BMZ",
+			"performer": "Doãn Hiếu, BMZ",
+			"type": "audio",
+			"link": "/bai-hat/Nu-Cuoi-18-20-Remix-Doan-Hieu-BMZ/ZWBUB79W.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/f/8/0/6/f806247bb2dcf899fd4191db3adbcc60.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/2/a/f/82afcc633cc979c20481d8ddbae41386.jpg?fs=MTY0NjU1NDUwMzA3Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 276,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/0535aaeea6a94ff716b8/8170356884360268096?authen=exp=1646727303~acl=/0535aaeea6a94ff716b8/*~hmac=3b80151b7118f1a605c1e2f5cb33e6ab&fs=MTY0NjU1NDUwMzA3M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6IOE8OFI",
+				"link": "/album/Nu-Cuoi-18-20-Remix-Single-Doan-Hieu-BMZ/6IOE8OFI.html",
+				"title": "Nụ Cười 18 20 (Remix) (Single)",
+				"name": "Nụ Cười 18 20 (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Doãn Hiếu, BMZ",
+				"artists": [
+				{
+					"name": "Doãn Hiếu",
+					"link": "/nghe-si/Doan-Hieu-BMZ"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/6/1/2/5/61250b9cd111077f9842e4461ffe0ff9.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/1/2/5/61250b9cd111077f9842e4461ffe0ff9.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6ZAIOE",
+				"name": "Doãn Hiếu",
+				"link": "/nghe-si/Doan-Hieu",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/f/c/9/4fc9539c8d5da4ae408ed1c08174cce8.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 18
+		},
+		{
+			"id": "ZUCEB7EI",
+			"name": "Không Bằng (Cukak Remix)",
+			"title": "Không Bằng (Cukak Remix)",
+			"code": "kHcGTkkkARimlBBymybHZmtZClhWgWdHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "69CUO98I",
+			"artists": [
+			{
+				"name": "CUKAK",
+				"link": "/nghe-si/Khong-Bang-Cukak-Remix-CUKAK-Do-Le-Hong-Nhung"
+			}],
+			"artists_names": "CUKAK, Đỗ Lê Hồng Nhung",
+			"performer": "CUKAK, Đỗ Lê Hồng Nhung",
+			"type": "audio",
+			"link": "/bai-hat/Khong-Bang-Cukak-Remix-CUKAK-Do-Le-Hong-Nhung/ZUCEB7EI.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/9/5/0/5/95059ed1fc2ddc7598746cf5eb05e5e9.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/f/a/b/c/fabcffe864c90a33221b4809a6d1eb2e.jpg?fs=MTY0NjU1NDUwMzA3Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 183,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/a36104620f23e67dbf32/3005251752506490103?authen=exp=1646727303~acl=/a36104620f23e67dbf32/*~hmac=bf0cd500e0a360d6fa9cfe702775981c&fs=MTY0NjU1NDUwMzA3N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "69CUO98I",
+				"link": "/album/Khong-Bang-Cukak-Remix-Single-CUKAK-Do-Le-Hong-Nhung/69CUO98I.html",
+				"title": "Không Bằng (Cukak Remix) (Single)",
+				"name": "Không Bằng (Cukak Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "CUKAK, Đỗ Lê Hồng Nhung",
+				"artists": [
+				{
+					"name": "CUKAK",
+					"link": "/nghe-si/CUKAK-Do-Le-Hong-Nhung"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/9/9/2/3/9923dcfcd8921b82d3812c02d7e06625.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/9/2/3/9923dcfcd8921b82d3812c02d7e06625.jpg"
+			},
+			"artist":
+			{
+				"id": "IW7O8E7F",
+				"name": "CUKAK",
+				"link": "/nghe-si/CUKAK",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/a/b/c/fabcffe864c90a33221b4809a6d1eb2e.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 19
+		},
+		{
+			"id": "ZO0IOAZI",
+			"name": "Cứ Thế Rời Xa (Remix)",
+			"title": "Cứ Thế Rời Xa (Remix)",
+			"code": "kHcmyLHxSNzgkiByntDmLGyLClCQgQdnd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6ZU6EFWB",
+			"artists": [
+			{
+				"name": "Yến Tattoo",
+				"link": "/nghe-si/Cu-The-Roi-Xa-Remix-Yen-Tattoo"
+			}],
+			"artists_names": "Yến Tattoo",
+			"performer": "Yến Tattoo",
+			"type": "audio",
+			"link": "/bai-hat/Cu-The-Roi-Xa-Remix-Yen-Tattoo/ZO0IOAZI.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/a/3/7/0/a370704f6966cdd0d8b8a4ebdf11111f.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/1/5/4/9154d104178911ba28ba43cedc056742.jpg?fs=MTY0NjU1NDUwMzA4MHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 185,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/05dc10b9a7fe4ea017ef/4050898878987366740?authen=exp=1646727303~acl=/05dc10b9a7fe4ea017ef/*~hmac=433efd3927b492fd1a0cdb903b4efb85&fs=MTY0NjU1NDUwMzA4MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6ZU6EFWB",
+				"link": "/album/Cu-The-Roi-Xa-Remix-Single-Yen-Tattoo/6ZU6EFWB.html",
+				"title": "Cứ Thế Rời Xa (Remix) (Single)",
+				"name": "Cứ Thế Rời Xa (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Yến Tattoo",
+				"artists": [
+				{
+					"name": "Yến Tattoo",
+					"link": "/nghe-si/Yen-Tattoo"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/d/9/d/6/d9d67250ec27c07f03a0b878f3e8341c.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/9/d/6/d9d67250ec27c07f03a0b878f3e8341c.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZA80I8",
+				"name": "Yến Tattoo",
+				"link": "/nghe-si/Yen-Tattoo",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/e/d/0/0ed00c66155c6cfedc02765ac3246732.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 20
+		},
+		{
+			"id": "ZUC7976W",
+			"name": "Tell Ur Mom II (Gii x Hiderway Remake)",
+			"title": "Tell Ur Mom II (Gii x Hiderway Remake)",
+			"code": "kmcHtkZkSWvBdgFTnTbHLntkgShpgQBnd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "69BI6EAF",
+			"artists": [
+			{
+				"name": "Gii",
+				"link": "/nghe-si/Tell-Ur-Mom-II-Gii-x-Hiderway-Remake-Gii-Hiderway"
+			}],
+			"artists_names": "Gii, Hiderway",
+			"performer": "Gii, Hiderway",
+			"type": "audio",
+			"link": "/bai-hat/Tell-Ur-Mom-II-Gii-x-Hiderway-Remake-Gii-Hiderway/ZUC7976W.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/f/4/7/b/f47bdf0141e92e6b924b8dcedaf9501a.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/1/4/f/614f7e969967aa02cacc2d19c9bca00e.jpg?fs=MTY0NjU1NDUwMzA4M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 216,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/998f24452e04c75a9e15/8859841496713178965?authen=exp=1646727303~acl=/998f24452e04c75a9e15/*~hmac=30145b46ea0cd884b793a86126b187ef&fs=MTY0NjU1NDUwMzA4NXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "69BI6EAF",
+				"link": "/album/Tell-Ur-Mom-II-Gii-x-Hiderway-Remake-Single-Gii-Hiderway/69BI6EAF.html",
+				"title": "Tell Ur Mom II (Gii x Hiderway Remake) (Single)",
+				"name": "Tell Ur Mom II (Gii x Hiderway Remake) (Single)",
+				"isoffical": true,
+				"artists_names": "Gii, Hiderway",
+				"artists": [
+				{
+					"name": "Gii",
+					"link": "/nghe-si/Gii-Hiderway"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/6/1/4/f/614f7e969967aa02cacc2d19c9bca00e.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/1/4/f/614f7e969967aa02cacc2d19c9bca00e.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6AZF9C",
+				"name": "Gii",
+				"link": "/nghe-si/Gii",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/7/9/c/579c18c0d8aa7414455bf3c996b10f57.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 21
+		},
+		{
+			"id": "ZUW9E6U7",
+			"name": "Lỗi Tại Anh - Remix By Orinn",
+			"title": "Lỗi Tại Anh - Remix By Orinn",
+			"code": "ZGxmyZkHzZxcxskyGtFHkHyLClhWhQdHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "68B8BZWI",
+			"artists": [
+			{
+				"name": "Alex Lam",
+				"link": "/nghe-si/Loi-Tai-Anh-Remix-By-Orinn-Alex-Lam-Orinn"
+			}],
+			"artists_names": "Alex Lam, Orinn",
+			"performer": "Alex Lam, Orinn",
+			"type": "audio",
+			"link": "/bai-hat/Loi-Tai-Anh-Remix-By-Orinn-Alex-Lam-Orinn/ZUW9E6U7.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/3/3/2/c/332cc42f1ea67fe9c8949fb39eb6cec8.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/8/1/e/381e632e087bce3ee54d0a9047d962bf.jpg?fs=MTY0NjU1NDUwMzA4N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 231,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/1bccf54c7c0a9554cc1b/68151317433311910?authen=exp=1646727303~acl=/1bccf54c7c0a9554cc1b/*~hmac=ad1e65c4a979ad0b556f73c92ba18831&fs=MTY0NjU1NDUwMzA4OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "68B8BZWI",
+				"link": "/album/Loi-Tai-Anh-Remixes-EP-Alex-Lam/68B8BZWI.html",
+				"title": "Lỗi Tại Anh (Remixes EP)",
+				"name": "Lỗi Tại Anh (Remixes EP)",
+				"isoffical": true,
+				"artists_names": "Alex Lam",
+				"artists": [
+				{
+					"name": "Alex Lam",
+					"link": "/nghe-si/Alex-Lam"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/6/4/7/f/647f6faf1f6f2951bb1aef7b63beb5a5.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/4/7/f/647f6faf1f6f2951bb1aef7b63beb5a5.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZA6EF6",
+				"name": "Alex Lam",
+				"link": "/nghe-si/Alex-Lam",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/9/8/4/59842ee0a32951610e5d0b9c2514b98a.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 22
+		},
+		{
+			"id": "ZWB0E6IZ",
+			"name": "Vì Yêu Cứ Đâm Đầu (DJ DSmall Remix)",
+			"title": "Vì Yêu Cứ Đâm Đầu (DJ DSmall Remix)",
+			"code": "ZnJHyLnsRScLazEyHybnZntLXlgQXQdHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZF70FIUB",
+			"artists": [
+			{
+				"name": "DJ DSmall",
+				"link": "/nghe-si/Vi-Yeu-Cu-Dam-Dau-DJ-DSmall-Remix-DJ-DSmall"
+			}],
+			"artists_names": "DJ DSmall",
+			"performer": "DJ DSmall",
+			"type": "audio",
+			"link": "/bai-hat/Vi-Yeu-Cu-Dam-Dau-DJ-DSmall-Remix-DJ-DSmall/ZWB0E6IZ.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/6/2/2/0/622079bf3c32a42edbe6274fb4de4f9d.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/c/6/8/8c686e0baae0a501960f0457d49c4ce0.jpg?fs=MTY0NjU1NDUwMzA5Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 259,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/22144b665621bf7fe630/4290005659373560516?authen=exp=1646727303~acl=/22144b665621bf7fe630/*~hmac=72630937df22eb330699d090c80d776b&fs=MTY0NjU1NDUwMzA5M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZF70FIUB",
+				"link": "/album/Vi-Yeu-Cu-Dam-Dau-DJ-DSmall-Remix-Single-DJ-DSmall/ZF70FIUB.html",
+				"title": "Vì Yêu Cứ Đâm Đầu (DJ DSmall Remix) (Single)",
+				"name": "Vì Yêu Cứ Đâm Đầu (DJ DSmall Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "DJ DSmall",
+				"artists": [
+				{
+					"name": "DJ DSmall",
+					"link": "/nghe-si/DJ-DSmall"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/8/c/6/8/8c686e0baae0a501960f0457d49c4ce0.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/c/6/8/8c686e0baae0a501960f0457d49c4ce0.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAUEB9",
+				"name": "DJ DSmall",
+				"link": "/nghe-si/DJ-DSmall",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/1/9/d/319d928cec62d6acee4c71bd6e4e191e.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 23
+		},
+		{
+			"id": "ZWBWCCE0",
+			"name": "Cứ Ngỡ Là Anh (EDM Version)",
+			"title": "Cứ Ngỡ Là Anh (EDM Version)",
+			"code": "LHcmykHsihGhdhcTGyFmLntLgzXpCpBGB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "60ZF0O98",
+			"artists": [
+			{
+				"name": "Đinh Tùng Huy",
+				"link": "/nghe-si/Cu-Ngo-La-Anh-EDM-Version-Dinh-Tung-Huy-ACV"
+			}],
+			"artists_names": "Đinh Tùng Huy, ACV",
+			"performer": "Đinh Tùng Huy, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Cu-Ngo-La-Anh-EDM-Version-Dinh-Tung-Huy-ACV/ZWBWCCE0.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/9/2/d/5/92d5c2758e0772fb9b5ee922fad57ccd.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/a/f/f/9/aff90288733fd36379797b064520b07d.jpg?fs=MTY0NjU1NDUwMzA5Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 294,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/470d34422105c85b9114/6661973040907658796?authen=exp=1646727303~acl=/470d34422105c85b9114/*~hmac=a7e87f3404f285b4818071cb6e11427d&fs=MTY0NjU1NDUwMzA5OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "60ZF0O98",
+				"link": "/album/Cu-Ngo-La-Anh-EDM-Version-Single-Dinh-Tung-Huy-ACV/60ZF0O98.html",
+				"title": "Cứ Ngỡ Là Anh (EDM Version) (Single)",
+				"name": "Cứ Ngỡ Là Anh (EDM Version) (Single)",
+				"isoffical": true,
+				"artists_names": "Đinh Tùng Huy, ACV",
+				"artists": [
+				{
+					"name": "Đinh Tùng Huy",
+					"link": "/nghe-si/Dinh-Tung-Huy-ACV"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/4/a/1/c/4a1cd7f2d4376e1aeff1726a7373430b.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/4/a/1/c/4a1cd7f2d4376e1aeff1726a7373430b.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZA6F8I",
+				"name": "Đinh Tùng Huy",
+				"link": "/nghe-si/Dinh-Tung-Huy",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/0/b/2/1/0b21e78752d9d94935a3c5bf62be9049.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/d/a/9/5da92b54155ac844f9dac366057cbcde.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 24
+		},
+		{
+			"id": "ZUUW78WF",
+			"name": "Khi Em Lớn (Remix)",
+			"title": "Khi Em Lớn (Remix)",
+			"code": "ZHJHtZkHQaRRnxNyGybmknTkCzhWXQdHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "68E6988O",
+			"artists": [
+			{
+				"name": "Orange",
+				"link": "/nghe-si/Khi-Em-Lon-Remix-Orange-D-A"
+			}],
+			"artists_names": "Orange, D.A",
+			"performer": "Orange, D.A",
+			"type": "audio",
+			"link": "/bai-hat/Khi-Em-Lon-Remix-Orange-D-A/ZUUW78WF.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/a/2/a/ba2a3435e6259b6931c8deebae9dcaf5.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/3/1/6/0316839c1e9fe407cfc300292d46bc20.jpg?fs=MTY0NjU1NDUwMzEwMHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 338,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/bd03bfcb748d9dd3c49c/7776374782437838847?authen=exp=1646727303~acl=/bd03bfcb748d9dd3c49c/*~hmac=8516fa0e051a80fa028efccdacd85e47&fs=MTY0NjU1NDUwMzEwMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "68E6988O",
+				"link": "/album/Khi-Em-Lon-Remix-Single-Orange-D-A/68E6988O.html",
+				"title": "Khi Em Lớn (Remix) (Single)",
+				"name": "Khi Em Lớn (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Orange, D.A",
+				"artists": [
+				{
+					"name": "Orange",
+					"link": "/nghe-si/Orange-D-A"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/e/0/9/4/e094acf465a8d11fe0c552e8157d073f.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/e/0/9/4/e094acf465a8d11fe0c552e8157d073f.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZFFWB7",
+				"name": "Orange",
+				"link": "/nghe-si/Orange",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/9/e/d/39ed525c77c66c0e5556e0378ebbbc56.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 25
+		},
+		{
+			"id": "ZUZBC0EU",
+			"name": "Nếu Em Không Hạnh Phúc (EDM Version)",
+			"title": "Nếu Em Không Hạnh Phúc (EDM Version)",
+			"code": "ZmcHtZZHalQhkmHyHybHkmyZCShQXQdHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6900O607",
+			"artists": [
+			{
+				"name": "Long Hải",
+				"link": "/nghe-si/Neu-Em-Khong-Hanh-Phuc-EDM-Version-Long-Hai"
+			}],
+			"artists_names": "Long Hải",
+			"performer": "Long Hải",
+			"type": "audio",
+			"link": "/bai-hat/Neu-Em-Khong-Hanh-Phuc-EDM-Version-Long-Hai/ZUZBC0EU.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2/2/a/d/22ad16225a998f3ecdb534aa5b64ed51.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/2/5/7/8257f844cfa70ed4053d2ad646106da7.jpg?fs=MTY0NjU1NDUwMzEwNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 190,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/fe91575b7f1a9644cf0b/4928225649389616406?authen=exp=1646727303~acl=/fe91575b7f1a9644cf0b/*~hmac=750582386e4c6df2aa3a5945200b33c9&fs=MTY0NjU1NDUwMzEwNXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6900O607",
+				"link": "/album/Neu-Em-Khong-Hanh-Phuc-Remix-Long-Hai/6900O607.html",
+				"title": "Nếu Em Không Hạnh Phúc Remix",
+				"name": "Nếu Em Không Hạnh Phúc Remix",
+				"isoffical": true,
+				"artists_names": "Long Hải",
+				"artists": [
+				{
+					"name": "Long Hải",
+					"link": "/nghe-si/Long-Hai"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/8/2/5/7/8257f844cfa70ed4053d2ad646106da7.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/2/5/7/8257f844cfa70ed4053d2ad646106da7.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAZB6A",
+				"name": "Long Hải",
+				"link": "/nghe-si/Dao-Duc-Vuong",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/2/72d0126dd748d553d4feb3a3956c9584_1511583568.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/7/a/b/a7abcdfdffef816c1639c7dc43dc28be.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 26
+		},
+		{
+			"id": "ZO9DAACI",
+			"name": "2 Phút Hơn",
+			"title": "2 Phút Hơn",
+			"code": "knxmyLmuluRcQudtGyFnkHtkhSgWhQdGV",
+			"content_owner": 10092,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "676888UZ",
+			"artists": [
+			{
+				"name": "Pháo",
+				"link": "/nghe-si/2-Phut-Hon-Phao-Mouse-T-Wack"
+			}],
+			"artists_names": "Pháo, Mouse T, Wack",
+			"performer": "Pháo, Mouse T, Wack",
+			"type": "audio",
+			"link": "/bai-hat/2-Phut-Hon-Phao-Mouse-T-Wack/ZO9DAACI.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/0/6/f/f/06ff0c82fe3869f934183955c52c9746.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/4/4/7/7447e0362453ab71ad18f3fab434e31b.jpg?fs=MTY0NjU1NDUwMzEwOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/2-Phut-Hon-Phao-Mouse-T-Wack/ZO9DAACI.html",
+			"duration": 153,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/3e68fc430d04e45abd15/1182770788178323515?authen=exp=1646727303~acl=/3e68fc430d04e45abd15/*~hmac=3418866badfdb7323003353b3aef85ea&fs=MTY0NjU1NDUwMzEwOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "676888UZ",
+				"link": "/album/2-Phut-Hon-Single-Phao-Wack/676888UZ.html",
+				"title": "2 Phút Hơn (Single)",
+				"name": "2 Phút Hơn (Single)",
+				"isoffical": true,
+				"artists_names": "Pháo, Wack",
+				"artists": [
+				{
+					"name": "Pháo",
+					"link": "/nghe-si/Phao-Wack"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/a/5/6/8/a5687aa02dd404d0a9442d5976ec428e.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/a/5/6/8/a5687aa02dd404d0a9442d5976ec428e.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6Z87FU",
+				"name": "Pháo",
+				"link": "/nghe-si/Phao",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/3/5/b/c35bdf095089891beef186830dd6a3e7.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 27
+		},
+		{
+			"id": "ZWBU8EUF",
+			"name": "Mình Từ Nghèo Khó Đi Lên",
+			"title": "Mình Từ Nghèo Khó Đi Lên",
+			"code": "LmJGtkHsisDkSbVtGyFHLmyLhzhWXpBHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6IOI00C6",
+			"artists": [
+			{
+				"name": "Lưu Chấn Long",
+				"link": "/nghe-si/Minh-Tu-Ngheo-Kho-Di-Len-Luu-Chan-Long"
+			}],
+			"artists_names": "Lưu Chấn Long",
+			"performer": "Lưu Chấn Long",
+			"type": "audio",
+			"link": "/bai-hat/Minh-Tu-Ngheo-Kho-Di-Len-Luu-Chan-Long/ZWBU8EUF.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/a/0/6/e/a06e732d07593edbecc2701e77eec9ab.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/b/2/9/7b290bdefd72e49f638ffc97c32b11b7.jpg?fs=MTY0NjU1NDUwMzExMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 290,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/53077e0b6d4c8412dd5d/7484286337515384440?authen=exp=1646727303~acl=/53077e0b6d4c8412dd5d/*~hmac=95aa015e0edf4e1e07286e500ba99ba7&fs=MTY0NjU1NDUwMzExM3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6IOI00C6",
+				"link": "/album/Minh-Tu-Ngheo-Kho-Di-Len-Single-Luu-Chan-Long/6IOI00C6.html",
+				"title": "Mình Từ Nghèo Khó Đi Lên (Single)",
+				"name": "Mình Từ Nghèo Khó Đi Lên (Single)",
+				"isoffical": true,
+				"artists_names": "Lưu Chấn Long",
+				"artists": [
+				{
+					"name": "Lưu Chấn Long",
+					"link": "/nghe-si/Luu-Chan-Long"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/5/d/5/0/5d50fae38f4728c0e99d947e1983317c.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/d/5/0/5d50fae38f4728c0e99d947e1983317c.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAWUFZ",
+				"name": "Lưu Chấn Long",
+				"link": "/nghe-si/Luu-Chan-Long",
+				"cover": "https://photo-zmp3.zadn.vn/cover3_artist/d/1/d19b3614a5210a6b0924a212d47e45e2_1464680599.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/1/d19b3614a5210a6b0924a212d47e45e2_1464680592.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 28
+		},
+		{
+			"id": "ZUCOZW0A",
+			"name": "Em Nào Có Tội (EDM)",
+			"title": "Em Nào Có Tội (EDM)",
+			"code": "LmxHtkkkSDSdAhCTGtvnLnTkhSXpCQVnd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Thương Võ",
+				"link": "/nghe-si/Em-Nao-Co-Toi-EDM-Thuong-Vo"
+			}],
+			"artists_names": "Thương Võ",
+			"performer": "Thương Võ",
+			"type": "audio",
+			"link": "/bai-hat/Em-Nao-Co-Toi-EDM-Thuong-Vo/ZUCOZW0A.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/6/7/1/e/671e7cd73ecb93aeb7f41d411b7b862b.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/9/b/8/9/9b89b2a594d805de75eeb1ce0547fff8.jpg?fs=MTY0NjU1NDUwMzExNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 291,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/22d79c4195007c5e2511/1544023464946934261?authen=exp=1646727303~acl=/22d79c4195007c5e2511/*~hmac=808eccb049117aae27c21d8870c5d784&fs=MTY0NjU1NDUwMzExN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZFEZIC",
+				"name": "Thương Võ",
+				"link": "/nghe-si/Thuong-Vo",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/b/8/9/9b89b2a594d805de75eeb1ce0547fff8.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 29
+		},
+		{
+			"id": "ZUOZ0OFA",
+			"name": "Rượu Đầy Tràn Ly (K-ICM Remix)",
+			"title": "Rượu Đầy Tràn Ly (K-ICM Remix)",
+			"code": "LnxGTkLHzRLNVNmymtvHkHtLCzCQhpBGd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "68CAAZAW",
+			"artists": [
+			{
+				"name": "DJ KUTI",
+				"link": "/nghe-si/Ruou-Day-Tran-Ly-K-ICM-Remix-DJ-KUTI-RYO-K-ICM"
+			}],
+			"artists_names": "DJ KUTI, RYO, K-ICM",
+			"performer": "DJ KUTI, RYO, K-ICM",
+			"type": "audio",
+			"link": "/bai-hat/Ruou-Day-Tran-Ly-K-ICM-Remix-DJ-KUTI-RYO-K-ICM/ZUOZ0OFA.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/7/3/d/1/73d1ea3f9519fd6d85489593c2bd5876.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/6/2/2/7622a12485df74d93a0af904654ce490.jpg?fs=MTY0NjU1NDUwMzExOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 201,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/8fc1b2be56f8bfa6e6e9/1681626333419663030?authen=exp=1646727303~acl=/8fc1b2be56f8bfa6e6e9/*~hmac=c728c560b7c2bc1f19bbb56882c648c4&fs=MTY0NjU1NDUwMzExOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "68CAAZAW",
+				"link": "/album/Ruou-Day-Tran-Ly-Single-DJ-KUTI-RYO/68CAAZAW.html",
+				"title": "Rượu Đầy Tràn Ly (Single)",
+				"name": "Rượu Đầy Tràn Ly (Single)",
+				"isoffical": true,
+				"artists_names": "DJ KUTI, RYO",
+				"artists": [
+				{
+					"name": "DJ KUTI",
+					"link": "/nghe-si/DJ-KUTI-RYO"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/2/8/b/b/28bbdade3b1872dcf941f3218ba83dbb.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/8/b/b/28bbdade3b1872dcf941f3218ba83dbb.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6FAICC",
+				"name": "DJ KUTI",
+				"link": "/nghe-si/DJ-KUTI",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/2/3/5/52352b59a8864b2d5218f7d177b0dfec.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 30
+		},
+		{
+			"id": "ZO9U7IFF",
+			"name": "Trò Chơi (Dsmall Remix)",
+			"title": "Trò Chơi (Dsmall Remix)",
+			"code": "ZnJmtknEAViSDdEymyvHkmykCzgWhpdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "67Z760O6",
+			"artists": [
+			{
+				"name": "DJ DSmall",
+				"link": "/nghe-si/Tro-Choi-Dsmall-Remix-DJ-DSmall-SOOBIN"
+			}],
+			"artists_names": "DJ DSmall, SOOBIN",
+			"performer": "DJ DSmall, SOOBIN",
+			"type": "audio",
+			"link": "/bai-hat/Tro-Choi-Dsmall-Remix-DJ-DSmall-SOOBIN/ZO9U7IFF.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/9/b/b/d/9bbd2ca1f02ad2748055fc7950c35940.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/6/4/c/d64cd010262462845d2c9f0124ef6a6c.jpg?fs=MTY0NjU1NDUwMzEyMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 206,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/35da6751e7160e485707/571172444338753100?authen=exp=1646727303~acl=/35da6751e7160e485707/*~hmac=c61dd22c3b01db106348f41df480d48b&fs=MTY0NjU1NDUwMzEyM3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "67Z760O6",
+				"link": "/album/Tro-Choi-Dsmall-Remix-Single-DJ-DSmall-SOOBIN/67Z760O6.html",
+				"title": "Trò Chơi (Dsmall Remix) (Single)",
+				"name": "Trò Chơi (Dsmall Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "DJ DSmall, SOOBIN",
+				"artists": [
+				{
+					"name": "DJ DSmall",
+					"link": "/nghe-si/DJ-DSmall-SOOBIN"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/d/6/4/c/d64cd010262462845d2c9f0124ef6a6c.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/6/4/c/d64cd010262462845d2c9f0124ef6a6c.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAUEB9",
+				"name": "DJ DSmall",
+				"link": "/nghe-si/DJ-DSmall",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/1/9/d/319d928cec62d6acee4c71bd6e4e191e.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 31
+		},
+		{
+			"id": "ZUCEBAO9",
+			"name": "Buồn Nhẹ Nhàng Thôi",
+			"title": "Buồn Nhẹ Nhàng Thôi",
+			"code": "ZHcHtLLkSuiZmddtGyDGZHtkhSXWgWBnV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "S9BB87CB",
+			"artists": [
+			{
+				"name": "Khoi Vu",
+				"link": "/nghe-si/Buon-Nhe-Nhang-Thoi-Khoi-Vu-Masew"
+			}],
+			"artists_names": "Khoi Vu, Masew",
+			"performer": "Khoi Vu, Masew",
+			"type": "audio",
+			"link": "/bai-hat/Buon-Nhe-Nhang-Thoi-Khoi-Vu-Masew/ZUCEBAO9.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2/a/d/e/2ade3a2fbb295d75b65c162748e8164a.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/7/f/5/47f5d29085fa3316fb0fa791f95216b7.jpg?fs=MTY0NjU1NDUwMzEyNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 185,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/2591cb4dcf0c26527f1d/148937345444883050?authen=exp=1646727303~acl=/2591cb4dcf0c26527f1d/*~hmac=10feb3670ddef8df9c4d68d105394049&fs=MTY0NjU1NDUwMzEyN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "S9BB87CB",
+				"link": "/album/Buon-Nhe-Nhang-Thoi-Single-Khoi-Vu-Masew/S9BB87CB.html",
+				"title": "Buồn Nhẹ Nhàng Thôi (Single)",
+				"name": "Buồn Nhẹ Nhàng Thôi (Single)",
+				"isoffical": true,
+				"artists_names": "Khoi Vu, Masew",
+				"artists": [
+				{
+					"name": "Khoi Vu",
+					"link": "/nghe-si/Khoi-Vu-Masew"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/9/7/0/4/97042c97a95a9a21b60e3f067017d9da.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/7/0/4/97042c97a95a9a21b60e3f067017d9da.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6ZBOWA",
+				"name": "Khoi Vu",
+				"link": "/nghe-si/Khoi-Vu",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/c/c/0/2cc00fecd124a02a20c3da39b82def4b.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 32
+		},
+		{
+			"id": "ZWBIOEC6",
+			"name": "Anh Vui Là Được (Remix)",
+			"title": "Anh Vui Là Được (Remix)",
+			"code": "ZGcGTLGsEQmzSpSTHTFnkGTLCSCQCQdnV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZF9E0F79",
+			"artists": [
+			{
+				"name": "Kim Ny Ngọc",
+				"link": "/nghe-si/Anh-Vui-La-Duoc-Remix-Kim-Ny-Ngoc"
+			}],
+			"artists_names": "Kim Ny Ngọc",
+			"performer": "Kim Ny Ngọc",
+			"type": "audio",
+			"link": "/bai-hat/Anh-Vui-La-Duoc-Remix-Kim-Ny-Ngoc/ZWBIOEC6.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/a/2/f/d/a2fdb1f0dc0d10561745b74faa780485.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/7/0/8/5708c8706c75db5e6b19416508ca0b9a.jpg?fs=MTY0NjU1NDUwMzEzMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 337,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/d64f794a670d8e53d71c/1942250659139394640?authen=exp=1646727303~acl=/d64f794a670d8e53d71c/*~hmac=c45a15debfe0d2b1a00881f5e805d7a0&fs=MTY0NjU1NDUwMzEzMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZF9E0F79",
+				"link": "/album/Anh-Vui-La-Duoc-Remix-Single-Kim-Ny-Ngoc/ZF9E0F79.html",
+				"title": "Anh Vui Là Được (Remix) (Single)",
+				"name": "Anh Vui Là Được (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Kim Ny Ngọc",
+				"artists": [
+				{
+					"name": "Kim Ny Ngọc",
+					"link": "/nghe-si/Kim-Ny-Ngoc"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/5/7/0/8/5708c8706c75db5e6b19416508ca0b9a.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/7/0/8/5708c8706c75db5e6b19416508ca0b9a.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZA0I0U",
+				"name": "Kim Ny Ngọc",
+				"link": "/nghe-si/Kim-Ny-Ngoc",
+				"cover": "https://photo-zmp3.zadn.vn/cover3_artist/a/d/adddc1d708b5361372cb3d80c8145fdb_1468204142.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/1/7121883aadcdad2230a7609785a10f3b_1468204133.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 33
+		},
+		{
+			"id": "ZWBE8UZ9",
+			"name": "Anh Chưa Đủ Tư Cách (Remix)",
+			"title": "Anh Chưa Đủ Tư Cách (Remix)",
+			"code": "ZHcmyLmxmVNSFddyGybmLGyZClgpCWdHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6I8I9DC7",
+			"artists": [
+			{
+				"name": "Lý Tuấn Kiệt",
+				"link": "/nghe-si/Anh-Chua-Du-Tu-Cach-Remix-Ly-Tuan-Kiet-Fireprox"
+			}],
+			"artists_names": "Lý Tuấn Kiệt, Fireprox",
+			"performer": "Lý Tuấn Kiệt, Fireprox",
+			"type": "audio",
+			"link": "/bai-hat/Anh-Chua-Du-Tu-Cach-Remix-Ly-Tuan-Kiet-Fireprox/ZWBE8UZ9.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/4/c/6/0/4c601c28b9b8af4a58859e449b48863e.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/a/7/f/1a7f7f12c85aa3b6fd653f31b2feea66.jpg?fs=MTY0NjU1NDUwMzEzNXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 222,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/1ae0ab13d154380a6145/7805165201949064165?authen=exp=1646727303~acl=/1ae0ab13d154380a6145/*~hmac=92b00bf419ca7783502b22cc2558e2b8&fs=MTY0NjU1NDUwMzEzNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6I8I9DC7",
+				"link": "/album/Anh-Chua-Du-Tu-Cach-Remix-Single-Ly-Tuan-Kiet-Fireprox/6I8I9DC7.html",
+				"title": "Anh Chưa Đủ Tư Cách (Remix) (Single)",
+				"name": "Anh Chưa Đủ Tư Cách (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Lý Tuấn Kiệt, Fireprox",
+				"artists": [
+				{
+					"name": "Lý Tuấn Kiệt",
+					"link": "/nghe-si/Ly-Tuan-Kiet-Fireprox"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/a/1/3/d/a13dfa07cbd5e27574c2d2201a3bd7f7.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/a/1/3/d/a13dfa07cbd5e27574c2d2201a3bd7f7.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ980FB",
+				"name": "Lý Tuấn Kiệt",
+				"link": "/nghe-si/Ly-Tuan-Kiet-HKT",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/e/f/0/2/ef02b2926714963c27d77223352b0229.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/2/c270eb7dd0e8b6b2e46e7b8efb3a1362_1476788724.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 34
+		},
+		{
+			"id": "ZWBO98E0",
+			"name": "Một Giấc Mộng Xưa (Remix)",
+			"title": "Một Giấc Mộng Xưa (Remix)",
+			"code": "ZHJGtkGsRhpJWRDyntvnkmykCSXWhpBmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "60EAB8EW",
+			"artists": [
+			{
+				"name": "Gia Huy Singer",
+				"link": "/nghe-si/Mot-Giac-Mong-Xua-Remix-Gia-Huy-Singer"
+			}],
+			"artists_names": "Gia Huy Singer",
+			"performer": "Gia Huy Singer",
+			"type": "audio",
+			"link": "/bai-hat/Mot-Giac-Mong-Xua-Remix-Gia-Huy-Singer/ZWBO98E0.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/4/5/1/a/451a70589f0d74bea3dc3dd653bbff0b.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/9/5/8/69581b8352bff66daf89b6aa1595b35e.jpg?fs=MTY0NjU1NDUwMzE0MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 154,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/665611c70080e9deb091/6542363597391168887?authen=exp=1646727303~acl=/665611c70080e9deb091/*~hmac=85724563979a05b5abc5bad91a985d14&fs=MTY0NjU1NDUwMzE0Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "60EAB8EW",
+				"link": "/album/Mot-Giac-Mong-Xua-Remix-Single-Gia-Huy-Singer/60EAB8EW.html",
+				"title": "Một Giấc Mộng Xưa (Remix) (Single)",
+				"name": "Một Giấc Mộng Xưa (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Gia Huy Singer",
+				"artists": [
+				{
+					"name": "Gia Huy Singer",
+					"link": "/nghe-si/Gia-Huy-Singer"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/6/9/5/8/69581b8352bff66daf89b6aa1595b35e.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/9/5/8/69581b8352bff66daf89b6aa1595b35e.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZFE9DB",
+				"name": "Gia Huy Singer",
+				"link": "/nghe-si/Gia-Huy-Singer",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/f/5/f599ba62b60cdf605d6d91e58a21b61b_1508378442.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/9/1984d81195fd84b347d2550270a5eee0_1507260216.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 35
+		},
+		{
+			"id": "ZWCOE0E8",
+			"name": "Bigcityboi (DJ DSmall Remix)",
+			"title": "Bigcityboi (DJ DSmall Remix)",
+			"code": "kncmykHxmsFpCHJTnTbHkHTZCSXWgQVmV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6IC9UBC6",
+			"artists": [
+			{
+				"name": "DJ DSmall",
+				"link": "/nghe-si/Bigcityboi-DJ-DSmall-Remix-DJ-DSmall-Binz-Touliver"
+			}],
+			"artists_names": "DJ DSmall, Binz, Touliver",
+			"performer": "DJ DSmall, Binz, Touliver",
+			"type": "audio",
+			"link": "/bai-hat/Bigcityboi-DJ-DSmall-Remix-DJ-DSmall-Binz-Touliver/ZWCOE0E8.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2/e/e/3/2ee3010e44e425892b44f2423e54e6de.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/d/7/6/bd76ef2f3d8d685cd8f506b6d31c1f3b.jpg?fs=MTY0NjU1NDUwMzE0NXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 253,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/a29319f070b799e9c0a6/8731061287988108434?authen=exp=1646727303~acl=/a29319f070b799e9c0a6/*~hmac=480241d9a910c88b63132a5a3da0fd69&fs=MTY0NjU1NDUwMzE0Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6IC9UBC6",
+				"link": "/album/Bigcityboi-DJ-DSmall-Remix-Single-DJ-DSmall-Binz-Touliver/6IC9UBC6.html",
+				"title": "Bigcityboi (DJ DSmall Remix) (Single)",
+				"name": "Bigcityboi (DJ DSmall Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "DJ DSmall, Binz, Touliver",
+				"artists": [
+				{
+					"name": "DJ DSmall",
+					"link": "/nghe-si/DJ-DSmall-Binz-Touliver"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/b/d/7/6/bd76ef2f3d8d685cd8f506b6d31c1f3b.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/d/7/6/bd76ef2f3d8d685cd8f506b6d31c1f3b.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAUEB9",
+				"name": "DJ DSmall",
+				"link": "/nghe-si/DJ-DSmall",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/1/9/d/319d928cec62d6acee4c71bd6e4e191e.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 36
+		},
+		{
+			"id": "ZWBUOFBW",
+			"name": "Năm Tháng Ấy (Remix)",
+			"title": "Năm Tháng Ấy (Remix)",
+			"code": "LmJmyLmsENmZbixtntbGLnyZhShphWBHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Green",
+				"link": "/nghe-si/Nam-Thang-Ay-Remix-Green"
+			}],
+			"artists_names": "Green",
+			"performer": "Green",
+			"type": "audio",
+			"link": "/bai-hat/Nam-Thang-Ay-Remix-Green/ZWBUOFBW.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/e/2/2/be22f0e79b8916bb1a44f5754f6b2f78.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/f/e/2/8fe22004ac107cdcc49fa02b5fe57def.jpg?fs=MTY0NjU1NDUwMzE0OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 235,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/61eb5728446fad31f47e/7427248323988208437?authen=exp=1646727303~acl=/61eb5728446fad31f47e/*~hmac=4f483cd36f620f177952169ca3a0173a&fs=MTY0NjU1NDUwMzE1MHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6ZBFA9",
+				"name": "Green",
+				"link": "/nghe-si/Tran-Van-Dong",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/0/d/d/70dd176de247d0bdb3fb676f410ddd7b.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 37
+		},
+		{
+			"id": "ZWBOUAUE",
+			"name": "Chiếc Khăn Gió Ấm (EDM Version)",
+			"title": "Chiếc Khăn Gió Ấm (EDM Version)",
+			"code": "ZnxmyZHsEhBxlNxyHyDHknyLhzhQCpdHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Hương Ly",
+				"link": "/nghe-si/Chiec-Khan-Gio-Am-EDM-Version-Huong-Ly-ACV"
+			}],
+			"artists_names": "Hương Ly, ACV",
+			"performer": "Hương Ly, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Chiec-Khan-Gio-Am-EDM-Version-Huong-Ly-ACV/ZWBOUAUE.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/d/e/6/bde6c5247f929cfc5abf6e944f1af2b4.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/5/e/3/2/5e322024f707148e51c0591591f0ee38.jpg?fs=MTY0NjU1NDUwMzE1MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 238,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/2b42bd41ad0644581d17/5261716659536386068?authen=exp=1646727303~acl=/2b42bd41ad0644581d17/*~hmac=316f036ab843bbb3aeeaff8588791faa&fs=MTY0NjU1NDUwMzE1MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6ZO9UB",
+				"name": "Hương Ly",
+				"link": "/nghe-si/Nguyen-Huong-Ly",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/c/b/3/4cb3cc5a19be786f0771ba8e2c530828.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 38
+		},
+		{
+			"id": "ZZZO69ZF",
+			"name": "Gái Độc Thân (Remix)",
+			"title": "Gái Độc Thân (Remix)",
+			"code": "kHxmtZZFdhxggFBTnyFGkHtZCzCphpVmV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6AC8DOE7",
+			"artists": [
+			{
+				"name": "tlinh",
+				"link": "/nghe-si/Gai-Doc-Than-Remix-tlinh-2Pillz-Teddy-Doox"
+			}],
+			"artists_names": "tlinh, 2Pillz, Teddy Doox",
+			"performer": "tlinh, 2Pillz, Teddy Doox",
+			"type": "audio",
+			"link": "/bai-hat/Gai-Doc-Than-Remix-tlinh-2Pillz-Teddy-Doox/ZZZO69ZF.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/f/5/d/a/f5da972f306c90f3f1ffff27e9d5c8de.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/d/1/1/0d112931fd994e82200df400d1dc58dc.jpg?fs=MTY0NjU1NDUwMzE1Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 197,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/a33725454a04a35afa15/8948959072550900992?authen=exp=1646727303~acl=/a33725454a04a35afa15/*~hmac=41cbbee90bea320f06cc565925cd7334&fs=MTY0NjU1NDUwMzE1M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6AC8DOE7",
+				"link": "/album/Gai-Doc-Than-Remix-Single-tlinh-2Pillz-Teddy-Doox/6AC8DOE7.html",
+				"title": "Gái Độc Thân (Remix) (Single)",
+				"name": "Gái Độc Thân (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "tlinh, 2Pillz, Teddy Doox",
+				"artists": [
+				{
+					"name": "tlinh",
+					"link": "/nghe-si/tlinh-2Pillz-Teddy-Doox"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/0/d/1/1/0d112931fd994e82200df400d1dc58dc.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/d/1/1/0d112931fd994e82200df400d1dc58dc.jpg"
+			},
+			"artist":
+			{
+				"id": "IW68Z8DW",
+				"name": "tlinh",
+				"link": "/nghe-si/tlinh",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/1/4/a/314a8227d9f13b9a95ec712d983f841a.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 39
+		},
+		{
+			"id": "ZUBECOEC",
+			"name": "Tình Anh (EDM)",
+			"title": "Tình Anh (EDM)",
+			"code": "ZHxmtkZkdRlziSmymybGLmtkXzgpCpVGB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Đình Dũng",
+				"link": "/nghe-si/Tinh-Anh-EDM-Dinh-Dung"
+			}],
+			"artists_names": "Đình Dũng",
+			"performer": "Đình Dũng",
+			"type": "audio",
+			"link": "/bai-hat/Tinh-Anh-EDM-Dinh-Dung/ZUBECOEC.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/3/b/e/a/3beac7082059946baf520d88c52216ab.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/c/3/d/8/c3d8996c4c5167812bc34ae662553111.jpg?fs=MTY0NjU1NDUwMzE1Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 300,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/c325f29afadb13854aca/3576566747604625338?authen=exp=1646727303~acl=/c325f29afadb13854aca/*~hmac=614c285b29b33daddeac759c2e019600&fs=MTY0NjU1NDUwMzE1N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6UI066",
+				"name": "Đình Dũng",
+				"link": "/nghe-si/Dinh-Dung",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/b/6/3/1/b631245d83a655632e1ac2986f99cc5a.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/3/d/8/c3d8996c4c5167812bc34ae662553111.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 40
+		},
+		{
+			"id": "ZWBUOC68",
+			"name": "Không Thấy Ngày Về Remix 2020",
+			"title": "Không Thấy Ngày Về Remix 2020",
+			"code": "ZGxnTLHsiNnmSphtGtFHZHTZhSgWCWBmV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Lã Phong Lâm",
+				"link": "/nghe-si/Khong-Thay-Ngay-Ve-Remix-2020-La-Phong-Lam"
+			}],
+			"artists_names": "Lã Phong Lâm",
+			"performer": "Lã Phong Lâm",
+			"type": "audio",
+			"link": "/bai-hat/Khong-Thay-Ngay-Ve-Remix-2020-La-Phong-Lam/ZWBUOC68.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/5/5/6/15569bc8ca58cd2de1b653820d9217d6.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/8/0/1/f/801f171b106d9184cc7d761cd1143d42.jpg?fs=MTY0NjU1NDUwMzE1OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 243,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/bfa1b161a2264b781237/987448322375686031?authen=exp=1646727303~acl=/bfa1b161a2264b781237/*~hmac=3eaef52134f38f85ebc93a5e815ed965&fs=MTY0NjU1NDUwMzE2MHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZA6A7Z",
+				"name": "Lã Phong Lâm",
+				"link": "/nghe-si/La-Phong-Lam",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/0/1/f/801f171b106d9184cc7d761cd1143d42.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 41
+		},
+		{
+			"id": "ZUWFDE8C",
+			"name": "Covid Nhanh Đi Đi (Remix)",
+			"title": "Covid Nhanh Đi Đi (Remix)",
+			"code": "kHcmTLknSWxmZHJTntvHLGTkgShpXpBnB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6IBA86DZ",
+			"artists": [
+			{
+				"name": "Nhiều Nghệ Sĩ",
+				"link": "/nghe-si/Covid-Nhanh-Di-Di-Remix-K-ICM-APJ-Huyen-Tam-Mon-CZEE-RYO"
+			}],
+			"artists_names": "K-ICM, APJ, Huyền Tâm Môn, CZEE, RYO",
+			"performer": "K-ICM, APJ, Huyền Tâm Môn, CZEE, RYO",
+			"type": "audio",
+			"link": "/bai-hat/Covid-Nhanh-Di-Di-Remix-K-ICM-APJ-Huyen-Tam-Mon-CZEE-RYO/ZUWFDE8C.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/9/c/c/a/9cca349cd1ea5e3b40270c354017d01c.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/2/2/0/6220265de9874d4c56a59ac15bbb0593.jpg?fs=MTY0NjU1NDUwMzE2Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 193,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/9f1e50cca68a4fd4169b/1900981866858638468?authen=exp=1646727303~acl=/9f1e50cca68a4fd4169b/*~hmac=dff7b102f51bf23a34c42e2c3f5e3859&fs=MTY0NjU1NDUwMzE2M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6IBA86DZ",
+				"link": "/album/Covid-Nhanh-Di-Di-Single-K-ICM-APJ-Huyen-Tam-Mon-CZEE-RYO/6IBA86DZ.html",
+				"title": "Covid Nhanh Đi Đi (Single)",
+				"name": "Covid Nhanh Đi Đi (Single)",
+				"isoffical": true,
+				"artists_names": "K-ICM, APJ, Huyền Tâm Môn, CZEE, RYO",
+				"artists": [
+				{
+					"name": "Nhiều Nghệ Sĩ",
+					"link": "/nghe-si/K-ICM-APJ-Huyen-Tam-Mon-CZEE-RYO"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/8/8/1/a/881ae2cc4c2d1ac07a8ca0be543f80ef.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/8/1/a/881ae2cc4c2d1ac07a8ca0be543f80ef.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZFFOWB",
+				"name": "K-ICM",
+				"link": "/nghe-si/K-ICM",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/0/f/a/e0fa83e73def78c85335f59d0c3a0eb0.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 42
+		},
+		{
+			"id": "ZUW9E6U9",
+			"name": "Lỗi Tại Anh - Lofi Remix By Freak D",
+			"title": "Lỗi Tại Anh - Lofi Remix By Freak D",
+			"code": "ZmcmtZkGSZcJJadymybHkntZCzCQXpdnd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "68B8BZWI",
+			"artists": [
+			{
+				"name": "Alex Lam",
+				"link": "/nghe-si/Loi-Tai-Anh-Lofi-Remix-By-Freak-D-Alex-Lam-Freak-D"
+			}],
+			"artists_names": "Alex Lam, Freak D",
+			"performer": "Alex Lam, Freak D",
+			"type": "audio",
+			"link": "/bai-hat/Loi-Tai-Anh-Lofi-Remix-By-Freak-D-Alex-Lam-Freak-D/ZUW9E6U9.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/3/7/4/f/374f2eb82f9561a735acf5a928dbacf1.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/4/5/1/8451c24e944f5054e5b8090f254080e0.jpg?fs=MTY0NjU1NDUwMzE2Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 233,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/0254dad45392bacce383/8649191319162167963?authen=exp=1646727303~acl=/0254dad45392bacce383/*~hmac=5a432c5aab6cb3ab737a896b1a513dce&fs=MTY0NjU1NDUwMzE2N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "68B8BZWI",
+				"link": "/album/Loi-Tai-Anh-Remixes-EP-Alex-Lam/68B8BZWI.html",
+				"title": "Lỗi Tại Anh (Remixes EP)",
+				"name": "Lỗi Tại Anh (Remixes EP)",
+				"isoffical": true,
+				"artists_names": "Alex Lam",
+				"artists": [
+				{
+					"name": "Alex Lam",
+					"link": "/nghe-si/Alex-Lam"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/6/4/7/f/647f6faf1f6f2951bb1aef7b63beb5a5.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/4/7/f/647f6faf1f6f2951bb1aef7b63beb5a5.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZA6EF6",
+				"name": "Alex Lam",
+				"link": "/nghe-si/Alex-Lam",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/9/8/4/59842ee0a32951610e5d0b9c2514b98a.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 43
+		},
+		{
+			"id": "ZWAF8BBA",
+			"name": "Tùy Duyên (Remix)",
+			"title": "Tùy Duyên (Remix)",
+			"code": "kHcGykHsEViBHcbyHTDnkHykXzXpgpdnB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZBWICOWA",
+			"artists": [
+			{
+				"name": "Shine Thành Anh",
+				"link": "/nghe-si/Tuy-Duyen-Remix-Shine-Thanh-Anh-Htrol"
+			}],
+			"artists_names": "Shine Thành Anh, Htrol",
+			"performer": "Shine Thành Anh, Htrol",
+			"type": "audio",
+			"link": "/bai-hat/Tuy-Duyen-Remix-Shine-Thanh-Anh-Htrol/ZWAF8BBA.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/7/5/c/3/75c349d7444740231f6a5200468c0762.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/5/4/c/154cee0a6a5b1fe706905ef1b9cf86f8.jpg?fs=MTY0NjU1NDUwMzE2OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 296,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/ff6cde6cf92b1075493a/2881604241007949681?authen=exp=1646727303~acl=/ff6cde6cf92b1075493a/*~hmac=fa9aaf1d9c4ba6c53f4bb8095b7f2e8a&fs=MTY0NjU1NDUwMzE2OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZBWICOWA",
+				"link": "/album/Tuy-Duyen-Single-Shine-Thanh-Anh/ZBWICOWA.html",
+				"title": "Tùy Duyên (Single)",
+				"name": "Tùy Duyên (Single)",
+				"isoffical": true,
+				"artists_names": "Shine Thành Anh",
+				"artists": [
+				{
+					"name": "Shine Thành Anh",
+					"link": "/nghe-si/Shine-Thanh-Anh"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/1/5/4/c/154cee0a6a5b1fe706905ef1b9cf86f8.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/1/5/4/c/154cee0a6a5b1fe706905ef1b9cf86f8.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ97CWU",
+				"name": "Shine Thành Anh",
+				"link": "/nghe-si/Shine-Thanh-Anh",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/e/3/4/4/e344937b9d27f25439a759a67f0bcdd7.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/f/b/2/3fb250ff35c84c2d8a851a79dbd8ff01.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 44
+		},
+		{
+			"id": "ZWCOU7FZ",
+			"name": "Yêu Từ Đâu Mà Ra (Remix)",
+			"title": "Yêu Từ Đâu Mà Ra (Remix)",
+			"code": "LmxnyLmxmXxCzQVyHybHkHykXACWhpdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Lil Z",
+				"link": "/nghe-si/Yeu-Tu-Dau-Ma-Ra-Remix-Lil-Z-VUX"
+			}],
+			"artists_names": "Lil Z, VUX",
+			"performer": "Lil Z, VUX",
+			"type": "audio",
+			"link": "/bai-hat/Yeu-Tu-Dau-Ma-Ra-Remix-Lil-Z-VUX/ZWCOU7FZ.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/6/6/4/c/664c692418e083cef5658d6ae724a9cd.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/e/4/2/2/e42280b75029ab207d72ee0dcab0bf15.jpg?fs=MTY0NjU1NDUwMzE3MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 248,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/fd42adb6c0f129af70e0/4647607192656143878?authen=exp=1646727303~acl=/fd42adb6c0f129af70e0/*~hmac=43debbdb1049daf92a846512bb78ad18&fs=MTY0NjU1NDUwMzE3Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6ZBOWU",
+				"name": "Lil Z",
+				"link": "/nghe-si/Lil-Z",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/0/0/2/800274b3f12c4a13e6442b76b498ea99.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 45
+		},
+		{
+			"id": "ZUCOZWEC",
+			"name": "Lựa Chọn Của Anh (EDM)",
+			"title": "Lựa Chọn Của Anh (EDM)",
+			"code": "kmJGtLLZlFldXiFTHyFmLmyLhzXphpBmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Thương Võ",
+				"link": "/nghe-si/Lua-Chon-Cua-Anh-EDM-Thuong-Vo"
+			}],
+			"artists_names": "Thương Võ",
+			"performer": "Thương Võ",
+			"type": "audio",
+			"link": "/bai-hat/Lua-Chon-Cua-Anh-EDM-Thuong-Vo/ZUCOZWEC.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/5/5/9/155963379ccaf5ec0c37142e9a5aa0c9.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/9/b/8/9/9b89b2a594d805de75eeb1ce0547fff8.jpg?fs=MTY0NjU1NDUwMzE3M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 304,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/c2884d1e445fad01f44e/6057424189815954763?authen=exp=1646727303~acl=/c2884d1e445fad01f44e/*~hmac=9f6f6abafadd5a83b77cedc3137f63c0&fs=MTY0NjU1NDUwMzE3NHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZFEZIC",
+				"name": "Thương Võ",
+				"link": "/nghe-si/Thuong-Vo",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/b/8/9/9b89b2a594d805de75eeb1ce0547fff8.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 46
+		},
+		{
+			"id": "ZUUCICCA",
+			"name": "Tình Đơn Phương (Remix by Cukak)",
+			"title": "Tình Đơn Phương (Remix by Cukak)",
+			"code": "ZmcGyLZnClVLGpHtnTbmLGykhSCpCpdGV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "68EFFZA7",
+			"artists": [
+			{
+				"name": "Nguyên.",
+				"link": "/nghe-si/Tinh-Don-Phuong-Remix-by-Cukak-Nguyen-KOO"
+			}],
+			"artists_names": "Nguyên., KOO",
+			"performer": "Nguyên., KOO",
+			"type": "audio",
+			"link": "/bai-hat/Tinh-Don-Phuong-Remix-by-Cukak-Nguyen-KOO/ZUUCICCA.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/7/0/8/8/7088542e2506944cde6bbfe13a21debb.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/3/b/b/33bb9096be3822b1cef0f49ec070c99b.jpg?fs=MTY0NjU1NDUwMzE3NXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 199,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/23edeae4dba532fb6bb4/2528473988210638882?authen=exp=1646727303~acl=/23edeae4dba532fb6bb4/*~hmac=4425fdb0a6a17772f4394acc43214605&fs=MTY0NjU1NDUwMzE3Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "68EFFZA7",
+				"link": "/album/Tinh-Don-Phuong-Remixes-Nguyen-KOO/68EFFZA7.html",
+				"title": "Tình Đơn Phương (Remixes)",
+				"name": "Tình Đơn Phương (Remixes)",
+				"isoffical": true,
+				"artists_names": "Nguyên., KOO",
+				"artists": [
+				{
+					"name": "Nguyên.",
+					"link": "/nghe-si/Nguyen-KOO"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/3/b/b/33bb9096be3822b1cef0f49ec070c99b.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/3/b/b/33bb9096be3822b1cef0f49ec070c99b.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6W8WCC",
+				"name": "Nguyên.",
+				"link": "/nghe-si/Nguyen-Tran-Trung-Nguyen",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/e/5/a/0e5a2d1447f29f51a635c7072c1bdcbc.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 47
+		},
+		{
+			"id": "ZWBOB9O8",
+			"name": "Lạy Ông Lạy Bà (Remix)",
+			"title": "Lạy Ông Lạy Bà (Remix)",
+			"code": "kHxHtkGaihXCxsvymybmkHyZhSCQCQBmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6I00DDEZ",
+			"artists": [
+			{
+				"name": "Pháo",
+				"link": "/nghe-si/Lay-Ong-Lay-Ba-Remix-Phao-CM1X"
+			}],
+			"artists_names": "Pháo, CM1X",
+			"performer": "Pháo, CM1X",
+			"type": "audio",
+			"link": "/bai-hat/Lay-Ong-Lay-Ba-Remix-Phao-CM1X/ZWBOB9O8.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/8/2/3/d/823d218f2562aa6087577c4d49f096fb.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/1/f/a/0/1fa05545f2558473e4be5ac19b014c2e.jpg?fs=MTY0NjU1NDUwMzE3OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 196,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/7c16c050d11738496106/1187746175164985332?authen=exp=1646727303~acl=/7c16c050d11738496106/*~hmac=a99fb81501d48467926a93a7bb2becb0&fs=MTY0NjU1NDUwMzE4MHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6I00DDEZ",
+				"link": "/album/Lay-Ong-Lay-Ba-Remix-Single-Phao-CM1X/6I00DDEZ.html",
+				"title": "Lạy Ông Lạy Bà (Remix) (Single)",
+				"name": "Lạy Ông Lạy Bà (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Pháo, CM1X",
+				"artists": [
+				{
+					"name": "Pháo",
+					"link": "/nghe-si/Phao-CM1X"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/5/4/3/e/543ea1b6bf2ce2dcd9d915b9471090da.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/4/3/e/543ea1b6bf2ce2dcd9d915b9471090da.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6Z87FU",
+				"name": "Pháo",
+				"link": "/nghe-si/Phao",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/3/5/b/c35bdf095089891beef186830dd6a3e7.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 48
+		},
+		{
+			"id": "ZUWFDDCA",
+			"name": "Hôn Anh Đi (Remix)",
+			"title": "Hôn Anh Đi (Remix)",
+			"code": "kmcmtLkHzWaiiLzTHyvHZGtkhlCWhQBGB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "S8BE9EA9",
+			"artists": [
+			{
+				"name": "Keyo",
+				"link": "/nghe-si/Hon-Anh-Di-Remix-Keyo"
+			}],
+			"artists_names": "Keyo",
+			"performer": "Keyo",
+			"type": "audio",
+			"link": "/bai-hat/Hon-Anh-Di-Remix-Keyo/ZUWFDDCA.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/5/9/1/c/591cad8dac53361f8ce7255af1df3eae.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/0/8/f/c08f01c476ed1b9d36383b29446ca1b4.jpg?fs=MTY0NjU1NDUwMzE4M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 160,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/d3ca7b1b8d5d64033d4c/8204065946465419811?authen=exp=1646727303~acl=/d3ca7b1b8d5d64033d4c/*~hmac=72fd346b33886605377955c43f9a7da4&fs=MTY0NjU1NDUwMzE4NHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "S8BE9EA9",
+				"link": "/album/Hon-Anh-Di-Single-Keyo-Mr-Paa/S8BE9EA9.html",
+				"title": "Hôn Anh Đi (Single)",
+				"name": "Hôn Anh Đi (Single)",
+				"isoffical": true,
+				"artists_names": "Keyo, Mr.Paa",
+				"artists": [
+				{
+					"name": "Keyo",
+					"link": "/nghe-si/Keyo-Mr-Paa"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/c/6/4/a/c64a25e80c69a379c4f53c5bb9ec2f8d.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/6/4/a/c64a25e80c69a379c4f53c5bb9ec2f8d.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6UF090",
+				"name": "Keyo",
+				"link": "/nghe-si/Keyo",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/2/6/a/1/26a1324d8707be52984af53849c4e39e.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/2/d/6/c2d64711243edd5c1114cdd5821fcb75.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 49
+		},
+		{
+			"id": "ZUBECWFB",
+			"name": "Sợ Ta Mất Nhau (EDM)",
+			"title": "Sợ Ta Mất Nhau (EDM)",
+			"code": "LHcmyZZLduzzCiRtHybnLHyLgSgWhWdHV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Châu Khải Phong",
+				"link": "/nghe-si/So-Ta-Mat-Nhau-EDM-Chau-Khai-Phong"
+			}],
+			"artists_names": "Châu Khải Phong",
+			"performer": "Châu Khải Phong",
+			"type": "audio",
+			"link": "/bai-hat/So-Ta-Mat-Nhau-EDM-Chau-Khai-Phong/ZUBECWFB.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/3/2/5/2/3252997cbab98e89e938693c7a5d581c.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/7/3/a/a/73aa6af7968ec8161e59312dfd1e1430.jpg?fs=MTY0NjU1NDUwMzE4OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 287,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/a4e2535d5b1cb242eb0d/1782246931539020656?authen=exp=1646727303~acl=/a4e2535d5b1cb242eb0d/*~hmac=988429e995c626d0e3109ca1542778c7&fs=MTY0NjU1NDUwMzE4OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ976C7",
+				"name": "Châu Khải Phong",
+				"link": "/nghe-si/Chau-Khai-Phong",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/3/a/a/73aa6af7968ec8161e59312dfd1e1430.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 50
+		},
+		{
+			"id": "ZWBOUA68",
+			"name": "Ngôi Nhà Hoa Hồng (EDM Version)",
+			"title": "Ngôi Nhà Hoa Hồng (EDM Version)",
+			"code": "ZGJHtLHNiCdcWGSyntDHLmTLCzCWhWdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Ngoi-Nha-Hoa-Hong-EDM-Version-Minh-Vuong-M4U-Huong-Ly-ACV"
+			}],
+			"artists_names": "Minh Vương M4U, Hương Ly, ACV",
+			"performer": "Minh Vương M4U, Hương Ly, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Ngoi-Nha-Hoa-Hong-EDM-Version-Minh-Vuong-M4U-Huong-Ly-ACV/ZWBOUA68.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/d/8/1/7/d817f3f5c0971a977e961619b2dfae0e.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg?fs=MTY0NjU1NDUwMzE4OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 283,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/5fd49ad78a9063ce3a81/122232499086543350?authen=exp=1646727303~acl=/5fd49ad78a9063ce3a81/*~hmac=0e73fc926194ec24ccf6bdcbd7430898&fs=MTY0NjU1NDUwMzE5MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 51
+		},
+		{
+			"id": "ZUUCICCC",
+			"name": "Tình Đơn Phương (Remix by Orinn)",
+			"title": "Tình Đơn Phương (Remix by Orinn)",
+			"code": "kmxHyLLHXzVLnpFtHTvHZGyLXACWgpdGd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "68EFFZA7",
+			"artists": [
+			{
+				"name": "Nguyên.",
+				"link": "/nghe-si/Tinh-Don-Phuong-Remix-by-Orinn-Nguyen-KOO"
+			}],
+			"artists_names": "Nguyên., KOO",
+			"performer": "Nguyên., KOO",
+			"type": "audio",
+			"link": "/bai-hat/Tinh-Don-Phuong-Remix-by-Orinn-Nguyen-KOO/ZUUCICCC.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/9/4/6/6/9466f40a120c9ebf95953fb92e824e2e.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/3/b/b/33bb9096be3822b1cef0f49ec070c99b.jpg?fs=MTY0NjU1NDUwMzE5MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 218,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/187ac273f3321a6c4323/484672661360781587?authen=exp=1646727303~acl=/187ac273f3321a6c4323/*~hmac=1e158939538d89303c383c89c3bd4058&fs=MTY0NjU1NDUwMzE5Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "68EFFZA7",
+				"link": "/album/Tinh-Don-Phuong-Remixes-Nguyen-KOO/68EFFZA7.html",
+				"title": "Tình Đơn Phương (Remixes)",
+				"name": "Tình Đơn Phương (Remixes)",
+				"isoffical": true,
+				"artists_names": "Nguyên., KOO",
+				"artists": [
+				{
+					"name": "Nguyên.",
+					"link": "/nghe-si/Nguyen-KOO"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/3/b/b/33bb9096be3822b1cef0f49ec070c99b.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/3/b/b/33bb9096be3822b1cef0f49ec070c99b.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6W8WCC",
+				"name": "Nguyên.",
+				"link": "/nghe-si/Nguyen-Tran-Trung-Nguyen",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/e/5/a/0e5a2d1447f29f51a635c7072c1bdcbc.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 52
+		},
+		{
+			"id": "ZWAFA77U",
+			"name": "Way Back Home",
+			"title": "Way Back Home",
+			"code": "LmxHtZHNiSHHkcmymTFnkHtkhzCQCWdnB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Như Hexi",
+				"link": "/nghe-si/Way-Back-Home-Nhu-Hexi"
+			}],
+			"artists_names": "Như Hexi",
+			"performer": "Như Hexi",
+			"type": "audio",
+			"link": "/bai-hat/Way-Back-Home-Nhu-Hexi/ZWAFA77U.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/2/b/2/b2b2302f2eb55c20d89b5e2c2b34f3a8.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/0/c/d/a/0cdaeed936e1bb3b6ff53ffba6aea21c.jpg?fs=MTY0NjU1NDUwMzE5M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 219,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/f0646eb14ef6a7a8fee7/2750677304303281580?authen=exp=1646727303~acl=/f0646eb14ef6a7a8fee7/*~hmac=4c60e51a16ebefa3b31b162c9695f51f&fs=MTY0NjU1NDUwMzE5NHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZAWAUU",
+				"name": "Như Hexi",
+				"link": "/nghe-si/Nhu-Hexi",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/1/5/15dc75a7ccb172d0656b331a7f5eb4e3_1514791361.png",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/c/d/a/0cdaeed936e1bb3b6ff53ffba6aea21c.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 53
+		},
+		{
+			"id": "ZUCOZIOW",
+			"name": "Cứ Vội Vàng (EDM)",
+			"title": "Cứ Vội Vàng (EDM)",
+			"code": "LmxntZkZzvSdFWmymyFHZGykCAgWCQBGd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Thương Võ",
+				"link": "/nghe-si/Cu-Voi-Vang-EDM-Thuong-Vo"
+			}],
+			"artists_names": "Thương Võ",
+			"performer": "Thương Võ",
+			"type": "audio",
+			"link": "/bai-hat/Cu-Voi-Vang-EDM-Thuong-Vo/ZUCOZIOW.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/a/c/8/e/ac8ec538d1c1078448df866211b48b8c.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/9/b/8/9/9b89b2a594d805de75eeb1ce0547fff8.jpg?fs=MTY0NjU1NDUwMzE5Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 265,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/30cd42544b15a24bfb04/3422961700226384133?authen=exp=1646727303~acl=/30cd42544b15a24bfb04/*~hmac=ad25b98ee4047cfb59526856cecab290&fs=MTY0NjU1NDUwMzE5N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZFEZIC",
+				"name": "Thương Võ",
+				"link": "/nghe-si/Thuong-Vo",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/b/8/9/9b89b2a594d805de75eeb1ce0547fff8.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 54
+		},
+		{
+			"id": "ZUDIF6I9",
+			"name": "Con Đường Mưa (EDM)",
+			"title": "Con Đường Mưa (EDM)",
+			"code": "ZmcHyZLZpvnDEhiyGyDGkGTZCzhWhQdGd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Thương Võ",
+				"link": "/nghe-si/Con-Duong-Mua-EDM-Thuong-Vo"
+			}],
+			"artists_names": "Thương Võ",
+			"performer": "Thương Võ",
+			"type": "audio",
+			"link": "/bai-hat/Con-Duong-Mua-EDM-Thuong-Vo/ZUDIF6I9.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/9/9/7/a/997ac588ea284c6267c12f58b464ddb5.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/9/b/8/9/9b89b2a594d805de75eeb1ce0547fff8.jpg?fs=MTY0NjU1NDUwMzE5OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 289,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/a3ea037f073eee60b72f/5499589297133641954?authen=exp=1646727303~acl=/a3ea037f073eee60b72f/*~hmac=ca32abd3e20c4797dead4f2dfd5ed051&fs=MTY0NjU1NDUwMzE5OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZFEZIC",
+				"name": "Thương Võ",
+				"link": "/nghe-si/Thuong-Vo",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/b/8/9/9b89b2a594d805de75eeb1ce0547fff8.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 55
+		},
+		{
+			"id": "ZO0B0Z0Z",
+			"name": "Chúng Ta Chỉ Là Đã Từng Yêu (Remix 2)",
+			"title": "Chúng Ta Chỉ Là Đã Từng Yêu (Remix 2)",
+			"code": "kGJGyknxQBcNiHEymybmZnTLXzgWCWBHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Thiên Tú",
+				"link": "/nghe-si/Chung-Ta-Chi-La-Da-Tung-Yeu-Remix-2-Thien-Tu"
+			}],
+			"artists_names": "Thiên Tú",
+			"performer": "Thiên Tú",
+			"type": "audio",
+			"link": "/bai-hat/Chung-Ta-Chi-La-Da-Tung-Yeu-Remix-2-Thien-Tu/ZO0B0Z0Z.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/d/3/6/b/d36b21c92cf5d32e11574a563f962d44.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/7/2/6/d/726d3574af7f7b8c1afc4ae030217734.jpg?fs=MTY0NjU1NDUwMzIwMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 248,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/724227af94e87db624f9/9127071810775448240?authen=exp=1646727303~acl=/724227af94e87db624f9/*~hmac=ac10f8d476731296fe9bff851cf2ccf2&fs=MTY0NjU1NDUwMzIwMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW67E9CO",
+				"name": "Thiên Tú",
+				"link": "/nghe-si/Thien-Tu",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/b/6/2/2b62681eb5f225949b1a3f2ed54c837f.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 56
+		},
+		{
+			"id": "ZUCO06WU",
+			"name": "Hẹn Yêu (EDM)",
+			"title": "Hẹn Yêu (EDM)",
+			"code": "kmJGtZLLAFvSGdXtnybmkmtZCzhphWBGd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Hen-Yeu-EDM-Minh-Vuong-M4U-Thuong-Vo"
+			}],
+			"artists_names": "Minh Vương M4U, Thương Võ",
+			"performer": "Minh Vương M4U, Thương Võ",
+			"type": "audio",
+			"link": "/bai-hat/Hen-Yeu-EDM-Minh-Vuong-M4U-Thuong-Vo/ZUCO06WU.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/d/a/5/0/da50a43ec29a3036097567c1b0f8c400.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg?fs=MTY0NjU1NDUwMzIwMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 339,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/b370caf8c3b92ae773a8/6311808940320375697?authen=exp=1646727303~acl=/b370caf8c3b92ae773a8/*~hmac=27157d82e7154b2d02ab7feee7bbfeb4&fs=MTY0NjU1NDUwMzIwM3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 57
+		},
+		{
+			"id": "ZU7F67F0",
+			"name": "Đừng Làm Anh Đau (EDM)",
+			"title": "Đừng Làm Anh Đau (EDM)",
+			"code": "ZHxntLZnisiFhbztHTFGZHyZgSgpCWBHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Thương Võ",
+				"link": "/nghe-si/Dung-Lam-Anh-Dau-EDM-Thuong-Vo"
+			}],
+			"artists_names": "Thương Võ",
+			"performer": "Thương Võ",
+			"type": "audio",
+			"link": "/bai-hat/Dung-Lam-Anh-Dau-EDM-Thuong-Vo/ZU7F67F0.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/3/4/a/5/34a595de5e67ce4286382f7917724074.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/9/b/8/9/9b89b2a594d805de75eeb1ce0547fff8.jpg?fs=MTY0NjU1NDUwMzIwNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 272,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/4d6f2b780839e167b828/8793249855891962711?authen=exp=1646727303~acl=/4d6f2b780839e167b828/*~hmac=d37f839c28f11cba1417f7719d05c0fa&fs=MTY0NjU1NDUwMzIwNXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZFEZIC",
+				"name": "Thương Võ",
+				"link": "/nghe-si/Thuong-Vo",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/b/8/9/9b89b2a594d805de75eeb1ce0547fff8.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 58
+		},
+		{
+			"id": "ZWBZ7U6W",
+			"name": "Điểm Ca Đích Nhân (Snow Chill)",
+			"title": "Điểm Ca Đích Nhân (Snow Chill)",
+			"code": "LHJmtkGsRscndbbyHybHLmtkhAhpCWdnd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Thái Quỳnh",
+				"link": "/nghe-si/Diem-Ca-Dich-Nhan-Snow-Chill-Thai-Quynh"
+			}],
+			"artists_names": "Thái Quỳnh",
+			"performer": "Thái Quỳnh",
+			"type": "audio",
+			"link": "/bai-hat/Diem-Ca-Dich-Nhan-Snow-Chill-Thai-Quynh/ZWBZ7U6W.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/0/c/6/7/0c67021792ba0936ac7f4c151fc6afbc.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/9/a/b/c/9abc1bec7624df276ba4f62e0b00df28.jpg?fs=MTY0NjU1NDUwMzIwNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 188,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/75b4bdbeb0f959a700e8/5600151168400286228?authen=exp=1646727303~acl=/75b4bdbeb0f959a700e8/*~hmac=a01fe9154d12db609e94f7f30f4e2679&fs=MTY0NjU1NDUwMzIwN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6WABW7",
+				"name": "Thái Quỳnh",
+				"link": "/nghe-si/Thai-Quynh",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/2/e/a/62ea7836f7d4ce14d79762fc04a4aaf9.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 59
+		},
+		{
+			"id": "ZWBC0I7C",
+			"name": "Chẳng Biết Nói Gì Ngoài Những Lời Yêu",
+			"title": "Chẳng Biết Nói Gì Ngoài Những Lời Yêu",
+			"code": "LGcntkGxmFGiCgmtnyFHLHykglXphpVHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6I6EOF7O",
+			"artists": [
+			{
+				"name": "Phạm Việt Thắng",
+				"link": "/nghe-si/Chang-Biet-Noi-Gi-Ngoai-Nhung-Loi-Yeu-Pham-Viet-Thang-Masew-Great"
+			}],
+			"artists_names": "Phạm Việt Thắng, Masew, Great",
+			"performer": "Phạm Việt Thắng, Masew, Great",
+			"type": "audio",
+			"link": "/bai-hat/Chang-Biet-Noi-Gi-Ngoai-Nhung-Loi-Yeu-Pham-Viet-Thang-Masew-Great/ZWBC0I7C.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/d/e/2/a/de2a53651e36fa277e1967b770a3321e.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/f/a/f/bfaf97542fb32cb3a0cd7b8f815ae49f.jpg?fs=MTY0NjU1NDUwMzIwOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Chang-Biet-Noi-Gi-Ngoai-Nhung-Loi-Yeu-Pham-Viet-Thang-Masew-Great/ZWBC0I7C.html",
+			"duration": 212,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/27f1c6afbae853b60af9/7087491904657364409?authen=exp=1646727303~acl=/27f1c6afbae853b60af9/*~hmac=236f9cd7061afb69760a64b2f7a7b134&fs=MTY0NjU1NDUwMzIxNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6I6EOF7O",
+				"link": "/album/Chang-Biet-Noi-Gi-Ngoai-Nhung-Loi-Yeu-Single-Pham-Viet-Thang-Masew-Great/6I6EOF7O.html",
+				"title": "Chẳng Biết Nói Gì Ngoài Những Lời Yêu (Single)",
+				"name": "Chẳng Biết Nói Gì Ngoài Những Lời Yêu (Single)",
+				"isoffical": true,
+				"artists_names": "Phạm Việt Thắng, Masew, Great",
+				"artists": [
+				{
+					"name": "Phạm Việt Thắng",
+					"link": "/nghe-si/Pham-Viet-Thang-Masew-Great"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/3/7/7/3377dc54831693aff2a7f0e48337d4e9.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/3/7/7/3377dc54831693aff2a7f0e48337d4e9.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAEEE8",
+				"name": "Phạm Việt Thắng",
+				"link": "/nghe-si/Pham-Viet-Thang-VN-Idol",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/2/0/e/a/20ea288e79d789fe6fb031c6a88fc9c7.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/d/4/8/ed48618356049ac448f124bb3d2cf7d9.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 60
+		},
+		{
+			"id": "ZUZ06O9O",
+			"name": "Em Hát Ai Nghe (D.A Remix)",
+			"title": "Em Hát Ai Nghe (D.A Remix)",
+			"code": "kHxHtkLHXNZkdLpyGtDnkntZhACQCWBHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "68FD8FUE",
+			"artists": [
+			{
+				"name": "Orange",
+				"link": "/nghe-si/Em-Hat-Ai-Nghe-D-A-Remix-Orange-D-A"
+			}],
+			"artists_names": "Orange, D.A",
+			"performer": "Orange, D.A",
+			"type": "audio",
+			"link": "/bai-hat/Em-Hat-Ai-Nghe-D-A-Remix-Orange-D-A/ZUZ06O9O.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2/0/7/a/207ac56d8551e01eb668d4008c64a4e0.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/e/4/a/a/e4aa1053219b8519b8b4dc844c320a9e.jpg?fs=MTY0NjU1NDUwMzIxOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 330,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/c165677c4b3da263fb2c/653234071597734035?authen=exp=1646727303~acl=/c165677c4b3da263fb2c/*~hmac=6463fb223a43efcf871273e061785e71&fs=MTY0NjU1NDUwMzIxOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "68FD8FUE",
+				"link": "/album/Em-Hat-Ai-Nghe-D-A-Remix-Single-Orange-D-A/68FD8FUE.html",
+				"title": "Em Hát Ai Nghe (D.A Remix) (Single)",
+				"name": "Em Hát Ai Nghe (D.A Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Orange, D.A",
+				"artists": [
+				{
+					"name": "Orange",
+					"link": "/nghe-si/Orange-D-A"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/d/a/c/8/dac84f20c54600233a4c6e473e31ee79.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/a/c/8/dac84f20c54600233a4c6e473e31ee79.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZFFWB7",
+				"name": "Orange",
+				"link": "/nghe-si/Orange",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/9/e/d/39ed525c77c66c0e5556e0378ebbbc56.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 61
+		},
+		{
+			"id": "ZUW6OACI",
+			"name": "Badaboo Của Anh (Orinn Remix)",
+			"title": "Badaboo Của Anh (Orinn Remix)",
+			"code": "kmxmyZkGdiSJBpdtmTbHLmtkgSCpXQdHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "68BI0FCU",
+			"artists": [
+			{
+				"name": "Lập Nguyên",
+				"link": "/nghe-si/Badaboo-Cua-Anh-Orinn-Remix-Lap-Nguyen"
+			}],
+			"artists_names": "Lập Nguyên",
+			"performer": "Lập Nguyên",
+			"type": "audio",
+			"link": "/bai-hat/Badaboo-Cua-Anh-Orinn-Remix-Lap-Nguyen/ZUW6OACI.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/7/d/0/a/7d0ae6529f38a9a58928181e2a2a3a83.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/4/7/a/b47a0de56e8a06e0c5d66d6b1dc46faa.jpg?fs=MTY0NjU1NDUwMzIxOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 245,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/802d47a4d1e238bc61f3/3426193662800153822?authen=exp=1646727303~acl=/802d47a4d1e238bc61f3/*~hmac=735a0722aa41eb54ed22b253ed0c333f&fs=MTY0NjU1NDUwMzIyMHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "68BI0FCU",
+				"link": "/album/Badaboo-Cua-Anh-Orinn-Remix-Single-Lap-Nguyen/68BI0FCU.html",
+				"title": "Badaboo Của Anh (Orinn Remix) (Single)",
+				"name": "Badaboo Của Anh (Orinn Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Lập Nguyên",
+				"artists": [
+				{
+					"name": "Lập Nguyên",
+					"link": "/nghe-si/Lap-Nguyen"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/0/b/e/70be8cc643efc532e4eae621fba32f82.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/0/b/e/70be8cc643efc532e4eae621fba32f82.jpg"
+			},
+			"artist":
+			{
+				"id": "IW68Z8C7",
+				"name": "Lập Nguyên",
+				"link": "/nghe-si/Lap-Nguyen",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/d/d/1/4dd12cbeff4ce9d93d07212e26a6f8b6.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 62
+		},
+		{
+			"id": "ZUDIF6IB",
+			"name": "Hạc Giấy (EDM)",
+			"title": "Hạc Giấy (EDM)",
+			"code": "kGJntLZZQDmDiskymtFHkHykXzCphQVmV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Yến Napun",
+				"link": "/nghe-si/Hac-Giay-EDM-Yen-Napun"
+			}],
+			"artists_names": "Yến Napun",
+			"performer": "Yến Napun",
+			"type": "audio",
+			"link": "/bai-hat/Hac-Giay-EDM-Yen-Napun/ZUDIF6IB.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/5/0/f/c/50fcae75f7980875183f8e10b8ca3623.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/7/f/5/9/7f594bb3dbbd54c3a7e58cadae4e2afc.jpg?fs=MTY0NjU1NDUwMzIyNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 238,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/57ccfd59f91810464909/1578602644010199398?authen=exp=1646727303~acl=/57ccfd59f91810464909/*~hmac=079cb460e199f49599527530bb89e658&fs=MTY0NjU1NDUwMzIyNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW769IB6",
+				"name": "Yến Napun",
+				"link": "/nghe-si/Yen-Napun",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/f/5/9/7f594bb3dbbd54c3a7e58cadae4e2afc.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 63
+		},
+		{
+			"id": "ZWB0077A",
+			"name": "Giang Hải Không Độ Nàng",
+			"title": "Giang Hải Không Độ Nàng",
+			"code": "kncmTLGNESDSNhvtmtbHLmtkgAhWgWBmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZDE8Z8U8",
+			"artists": [
+			{
+				"name": "Thái Quỳnh",
+				"link": "/nghe-si/Giang-Hai-Khong-Do-Nang-Thai-Quynh"
+			}],
+			"artists_names": "Thái Quỳnh",
+			"performer": "Thái Quỳnh",
+			"type": "audio",
+			"link": "/bai-hat/Giang-Hai-Khong-Do-Nang-Thai-Quynh/ZWB0077A.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/8/7/d/6/87d62b67b252bf4833d9d6d258df8f73.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/7/f/a/b7fa23413d2b5f75717a285c0ae21779.jpg?fs=MTY0NjU1NDUwMzIyOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 195,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/e4e1bc9b9ddc74822dcd/6791933920303550010?authen=exp=1646727303~acl=/e4e1bc9b9ddc74822dcd/*~hmac=911355ed5902a13e8859c2d0d777991a&fs=MTY0NjU1NDUwMzIyOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZDE8Z8U8",
+				"link": "/album/Giang-Hai-Khong-Do-Nang-Single-Thai-Quynh/ZDE8Z8U8.html",
+				"title": "Giang Hải Không Độ Nàng (Single)",
+				"name": "Giang Hải Không Độ Nàng (Single)",
+				"isoffical": true,
+				"artists_names": "Thái Quỳnh",
+				"artists": [
+				{
+					"name": "Thái Quỳnh",
+					"link": "/nghe-si/Thai-Quynh"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/b/7/f/a/b7fa23413d2b5f75717a285c0ae21779.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/7/f/a/b7fa23413d2b5f75717a285c0ae21779.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6WABW7",
+				"name": "Thái Quỳnh",
+				"link": "/nghe-si/Thai-Quynh",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/2/e/a/62ea7836f7d4ce14d79762fc04a4aaf9.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 64
+		},
+		{
+			"id": "ZUW9E6U6",
+			"name": "Lỗi Tại Anh - Lofi Remix By 1 9 6 7",
+			"title": "Lỗi Tại Anh - Lofi Remix By 1 9 6 7",
+			"code": "kHxmTLLHzkxccNGyGybGkGtkgSCQCWBmB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "68B8BZWI",
+			"artists": [
+			{
+				"name": "Alex Lam",
+				"link": "/nghe-si/Loi-Tai-Anh-Lofi-Remix-By-1-9-6-7-Alex-Lam-1-9-6-7"
+			}],
+			"artists_names": "Alex Lam, 1 9 6 7",
+			"performer": "Alex Lam, 1 9 6 7",
+			"type": "audio",
+			"link": "/bai-hat/Loi-Tai-Anh-Lofi-Remix-By-1-9-6-7-Alex-Lam-1-9-6-7/ZUW9E6U6.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/f/8/3/6/f836fd120ef13af751e52a2d0455371f.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/3/9/c/f39c869deabfa351c05d20916da26afa.jpg?fs=MTY0NjU1NDUwMzIzMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 253,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/1b3cfdbc74fa9da4c4eb/1305859549287964540?authen=exp=1646727303~acl=/1b3cfdbc74fa9da4c4eb/*~hmac=de3c1e16133ba48c755e6d843f90e4ac&fs=MTY0NjU1NDUwMzIzMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "68B8BZWI",
+				"link": "/album/Loi-Tai-Anh-Remixes-EP-Alex-Lam/68B8BZWI.html",
+				"title": "Lỗi Tại Anh (Remixes EP)",
+				"name": "Lỗi Tại Anh (Remixes EP)",
+				"isoffical": true,
+				"artists_names": "Alex Lam",
+				"artists": [
+				{
+					"name": "Alex Lam",
+					"link": "/nghe-si/Alex-Lam"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/6/4/7/f/647f6faf1f6f2951bb1aef7b63beb5a5.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/4/7/f/647f6faf1f6f2951bb1aef7b63beb5a5.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZA6EF6",
+				"name": "Alex Lam",
+				"link": "/nghe-si/Alex-Lam",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/9/8/4/59842ee0a32951610e5d0b9c2514b98a.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 65
+		},
+		{
+			"id": "ZWCIEIE6",
+			"name": "Đợi Người (Fireprox Remix)",
+			"title": "Đợi Người (Fireprox Remix)",
+			"code": "kmxHyZHJnQESaiGTntbmZGtkgACQCpVHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6IAFCF7D",
+			"artists": [
+			{
+				"name": "Phạm Sắc Lệnh",
+				"link": "/nghe-si/Doi-Nguoi-Fireprox-Remix-Pham-Sac-Lenh-Fireprox"
+			}],
+			"artists_names": "Phạm Sắc Lệnh, Fireprox",
+			"performer": "Phạm Sắc Lệnh, Fireprox",
+			"type": "audio",
+			"link": "/bai-hat/Doi-Nguoi-Fireprox-Remix-Pham-Sac-Lenh-Fireprox/ZWCIEIE6.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/f/8/d/5/f8d57c69612f7fc0c2167d5fbbb4bd37.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/6/c/2/56c22f3c5107a1ee2d1ebf400a34f3b6.jpg?fs=MTY0NjU1NDUwMzIzM3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 271,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/c58e1b476a00835eda11/5099850481164879514?authen=exp=1646727303~acl=/c58e1b476a00835eda11/*~hmac=86249a9247e9de3951e097ccb49dcfa4&fs=MTY0NjU1NDUwMzIzNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6IAFCF7D",
+				"link": "/album/Doi-Nguoi-Fireprox-Remix-Single-Pham-Sac-Lenh-Fireprox/6IAFCF7D.html",
+				"title": "Đợi Người (Fireprox Remix) (Single)",
+				"name": "Đợi Người (Fireprox Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Phạm Sắc Lệnh, Fireprox",
+				"artists": [
+				{
+					"name": "Phạm Sắc Lệnh",
+					"link": "/nghe-si/Pham-Sac-Lenh-Fireprox"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/b/3/1/3b31f68d0cb6701ecb6a55f3d38717c8.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/b/3/1/3b31f68d0cb6701ecb6a55f3d38717c8.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6ZB07B",
+				"name": "Phạm Sắc Lệnh",
+				"link": "/nghe-si/Pham-Sac-Lenh",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/d/0/2/8d02bf59ab76516a0781f7fbb93001c9.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 66
+		},
+		{
+			"id": "ZWAF89U8",
+			"name": "Đâu Chịu Ngồi Yên",
+			"title": "Đâu Chịu Ngồi Yên",
+			"code": "kmJmyLnNEVuFSWCyHtFnknTZgzXphpBmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZBEECD00",
+			"artists": [
+			{
+				"name": "Rhymastic",
+				"link": "/nghe-si/Dau-Chiu-Ngoi-Yen-Rhymastic-Phuong-Ly-Touliver"
+			}],
+			"artists_names": "Rhymastic, Phương Ly, Touliver",
+			"performer": "Rhymastic, Phương Ly, Touliver",
+			"type": "audio",
+			"link": "/bai-hat/Dau-Chiu-Ngoi-Yen-Rhymastic-Phuong-Ly-Touliver/ZWAF89U8.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/4/d/9/c/4d9c868c55acd389f53745cf5e6c6529.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/9/0/2/0902a8b57b8ce801dab8b2ca452c8b5b.jpg?fs=MTY0NjU1NDUwMzIzN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 224,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/01efe4e2c3a52afb73b4/2635431526219207338?authen=exp=1646727303~acl=/01efe4e2c3a52afb73b4/*~hmac=767c7dca7747a9ddac87910482bbd7da&fs=MTY0NjU1NDUwMzIzOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZBEECD00",
+				"link": "/album/Dau-Chiu-Ngoi-Yen-Singe-Phuong-Ly-Rhymastic-Touliver/ZBEECD00.html",
+				"title": "Đâu Chịu Ngồi Yên (Singe)",
+				"name": "Đâu Chịu Ngồi Yên (Singe)",
+				"isoffical": true,
+				"artists_names": "Phương Ly, Rhymastic, Touliver",
+				"artists": [
+				{
+					"name": "Phương Ly",
+					"link": "/nghe-si/Phuong-Ly-Rhymastic-Touliver"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/0/9/0/2/0902a8b57b8ce801dab8b2ca452c8b5b.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/9/0/2/0902a8b57b8ce801dab8b2ca452c8b5b.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ97U7U",
+				"name": "Rhymastic",
+				"link": "/nghe-si/Rhymastic",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/e/0/e09915ec25d2d8e52aaf0d9381121da8_1503980596.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7e74ded5ae4a0fb04014b8f348a782fb_1487382154.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 67
+		},
+		{
+			"id": "ZUCO087U",
+			"name": "Nắm (EDM)",
+			"title": "Nắm (EDM)",
+			"code": "ZHcHtZLLzFbAhbcyHyFHZHtkgAXphQdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Nam-EDM-Minh-Vuong-M4U-Huong-Ly"
+			}],
+			"artists_names": "Minh Vương M4U, Hương Ly",
+			"performer": "Minh Vương M4U, Hương Ly",
+			"type": "audio",
+			"link": "/bai-hat/Nam-EDM-Minh-Vuong-M4U-Huong-Ly/ZUCO087U.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/9/f/1/b9f1100e82ba2ada8a346951799d0eed.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg?fs=MTY0NjU1NDUwMzI0MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 229,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/51c1ce48c7092e577718/1623508173657561968?authen=exp=1646727303~acl=/51c1ce48c7092e577718/*~hmac=3d79bbe764661dabcec5afa1ccf89786&fs=MTY0NjU1NDUwMzI0Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 68
+		},
+		{
+			"id": "ZUFCFZ7U",
+			"name": "Chuyện Cũ Mình Bỏ Qua Remix (Dance Version)",
+			"title": "Chuyện Cũ Mình Bỏ Qua Remix (Dance Version)",
+			"code": "ZHxHtLLLcnbncWbyHTvHkmykgSgpXpVHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "69F0AAUZ",
+			"artists": [
+			{
+				"name": "Peto",
+				"link": "/nghe-si/Chuyen-Cu-Minh-Bo-Qua-Remix-Dance-Version-Peto"
+			}],
+			"artists_names": "Peto",
+			"performer": "Peto",
+			"type": "audio",
+			"link": "/bai-hat/Chuyen-Cu-Minh-Bo-Qua-Remix-Dance-Version-Peto/ZUFCFZ7U.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/e/c/c/7/ecc728f9014a0c82ea1b71e4a9a3231c.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/8/e/c/f8ec81b22b6ee3132f41a3f2858aa775.jpg?fs=MTY0NjU1NDUwMzI0M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 261,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/e5385fb421f5c8ab91e4/4951323133015180513?authen=exp=1646727303~acl=/e5385fb421f5c8ab91e4/*~hmac=63a75cdc6d9a912c2be6c834914c9cb3&fs=MTY0NjU1NDUwMzI0NHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "69F0AAUZ",
+				"link": "/album/Nhac-Xuan-Chon-Loc-Remix-Phan-1-Peto/69F0AAUZ.html",
+				"title": "Nhạc Xuân Chọn Lọc Remix (Phần 1)",
+				"name": "Nhạc Xuân Chọn Lọc Remix (Phần 1)",
+				"isoffical": true,
+				"artists_names": "Peto",
+				"artists": [
+				{
+					"name": "Peto",
+					"link": "/nghe-si/Peto"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/f/8/e/c/f8ec81b22b6ee3132f41a3f2858aa775.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/8/e/c/f8ec81b22b6ee3132f41a3f2858aa775.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAWC70",
+				"name": "Peto",
+				"link": "/nghe-si/Peto",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/b/a/4/cba41c4b68076bfb6790a05c7aca9292.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 69
+		},
+		{
+			"id": "ZWBWU9EZ",
+			"name": "Tương Tư Nàng Ca Sĩ",
+			"title": "Tương Tư Nàng Ca Sĩ",
+			"code": "LHJGyLHNRWaDJdNTmtDmZntLhzCQXpdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "TamKe",
+				"link": "/nghe-si/Tuong-Tu-Nang-Ca-Si-TamKe"
+			}],
+			"artists_names": "TamKe",
+			"performer": "TamKe",
+			"type": "audio",
+			"link": "/bai-hat/Tuong-Tu-Nang-Ca-Si-TamKe/ZWBWU9EZ.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/8/e/d/b8ed178377d900d3a31e73a0ad2d3c44.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/4/1/8/d/418de0d54607b2623a87bb2d5aecbb8d.jpg?fs=MTY0NjU1NDUwMzI0Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 235,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/f33fabe9bfae56f00fbf/9074232880911897298?authen=exp=1646727303~acl=/f33fabe9bfae56f00fbf/*~hmac=64afa3ae2b57758f23164df8ebe18033&fs=MTY0NjU1NDUwMzI0N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6Z7UIO",
+				"name": "TamKe",
+				"link": "/nghe-si/TamKe",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/1/8/d/418de0d54607b2623a87bb2d5aecbb8d.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 70
+		},
+		{
+			"id": "ZWAFB9D7",
+			"name": "Duyên Vỡ Ép Mấy Cũng Lỡ (Remix)",
+			"title": "Duyên Vỡ Ép Mấy Cũng Lỡ (Remix)",
+			"code": "LmxGTLHNilmzxxaymyvnLHyLhSCQhQBmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZDI9U8OF",
+			"artists": [
+			{
+				"name": "Yong Anh",
+				"link": "/nghe-si/Duyen-Vo-Ep-May-Cung-Lo-Remix-Yong-Anh-DinhLong"
+			}],
+			"artists_names": "Yong Anh, DinhLong",
+			"performer": "Yong Anh, DinhLong",
+			"type": "audio",
+			"link": "/bai-hat/Duyen-Vo-Ep-May-Cung-Lo-Remix-Yong-Anh-DinhLong/ZWAFB9D7.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/e/7/2/1e72326f47ee47894bf23ce7592d1a6f.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/1/c/7/81c7536fbadb0c81ce7d16971a5b547a.jpg?fs=MTY0NjU1NDUwMzI0OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 319,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/1aaad822f865113b4874/1946271585176680850?authen=exp=1646727303~acl=/1aaad822f865113b4874/*~hmac=ee5812156208532bd1203dc4a3702824&fs=MTY0NjU1NDUwMzI1MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZDI9U8OF",
+				"link": "/album/Duyen-Vo-Ep-May-Cung-Lo-Remix-Single-Yong-Anh-DinhLong/ZDI9U8OF.html",
+				"title": "Duyên Vỡ Ép Mấy Cũng Lỡ (Remix) (Single)",
+				"name": "Duyên Vỡ Ép Mấy Cũng Lỡ (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Yong Anh, DinhLong",
+				"artists": [
+				{
+					"name": "Yong Anh",
+					"link": "/nghe-si/Yong-Anh-DinhLong"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/8/1/c/7/81c7536fbadb0c81ce7d16971a5b547a.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/1/c/7/81c7536fbadb0c81ce7d16971a5b547a.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6ZU0ZE",
+				"name": "Yong Anh",
+				"link": "/nghe-si/Yong-Anh",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/c/c/c/9/ccc97e78907d295364b7f1e67264eb5f.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/5/a/e/65ae8817ea2591bf7f00c0f3c4aba24c.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 71
+		},
+		{
+			"id": "ZWAFAB86",
+			"name": "Cứ Thế Mong Chờ (Live Looping)",
+			"title": "Cứ Thế Mong Chờ (Live Looping)",
+			"code": "LHxnTLHaESnLvbFtmtDHkmyLCzhQCQdHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZD0BAB9A",
+			"artists": [
+			{
+				"name": "Nguyễn Đình Vũ",
+				"link": "/nghe-si/Cu-The-Mong-Cho-Live-Looping-Nguyen-Dinh-Vu"
+			}],
+			"artists_names": "Nguyễn Đình Vũ",
+			"performer": "Nguyễn Đình Vũ",
+			"type": "audio",
+			"link": "/bai-hat/Cu-The-Mong-Cho-Live-Looping-Nguyen-Dinh-Vu/ZWAFAB86.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/9/c/6/f/9c6f4749c62cff09f2450eda6b5a7cb0.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/f/7/f/df7f5dd68bab45547f5760e6c8871648.jpg?fs=MTY0NjU1NDUwMzI1NXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 223,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/35056eac4eeba7b5fefa/2495668808650708025?authen=exp=1646727303~acl=/35056eac4eeba7b5fefa/*~hmac=aeb4b5129e598325c1c928bd0d984eb0&fs=MTY0NjU1NDUwMzI1Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZD0BAB9A",
+				"link": "/album/Cu-The-Mong-Cho-Live-Looping-Single-Nguyen-Dinh-Vu/ZD0BAB9A.html",
+				"title": "Cứ Thế Mong Chờ (Live Looping) (Single)",
+				"name": "Cứ Thế Mong Chờ (Live Looping) (Single)",
+				"isoffical": true,
+				"artists_names": "Nguyễn Đình Vũ",
+				"artists": [
+				{
+					"name": "Nguyễn Đình Vũ",
+					"link": "/nghe-si/Nguyen-Dinh-Vu"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/d/f/7/f/df7f5dd68bab45547f5760e6c8871648.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/f/7/f/df7f5dd68bab45547f5760e6c8871648.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ96EC7",
+				"name": "Nguyễn Đình Vũ",
+				"link": "/nghe-si/Nguyen-Dinh-Vu",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/b/d/0/8/bd086da0946891f58a7f00166aad239d.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/5/a/b/45ab1296d73b215629fcbab092687d4c.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 72
+		},
+		{
+			"id": "ZWBOUA0B",
+			"name": "Em Nhớ Anh Người Yêu Cũ (EDM Version)",
+			"title": "Em Nhớ Anh Người Yêu Cũ (EDM Version)",
+			"code": "ZnJHtLnaiCBJSZkyGTDHLHyLgSCWCpdGB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "N Ly",
+				"link": "/nghe-si/Em-Nho-Anh-Nguoi-Yeu-Cu-EDM-Version-N-Ly-ACV"
+			}],
+			"artists_names": "N Ly, ACV",
+			"performer": "N Ly, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Em-Nho-Anh-Nguoi-Yeu-Cu-EDM-Version-N-Ly-ACV/ZWBOUA0B.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/d/d/c/2/ddc27c16c3e6a98ecb8e38e7cff54176.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/b/a/4/b/ba4bdb3b1ca149b748b0e4eb22738d72.jpg?fs=MTY0NjU1NDUwMzI1OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 255,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/7ab502b712f0fbaea2e1/9043398913389676709?authen=exp=1646727303~acl=/7ab502b712f0fbaea2e1/*~hmac=fb0a62316e9d40b3b413779a4fc8f7d9&fs=MTY0NjU1NDUwMzI1OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6UI08W",
+				"name": "N Ly",
+				"link": "/nghe-si/N-Ly",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/b/0/7/ab07f8f4e5dd8fca69f3428ace6b44c0.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 73
+		},
+		{
+			"id": "ZWBOUAIA",
+			"name": "Ngỡ Như Giấc Mơ (EDM Version)",
+			"title": "Ngỡ Như Giấc Mơ (EDM Version)",
+			"code": "kmcntkmsRhdxzDhtGTbHkGtZgSCQXWdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Chu Duyên",
+				"link": "/nghe-si/Ngo-Nhu-Giac-Mo-EDM-Version-Chu-Duyen-ACV"
+			}],
+			"artists_names": "Chu Duyên, ACV",
+			"performer": "Chu Duyên, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Ngo-Nhu-Giac-Mo-EDM-Version-Chu-Duyen-ACV/ZWBOUAIA.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/4/5/8/b/458bb0f3d186eb0e80c24b8a4cb132d4.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/5/3/7/4/53748e5ef2495f1896d1de64a787604a.jpg?fs=MTY0NjU1NDUwMzI2Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 317,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/144550474000a95ef011/2540419431840819357?authen=exp=1646727303~acl=/144550474000a95ef011/*~hmac=db1e17b8fb7b798b3ae7b583378fe2e6&fs=MTY0NjU1NDUwMzI2M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6ZBB8W",
+				"name": "Chu Duyên",
+				"link": "/nghe-si/Chu-Duyen",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/3/7/4/53748e5ef2495f1896d1de64a787604a.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 74
+		},
+		{
+			"id": "ZZOWD9CB",
+			"name": "New Year With You",
+			"title": "New Year With You",
+			"code": "ZHxmtZkbkQWbNkQymybHLnyLhSgpXWBmB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6ACOIWF6",
+			"artists": [
+			{
+				"name": "Nam Em",
+				"link": "/nghe-si/New-Year-With-You-Nam-Em-Bach-Cong-Khanh"
+			}],
+			"artists_names": "Nam Em, Bạch Công Khanh",
+			"performer": "Nam Em, Bạch Công Khanh",
+			"type": "audio",
+			"link": "/bai-hat/New-Year-With-You-Nam-Em-Bach-Cong-Khanh/ZZOWD9CB.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/8/7/7/b87701cdaa0b85d0ab15d8694348801e.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/a/0/0/6/a006f9bcfee7dc1952750d7295cd9249.jpg?fs=MTY0NjU1NDUwMzI2NHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 190,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/fc19857ff53e1c60452f/710586602183488795?authen=exp=1646727303~acl=/fc19857ff53e1c60452f/*~hmac=f8278a4c70b21f83a3905aca3b972087&fs=MTY0NjU1NDUwMzI2NXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6ACOIWF6",
+				"link": "/album/New-Year-With-You-Single-Nam-Em-Bach-Cong-Khanh/6ACOIWF6.html",
+				"title": "New Year With You (Single)",
+				"name": "New Year With You (Single)",
+				"isoffical": true,
+				"artists_names": "Nam Em, Bạch Công Khanh",
+				"artists": [
+				{
+					"name": "Nam Em",
+					"link": "/nghe-si/Nam-Em-Bach-Cong-Khanh"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/5/1/0/9/510906edadfd840ef8ae3dd789d827e9.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/1/0/9/510906edadfd840ef8ae3dd789d827e9.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZA6CBA",
+				"name": "Nam Em",
+				"link": "/nghe-si/Nam-Em",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/5/1/e/6/51e68d1bf9b2a1c31e88adc43579f311.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/8/f/6/08f684039151576cf256a9972b4ca63f.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 75
+		},
+		{
+			"id": "ZU06BCC0",
+			"name": "Uyên Ương Không Thành (Remix)",
+			"title": "Uyên Ương Không Thành (Remix)",
+			"code": "ZmxmykZnkxxllxmTHyDmZmyLhSgpCWdHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "DIMZ",
+				"link": "/nghe-si/Uyen-Uong-Khong-Thanh-Remix-DIMZ-Pham-Sac-Lenh"
+			}],
+			"artists_names": "DIMZ, Phạm Sắc Lệnh",
+			"performer": "DIMZ, Phạm Sắc Lệnh",
+			"type": "audio",
+			"link": "/bai-hat/Uyen-Uong-Khong-Thanh-Remix-DIMZ-Pham-Sac-Lenh/ZU06BCC0.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/6/4/1/b641d41925f1b08c3f035e0f5f075d7f.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/a/4/3/4/a434b8bedaef240b82316f84de3935c1.jpg?fs=MTY0NjU1NDUwMzI2OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 194,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/f1092548230eca50931f/1573803643273134361?authen=exp=1646727303~acl=/f1092548230eca50931f/*~hmac=2165c2f25c21baf5a3d1b04d4af9bbb9&fs=MTY0NjU1NDUwMzI2OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW689UCI",
+				"name": "DIMZ",
+				"link": "/nghe-si/DIMZ",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/6/5/3/5653c00f7093a17d3f20f232d3189822.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 76
+		},
+		{
+			"id": "ZWBOU9EE",
+			"name": "Tình Yêu Mang Theo (EDM Version)",
+			"title": "Tình Yêu Mang Theo (EDM Version)",
+			"code": "LnJnykGNiCdxdxbtGyvnLmtLXzhphQdnB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Tinh-Yeu-Mang-Theo-EDM-Version-Minh-Vuong-M4U-Huong-Ly-ACV"
+			}],
+			"artists_names": "Minh Vương M4U, Hương Ly, ACV",
+			"performer": "Minh Vương M4U, Hương Ly, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Tinh-Yeu-Mang-Theo-EDM-Version-Minh-Vuong-M4U-Huong-Ly-ACV/ZWBOU9EE.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/f/d/5/1fd52978537f0e3b410435ec7fb0217f.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg?fs=MTY0NjU1NDUwMzI3MHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 257,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/e55cee5efe1917474e08/2193986111124043375?authen=exp=1646727303~acl=/e55cee5efe1917474e08/*~hmac=2c7c5a897e4c977f75d4c44dbfe0ddbd&fs=MTY0NjU1NDUwMzI3MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 77
+		},
+		{
+			"id": "ZWBOUA66",
+			"name": "Vầng Trăng Khóc (EDM Version)",
+			"title": "Vầng Trăng Khóc (EDM Version)",
+			"code": "kHcmyLmNRhdJQGFymybmZHTLgSCphQdmB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Vang-Trang-Khoc-EDM-Version-Minh-Vuong-M4U-Huong-Ly-ACV"
+			}],
+			"artists_names": "Minh Vương M4U, Hương Ly, ACV",
+			"performer": "Minh Vương M4U, Hương Ly, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Vang-Trang-Khoc-EDM-Version-Minh-Vuong-M4U-Huong-Ly-ACV/ZWBOUA66.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/c/3/a/0/c3a0f96b86a24d402ae96e9ada76af1a.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg?fs=MTY0NjU1NDUwMzI3MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 238,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/f485098619c1f09fa9d0/8931918247477088874?authen=exp=1646727303~acl=/f485098619c1f09fa9d0/*~hmac=9601fef5cb482dd3025af7f71633940a&fs=MTY0NjU1NDUwMzI3Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 78
+		},
+		{
+			"id": "ZOZ9FEAB",
+			"name": "Đến Nơi Chỉ Riêng Ta",
+			"title": "Đến Nơi Chỉ Riêng Ta",
+			"code": "kHJHyLGinWgBCvstGyvHLGTLgSCpXWdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "670ACCIE",
+			"artists": [
+			{
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Den-Noi-Chi-Rieng-Ta-Ung-Hoang-Phuc-Yuno-Bigboi"
+			}],
+			"artists_names": "Ưng Hoàng Phúc, Yuno Bigboi",
+			"performer": "Ưng Hoàng Phúc, Yuno Bigboi",
+			"type": "audio",
+			"link": "/bai-hat/Den-Noi-Chi-Rieng-Ta-Ung-Hoang-Phuc-Yuno-Bigboi/ZOZ9FEAB.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/d/5/d/bd5dd6e957f7634e40c7e6149f0cf429.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/a/3/a/7a3a71b8f0ac4871e9ccf8bcdd523cb9.jpg?fs=MTY0NjU1NDUwMzI3M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 245,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/b97ff1c96b8e82d0db9f/2297789587272910319?authen=exp=1646727303~acl=/b97ff1c96b8e82d0db9f/*~hmac=f60da2e9531a6be4d8acbbe3b0251858&fs=MTY0NjU1NDUwMzI3NHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "670ACCIE",
+				"link": "/album/Den-Noi-Chi-Rieng-Ta-Single-Ung-Hoang-Phuc-Yuno-Bigboi/670ACCIE.html",
+				"title": "Đến Nơi Chỉ Riêng Ta (Single)",
+				"name": "Đến Nơi Chỉ Riêng Ta (Single)",
+				"isoffical": true,
+				"artists_names": "Ưng Hoàng Phúc, Yuno Bigboi",
+				"artists": [
+				{
+					"name": "Ưng Hoàng Phúc",
+					"link": "/nghe-si/Ung-Hoang-Phuc-Yuno-Bigboi"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/a/3/a/7a3a71b8f0ac4871e9ccf8bcdd523cb9.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/a/3/a/7a3a71b8f0ac4871e9ccf8bcdd523cb9.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZWI8",
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Ung-Hoang-Phuc",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/c/5/c5412bfcbf2bdd7299e0f438d732dc9a_1502849125.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/c/8/3/fc835d5168a4263c6a2d5fae30c0a589.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 79
+		},
+		{
+			"id": "ZWBWFBWW",
+			"name": "Xa Em (EDM Version)",
+			"title": "Xa Em (EDM Version)",
+			"code": "ZHJnTkmaRhkJFZnyHtvmkmTLCSXQXWdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "608EUF77",
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Xa-Em-EDM-Version-Minh-Vuong-M4U-Du-Thien-ACV"
+			}],
+			"artists_names": "Minh Vương M4U, Du Thiên, ACV",
+			"performer": "Minh Vương M4U, Du Thiên, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Xa-Em-EDM-Version-Minh-Vuong-M4U-Du-Thien-ACV/ZWBWFBWW.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/8/1/4/8/814841fdbcd7e741122e295a2327db75.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/a/1/d/da1d973797473770b61abef9120f46c9.jpg?fs=MTY0NjU1NDUwMzI3N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 216,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/d8780b1d1d5af404ad4b/6099878998834075080?authen=exp=1646727303~acl=/d8780b1d1d5af404ad4b/*~hmac=5cef270ce5963a5704b812983c5b98a7&fs=MTY0NjU1NDUwMzI3N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "608EUF77",
+				"link": "/album/Xa-Em-EDM-Version-Single-Minh-Vuong-M4U-Du-Thien-ACV/608EUF77.html",
+				"title": "Xa Em (EDM Version) (Single)",
+				"name": "Xa Em (EDM Version) (Single)",
+				"isoffical": true,
+				"artists_names": "Minh Vương M4U, Du Thiên, ACV",
+				"artists": [
+				{
+					"name": "Minh Vương M4U",
+					"link": "/nghe-si/Minh-Vuong-M4U-Du-Thien-ACV"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/3/c/3/9/3c398006994d9e4342904bb2c5469c1e.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/3/c/3/9/3c398006994d9e4342904bb2c5469c1e.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 80
+		},
+		{
+			"id": "ZUU7AUF8",
+			"name": "Mỹ Nhân Ngư (EDM Version)",
+			"title": "Mỹ Nhân Ngư (EDM Version)",
+			"code": "kGJHTkLHgkVJFdFyHtvGkHykhSCphpdHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "S8EC6C06",
+			"artists": [
+			{
+				"name": "Hannie",
+				"link": "/nghe-si/My-Nhan-Ngu-EDM-Version-Hannie"
+			}],
+			"artists_names": "Hannie",
+			"performer": "Hannie",
+			"type": "audio",
+			"link": "/bai-hat/My-Nhan-Ngu-EDM-Version-Hannie/ZUU7AUF8.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/d/9/8/0/d980b8fa5ef5356e0b032059c510376d.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/7/4/a/4/74a4f3d0a9191626e03505fdb74ad5f5.jpg?fs=MTY0NjU1NDUwMzI4MHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 240,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/352398fba7ba4ee417ab/6322635276395761901?authen=exp=1646727303~acl=/352398fba7ba4ee417ab/*~hmac=915e0a129d4940118989deab1b238047&fs=MTY0NjU1NDUwMzI4Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "S8EC6C06",
+				"link": "/album/My-Nhan-Ngu-Hannie/S8EC6C06.html",
+				"title": "Mỹ Nhân Ngư",
+				"name": "Mỹ Nhân Ngư",
+				"isoffical": true,
+				"artists_names": "Hannie",
+				"artists": [
+				{
+					"name": "Hannie",
+					"link": "/nghe-si/Hannie"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/4/a/4/74a4f3d0a9191626e03505fdb74ad5f5.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/4/a/4/74a4f3d0a9191626e03505fdb74ad5f5.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6ZZADC",
+				"name": "Hannie",
+				"link": "/nghe-si/Hanniee",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/2/6/9/d/269de6d3c51b2932b455b1c03be0d9e1.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/7/e/d/67ed29debad9601bdde9fb91ffd41db5.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 81
+		},
+		{
+			"id": "ZWBOUAWD",
+			"name": "Nỗi Nhớ Đóng Băng (EDM Version)",
+			"title": "Nỗi Nhớ Đóng Băng (EDM Version)",
+			"code": "kGcHtLHauXBxASQTGyFGLHtkCzXpXQdHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Noi-Nho-Dong-Bang-EDM-Version-Minh-Vuong-M4U-Huong-Ly-ACV"
+			}],
+			"artists_names": "Minh Vương M4U, Hương Ly, ACV",
+			"performer": "Minh Vương M4U, Hương Ly, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Noi-Nho-Dong-Bang-EDM-Version-Minh-Vuong-M4U-Huong-Ly-ACV/ZWBOUAWD.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/c/3/3/9/c3395b0262ef48cd2535474116c1d883.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg?fs=MTY0NjU1NDUwMzI4Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 255,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/804a3049200ec950901f/5499678446044572523?authen=exp=1646727303~acl=/804a3049200ec950901f/*~hmac=d55802ba5645c04d4c41bd7cc50e52ce&fs=MTY0NjU1NDUwMzI4N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 82
+		},
+		{
+			"id": "ZWAFEUF7",
+			"name": "Mình Đừng Thương Nhau (Remix)",
+			"title": "Mình Đừng Thương Nhau (Remix)",
+			"code": "LHJmtkHNuzkWRFsyHtbGkmtLXzCQXWVHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZAC6D6OU",
+			"artists": [
+			{
+				"name": "Võ Kiều Vân",
+				"link": "/nghe-si/Minh-Dung-Thuong-Nhau-Remix-Vo-Kieu-Van"
+			}],
+			"artists_names": "Võ Kiều Vân",
+			"performer": "Võ Kiều Vân",
+			"type": "audio",
+			"link": "/bai-hat/Minh-Dung-Thuong-Nhau-Remix-Vo-Kieu-Van/ZWAFEUF7.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/4/e/c/14ec14d3a7c4390ac72aea5995538fa7.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/9/3/f/c93f1e16748ab132bff623db86898001.jpg?fs=MTY0NjU1NDUwMzI4OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 230,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/d99a8e8faec847961ed9/8737230389941932135?authen=exp=1646727303~acl=/d99a8e8faec847961ed9/*~hmac=6881fc3e15cf072f1c189031771d2109&fs=MTY0NjU1NDUwMzI4OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZAC6D6OU",
+				"link": "/album/Minh-Dung-Thuong-Nhau-Single-Vo-Kieu-Van/ZAC6D6OU.html",
+				"title": "Mình Đừng Thương Nhau (Single)",
+				"name": "Mình Đừng Thương Nhau (Single)",
+				"isoffical": true,
+				"artists_names": "Võ Kiều Vân",
+				"artists": [
+				{
+					"name": "Võ Kiều Vân",
+					"link": "/nghe-si/Vo-Kieu-Van"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/c/9/3/f/c93f1e16748ab132bff623db86898001.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/9/3/f/c93f1e16748ab132bff623db86898001.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAWBCZ",
+				"name": "Võ Kiều Vân",
+				"link": "/nghe-si/Vo-Kieu-Van",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/f/7f3acb2a0f31262e918588b0f93e2b25_1511493589.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/2/1290b7ed82ecda7161439ff65c02fa50_1511493608.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 83
+		},
+		{
+			"id": "ZWBI9W88",
+			"name": "Tình Đầu (Remix)",
+			"title": "Tình Đầu (Remix)",
+			"code": "ZncGTLmaRpbQxEhTmtDGZGtZhzCWCQBmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZFBZB097",
+			"artists": [
+			{
+				"name": "Tăng Duy Tân",
+				"link": "/nghe-si/Tinh-Dau-Remix-Tang-Duy-Tan"
+			}],
+			"artists_names": "Tăng Duy Tân",
+			"performer": "Tăng Duy Tân",
+			"type": "audio",
+			"link": "/bai-hat/Tinh-Dau-Remix-Tang-Duy-Tan/ZWBI9W88.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/d/b/4/f/db4f9176c0fe7c09dd39855b6f434d30.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/6/e/6/46e62f21f11e9b688b101ed645fa8ff3.jpg?fs=MTY0NjU1NDUwMzI5MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 291,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/8b241a0e0249eb17b258/9028515804532954921?authen=exp=1646727303~acl=/8b241a0e0249eb17b258/*~hmac=a22086957c6b3da26d6f5aa4b06820e3&fs=MTY0NjU1NDUwMzI5Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZFBZB097",
+				"link": "/album/Tinh-Dau-Remix-Single-Tang-Duy-Tan/ZFBZB097.html",
+				"title": "Tình Đầu (Remix) (Single)",
+				"name": "Tình Đầu (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Tăng Duy Tân",
+				"artists": [
+				{
+					"name": "Tăng Duy Tân",
+					"link": "/nghe-si/Tang-Duy-Tan"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/9/0/d/3/90d3fad8a81d45ed7bdf57bca0d7de0c.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/0/d/3/90d3fad8a81d45ed7bdf57bca0d7de0c.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6W8FO8",
+				"name": "Tăng Duy Tân",
+				"link": "/nghe-si/Tang-Duy-Tan",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/d/d/a/ddda5f9fec1f2ef6c499831661727263.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 84
+		},
+		{
+			"id": "ZO8U9OWW",
+			"name": "Phố Cũ Còn Anh (Remix)",
+			"title": "Phố Cũ Còn Anh (Remix)",
+			"code": "ZGcHTLHuVdQlZzCtHyDHLHtkCSgphWdHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "67OW6C9D",
+			"artists": [
+			{
+				"name": "Đình Bình",
+				"link": "/nghe-si/Pho-Cu-Con-Anh-Remix-Dinh-Binh-Quinn-Nguyen-Phi"
+			}],
+			"artists_names": "Đình Bình, Quinn, Nguyễn Phi",
+			"performer": "Đình Bình, Quinn, Nguyễn Phi",
+			"type": "audio",
+			"link": "/bai-hat/Pho-Cu-Con-Anh-Remix-Dinh-Binh-Quinn-Nguyen-Phi/ZO8U9OWW.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/7/6/2/0/7620846711dfccacc8e6fb0ff7f68655.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/d/a/1/fda11f521ef69bca16a86e0571131760.jpg?fs=MTY0NjU1NDUwMzI5NXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 247,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/fb843cc8b18f58d1019e/6976831231900308751?authen=exp=1646727303~acl=/fb843cc8b18f58d1019e/*~hmac=c1029a7536cb5815e6415c4e3f84e303&fs=MTY0NjU1NDUwMzI5Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "67OW6C9D",
+				"link": "/album/Pho-Cu-Con-Anh-Remix-Single-Dinh-Binh-Quinn-Nguyen-Phi/67OW6C9D.html",
+				"title": "Phố Cũ Còn Anh (Remix) (Single)",
+				"name": "Phố Cũ Còn Anh (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Đình Bình, Quinn, Nguyễn Phi",
+				"artists": [
+				{
+					"name": "Đình Bình",
+					"link": "/nghe-si/Dinh-Binh-Quinn-Nguyen-Phi"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/f/d/a/1/fda11f521ef69bca16a86e0571131760.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/d/a/1/fda11f521ef69bca16a86e0571131760.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAWOB9",
+				"name": "Đình Bình",
+				"link": "/nghe-si/Dinh-Binh",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/b/3/b37768744a5fd2c076e34a4b4b208e5c_1512647292.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/d/3/f/4d3fcf0adf3f8ae79ba2a63bd091b67b.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 85
+		},
+		{
+			"id": "ZWCWWFOE",
+			"name": "Giá Như Ta Chẳng Biết Nhau (Future Bass Remix)",
+			"title": "Giá Như Ta Chẳng Biết Nhau (Future Bass Remix)",
+			"code": "kmJHtLGcGXLlQintmybmLmyLgzhpgpdmB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6IACFW0F",
+			"artists": [
+			{
+				"name": "Vicky Nhung",
+				"link": "/nghe-si/Gia-Nhu-Ta-Chang-Biet-Nhau-Future-Bass-Remix-Vicky-Nhung-RUOUVANG"
+			}],
+			"artists_names": "Vicky Nhung, RUOUVANG",
+			"performer": "Vicky Nhung, RUOUVANG",
+			"type": "audio",
+			"link": "/bai-hat/Gia-Nhu-Ta-Chang-Biet-Nhau-Future-Bass-Remix-Vicky-Nhung-RUOUVANG/ZWCWWFOE.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/a/e/1/1ae1e851e29364e5d97314a663ccfbcb.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/e/a/d/f/eadf73cd9c2a54293ebe07c6443e9b4c.jpg?fs=MTY0NjU1NDUwMzI5OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 228,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/675aa506d7413e1f6750/6063054768028172851?authen=exp=1646727303~acl=/675aa506d7413e1f6750/*~hmac=347d3324f39e4ef7c30584b4d038aea9&fs=MTY0NjU1NDUwMzI5OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6IACFW0F",
+				"link": "/album/Gia-Nhu-Ta-Chang-Biet-Nhau-Future-Bass-Remix-Single-Vicky-Nhung-RUOUVANG/6IACFW0F.html",
+				"title": "Giá Như Ta Chẳng Biết Nhau (Future Bass Remix) (Single)",
+				"name": "Giá Như Ta Chẳng Biết Nhau (Future Bass Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Vicky Nhung, RUOUVANG",
+				"artists": [
+				{
+					"name": "Vicky Nhung",
+					"link": "/nghe-si/Vicky-Nhung-RUOUVANG"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/a/b/3/a/ab3a6d361919f179f01cd0b424b7cac8.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/a/b/3/a/ab3a6d361919f179f01cd0b424b7cac8.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAZOO6",
+				"name": "Vicky Nhung",
+				"link": "/nghe-si/Vicky-Nhung",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/9/6/9/6/969662a70ad82b0d3fcb45cb6380998b.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/b/d/d/8/bdd859b5263c8c054e03706495d49435.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 86
+		},
+		{
+			"id": "ZUCO09AD",
+			"name": "Trúc Xinh (EDM)",
+			"title": "Trúc Xinh (EDM)",
+			"code": "ZncnyLkLADbSiSZTmTbnLmyZhSCphpBGB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Truc-Xinh-EDM-Minh-Vuong-M4U"
+			}],
+			"artists_names": "Minh Vương M4U",
+			"performer": "Minh Vương M4U",
+			"type": "audio",
+			"link": "/bai-hat/Truc-Xinh-EDM-Minh-Vuong-M4U/ZUCO09AD.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/5/e/8/3/5e834ad98ec761ad864811e13f2b52bb.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg?fs=MTY0NjU1NDUwMzMwMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 255,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/e3bd22342b75c22b9b64/4107526165095429821?authen=exp=1646727303~acl=/e3bd22342b75c22b9b64/*~hmac=44eb11f5b8693a85d7cba23a8e3957e9&fs=MTY0NjU1NDUwMzMwM3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 87
+		},
+		{
+			"id": "ZUCO06C6",
+			"name": "Họa Khúc Tương Tư (EDM)",
+			"title": "Họa Khúc Tương Tư (EDM)",
+			"code": "kncmtLLklDDzkuJtmtbGLGtkCzCQhQBHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Hoa-Khuc-Tuong-Tu-EDM-Minh-Vuong-M4U-Thuong-Vo"
+			}],
+			"artists_names": "Minh Vương M4U, Thương Võ",
+			"performer": "Minh Vương M4U, Thương Võ",
+			"type": "audio",
+			"link": "/bai-hat/Hoa-Khuc-Tuong-Tu-EDM-Minh-Vuong-M4U-Thuong-Vo/ZUCO06C6.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/9/c/f/6/9cf61fabaf0e855d041672443d4161cf.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg?fs=MTY0NjU1NDUwMzMwM3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 331,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/4b7724ff2dbec4e09daf/8216612005235149502?authen=exp=1646727303~acl=/4b7724ff2dbec4e09daf/*~hmac=44dd0b9f260c006e046519158aaca21c&fs=MTY0NjU1NDUwMzMwNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 88
+		},
+		{
+			"id": "ZZ0ODD00",
+			"name": "Mẹ (Xa Nhà) (Tropical Version)",
+			"title": "Mẹ (Xa Nhà) (Tropical Version)",
+			"code": "kHJmyLkkJAsBdSzymtbmZHtkClCWhWdHd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "69FZEC67",
+			"artists": [
+			{
+				"name": "Trung Tự",
+				"link": "/nghe-si/Me-Xa-Nha-Tropical-Version-Trung-Tu"
+			}],
+			"artists_names": "Trung Tự",
+			"performer": "Trung Tự",
+			"type": "audio",
+			"link": "/bai-hat/Me-Xa-Nha-Tropical-Version-Trung-Tu/ZZ0ODD00.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/4/4/f/6/44f67119f26e16cb33fc81b00db342ad.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/d/f/a/ddfab6ce06b378e6926b815caa0aabab.jpg?fs=MTY0NjU1NDUwMzMwNXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 199,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/8c01a66cd92d3073693c/8759864197141864643?authen=exp=1646727303~acl=/8c01a66cd92d3073693c/*~hmac=8d680cb3915e2b595fc4ee706d16e930&fs=MTY0NjU1NDUwMzMwNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "69FZEC67",
+				"link": "/album/Me-Xa-Nha-Tropical-Version-Single-Trung-Tu/69FZEC67.html",
+				"title": "Mẹ (Xa Nhà) (Tropical Version) (Single)",
+				"name": "Mẹ (Xa Nhà) (Tropical Version) (Single)",
+				"isoffical": true,
+				"artists_names": "Trung Tự",
+				"artists": [
+				{
+					"name": "Trung Tự",
+					"link": "/nghe-si/Trung-Tu"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/d/d/f/a/ddfab6ce06b378e6926b815caa0aabab.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/d/f/a/ddfab6ce06b378e6926b815caa0aabab.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9E9AW",
+				"name": "Trung Tự",
+				"link": "/nghe-si/Trung-Tu",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/1/0/108bbcfcb20d17a027d596ef3a959578_1511500164.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/0/0/b/200bcd3f44bb3c6dcd4a1f4a5ac9f452.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 89
+		},
+		{
+			"id": "ZWBOU0II",
+			"name": "Lữ Khách Qua Thời Gian (Remix)",
+			"title": "Lữ Khách Qua Thời Gian (Remix)",
+			"code": "kGxmyknaRCdWJQsTnyvHZHTkXzhphpBHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Tuấn Nguyễn",
+				"link": "/nghe-si/Lu-Khach-Qua-Thoi-Gian-Remix-Tuan-Nguyen"
+			}],
+			"artists_names": "Tuấn Nguyễn",
+			"performer": "Tuấn Nguyễn",
+			"type": "audio",
+			"link": "/bai-hat/Lu-Khach-Qua-Thoi-Gian-Remix-Tuan-Nguyen/ZWBOU0II.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/3/3/c/133ca0efa5e4336b6cc4ac693fd61b18.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/7/c/9/d/7c9d3e1969ab9a8643186e7ca6142643.jpg?fs=MTY0NjU1NDUwMzMwOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 198,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/5657fc6cec2b05755c3a/1790917339403799800?authen=exp=1646727303~acl=/5657fc6cec2b05755c3a/*~hmac=19e63126e3b5074da22c1fae8c630bb3&fs=MTY0NjU1NDUwMzMwOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6ZUZ9W",
+				"name": "Tuấn Nguyễn",
+				"link": "/nghe-si/Nguyen-Le-Anh-Tuan",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/5/5/7/355730838415e308b142ce3a8838979c.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 90
+		},
+		{
+			"id": "ZWBWOU90",
+			"name": "Một Lần Dang Dở (Phong Max Remix)",
+			"title": "Một Lần Dang Dở (Phong Max Remix)",
+			"code": "ZHcmyZHsRpCaBsCTmyFGkmyZXSCQXWdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "600OC66W",
+			"artists": [
+			{
+				"name": "Thái Quỳnh",
+				"link": "/nghe-si/Mot-Lan-Dang-Do-Phong-Max-Remix-Thai-Quynh"
+			}],
+			"artists_names": "Thái Quỳnh",
+			"performer": "Thái Quỳnh",
+			"type": "audio",
+			"link": "/bai-hat/Mot-Lan-Dang-Do-Phong-Max-Remix-Thai-Quynh/ZWBWOU90.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/b/c/6/bbc67190cb80910360a19eca22a48e0d.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/0/3/7/4037c2d601a1e1c1de1b1a5262f95479.jpg?fs=MTY0NjU1NDUwMzMxMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 178,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/577ea65dbd1a54440d0b/3455282103769441963?authen=exp=1646727303~acl=/577ea65dbd1a54440d0b/*~hmac=5418ed9ff0d3be09dfab14f3e3624f99&fs=MTY0NjU1NDUwMzMxMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "600OC66W",
+				"link": "/album/Mot-Lan-Dang-Do-Phong-Max-Remix-Single-Thai-Quynh/600OC66W.html",
+				"title": "Một Lần Dang Dở (Phong Max Remix) (Single)",
+				"name": "Một Lần Dang Dở (Phong Max Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Thái Quỳnh",
+				"artists": [
+				{
+					"name": "Thái Quỳnh",
+					"link": "/nghe-si/Thai-Quynh"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/4/0/3/7/4037c2d601a1e1c1de1b1a5262f95479.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/4/0/3/7/4037c2d601a1e1c1de1b1a5262f95479.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6WABW7",
+				"name": "Thái Quỳnh",
+				"link": "/nghe-si/Thai-Quynh",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/2/e/a/62ea7836f7d4ce14d79762fc04a4aaf9.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 91
+		},
+		{
+			"id": "ZZOW98ZI",
+			"name": "Nỗi Đau Xót Xa (EDM)Nỗi Đau Xót Xa (EDM)",
+			"title": "Nỗi Đau Xót Xa (EDM)Nỗi Đau Xót Xa (EDM)",
+			"code": "ZHcHtLLbkWdpRWBTmTFHknTZgAhWhpBHB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Hương Ly",
+				"link": "/nghe-si/Noi-Dau-Xot-Xa-EDM-Noi-Dau-Xot-Xa-EDM-Huong-Ly"
+			}],
+			"artists_names": "Hương Ly",
+			"performer": "Hương Ly",
+			"type": "audio",
+			"link": "/bai-hat/Noi-Dau-Xot-Xa-EDM-Noi-Dau-Xot-Xa-EDM-Huong-Ly/ZZOW98ZI.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/9/4/3/0/9430bbdc2d5d46c0cfaa74782fa3f27b.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/4/c/b/3/4cb3cc5a19be786f0771ba8e2c530828.jpg?fs=MTY0NjU1NDUwMzMxNXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 269,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/afece17e913f7861212e/2456248926695949180?authen=exp=1646727303~acl=/afece17e913f7861212e/*~hmac=4cfc056e678ee4a241855aaa1643ae36&fs=MTY0NjU1NDUwMzMxNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6ZO9UB",
+				"name": "Hương Ly",
+				"link": "/nghe-si/Nguyen-Huong-Ly",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/c/b/3/4cb3cc5a19be786f0771ba8e2c530828.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 92
+		},
+		{
+			"id": "ZOZ6OF9W",
+			"name": "Lạc Bước Thiên Đường (Tropical Version)",
+			"title": "Lạc Bước Thiên Đường (Tropical Version)",
+			"code": "LHcmyZmiHdkJmiJymtDGZGyLClhQgpdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6707DI8O",
+			"artists": [
+			{
+				"name": "Đức Hati",
+				"link": "/nghe-si/Lac-Buoc-Thien-Duong-Tropical-Version-Duc-Hati-Htrol"
+			}],
+			"artists_names": "Đức Hati, Htrol",
+			"performer": "Đức Hati, Htrol",
+			"type": "audio",
+			"link": "/bai-hat/Lac-Buoc-Thien-Duong-Tropical-Version-Duc-Hati-Htrol/ZOZ6OF9W.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/6/c/5/16c55dcb54427520df54c071203e7d7b.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/4/d/4/24d4293d708d7fdbf2f5b55f72bd9dae.jpg?fs=MTY0NjU1NDUwMzMxNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 205,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/ff3282721b35f26bab24/6894055262168122479?authen=exp=1646727303~acl=/ff3282721b35f26bab24/*~hmac=a4d590eb8adb2e0face81c649ae0db35&fs=MTY0NjU1NDUwMzMxN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6707DI8O",
+				"link": "/album/Lac-Buoc-Thien-Duong-Tropical-Version-Single-Duc-Hati-Htrol/6707DI8O.html",
+				"title": "Lạc Bước Thiên Đường (Tropical Version) (Single)",
+				"name": "Lạc Bước Thiên Đường (Tropical Version) (Single)",
+				"isoffical": true,
+				"artists_names": "Đức Hati, Htrol",
+				"artists": [
+				{
+					"name": "Đức Hati",
+					"link": "/nghe-si/Duc-Hati-Htrol"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/2/4/d/4/24d4293d708d7fdbf2f5b55f72bd9dae.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/4/d/4/24d4293d708d7fdbf2f5b55f72bd9dae.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6ZACOB",
+				"name": "Đức Hati",
+				"link": "/nghe-si/Duc-Hati",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/b/6/2/7b6245c53d4ab6183f1ffd7b54d88b6d.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 93
+		},
+		{
+			"id": "ZWBOEOII",
+			"name": "Đáp Án Của Bạn (Remix)",
+			"title": "Đáp Án Của Bạn (Remix)",
+			"code": "LGxmykGaRXNapcpyHtDnkmyLhShQCpdGV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "60EUBO8B",
+			"artists": [
+			{
+				"name": "Anna",
+				"link": "/nghe-si/Dap-An-Cua-Ban-Remix-Anna-Htrol"
+			}],
+			"artists_names": "Anna, Htrol",
+			"performer": "Anna, Htrol",
+			"type": "audio",
+			"link": "/bai-hat/Dap-An-Cua-Ban-Remix-Anna-Htrol/ZWBOEOII.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/1/4/9/8/149867ed0626779a003ea8fa1de4da92.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/9/0/6/b906756fafdbe392498d7b7d1bfe96a1.jpg?fs=MTY0NjU1NDUwMzMyMHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 262,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/1467dc68cd2f24717d3e/2435622376712712253?authen=exp=1646727303~acl=/1467dc68cd2f24717d3e/*~hmac=69a248306c8f92e0c1cbe5a03babb424&fs=MTY0NjU1NDUwMzMyMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "60EUBO8B",
+				"link": "/album/Dap-An-Cua-Ban-Single-Anna/60EUBO8B.html",
+				"title": "Đáp Án Của Bạn (Single)",
+				"name": "Đáp Án Của Bạn (Single)",
+				"isoffical": true,
+				"artists_names": "Anna",
+				"artists": [
+				{
+					"name": "Anna",
+					"link": "/nghe-si/Anna"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/b/9/0/6/b906756fafdbe392498d7b7d1bfe96a1.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/9/0/6/b906756fafdbe392498d7b7d1bfe96a1.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6ZBDFZ",
+				"name": "Anna",
+				"link": "/nghe-si/Anna-1982",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/d/0/d/9d0d920994301808ecb19f5b45754a53.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 94
+		},
+		{
+			"id": "ZWBW8I7F",
+			"name": "Em Bỏ Tôi Rồi",
+			"title": "Em Bỏ Tôi Rồi",
+			"code": "ZnJmyLHauWcNnNLymtvnLmtkXAhWgWBHV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "60O0ZIEZ",
+			"artists": [
+			{
+				"name": "YuniBoo",
+				"link": "/nghe-si/Em-Bo-Toi-Roi-YuniBoo-Goctoi-Mixer"
+			}],
+			"artists_names": "YuniBoo, Goctoi Mixer",
+			"performer": "YuniBoo, Goctoi Mixer",
+			"type": "audio",
+			"link": "/bai-hat/Em-Bo-Toi-Roi-YuniBoo-Goctoi-Mixer/ZWBW8I7F.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/8/4/f/b/84fb1c086b99bd69d1e2c8e089208eea.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/a/b/c/8abc6897724e4120a3016c0e5cf8ea83.jpg?fs=MTY0NjU1NDUwMzMyNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Em-Bo-Toi-Roi-YuniBoo-Goctoi-Mixer/ZWBW8I7F.html",
+			"duration": 251,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/19399a948fd3668d3fc2/8113889876785520667?authen=exp=1646727303~acl=/19399a948fd3668d3fc2/*~hmac=b283f669eb3c852e303aa1e88a9dcb65&fs=MTY0NjU1NDUwMzMyNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "60O0ZIEZ",
+				"link": "/album/Em-Bo-Toi-Roi-Single-YuniBoo-Goctoi-Mixer/60O0ZIEZ.html",
+				"title": "Em Bỏ Tôi Rồi (Single)",
+				"name": "Em Bỏ Tôi Rồi (Single)",
+				"isoffical": true,
+				"artists_names": "YuniBoo, Goctoi Mixer",
+				"artists": [
+				{
+					"name": "YuniBoo",
+					"link": "/nghe-si/YuniBoo-Goctoi-Mixer"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/7/3/f/5/73f5757a3ae6e947b553349df8eb1e02.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/3/f/5/73f5757a3ae6e947b553349df8eb1e02.jpg"
+			},
+			"artist":
+			{
+				"id": "IW6ZZ98C",
+				"name": "YuniBoo",
+				"link": "/nghe-si/YuniBoo",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/b/2/e/2b2e9be76a7bfb2b175dfb0e9258d870.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 95
+		},
+		{
+			"id": "ZWE98BOB",
+			"name": "021 (Shrimp Remix)",
+			"title": "021 (Shrimp Remix)",
+			"code": "kHxHyZmcdLRlnzdymybHZGTkhzCWCWdnB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6ZWU69D6",
+			"artists": [
+			{
+				"name": "Binz",
+				"link": "/nghe-si/021-Shrimp-Remix-Binz"
+			}],
+			"artists_names": "Binz",
+			"performer": "Binz",
+			"type": "audio",
+			"link": "/bai-hat/021-Shrimp-Remix-Binz/ZWE98BOB.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/c/0/c/e/c0ceaf0159ce59ba8c3239f7b741d46a.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/a/1/c/da1c33c471b132a0be34e24b7da90c97.jpg?fs=MTY0NjU1NDUwMzMyOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 99,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/278a30ad72ea9bb4c2fb/6483770463011190194?authen=exp=1646727303~acl=/278a30ad72ea9bb4c2fb/*~hmac=1ff1c4e21450d796f3f78f64bfc4dc76&fs=MTY0NjU1NDUwMzMzMHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6ZWU69D6",
+				"link": "/album/021-Shrimp-Remix-Single-Binz/6ZWU69D6.html",
+				"title": "021 (Shrimp Remix) (Single)",
+				"name": "021 (Shrimp Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Binz",
+				"artists": [
+				{
+					"name": "Binz",
+					"link": "/nghe-si/Binz"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/4/1/a/5/41a54d6edf0bd1b96a107c6cedef09d0.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/4/1/a/5/41a54d6edf0bd1b96a107c6cedef09d0.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ96FEI",
+				"name": "Binz",
+				"link": "/nghe-si/Binz",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/c/a/5/d/ca5de025c0c9b6ffc69591be59cc6f31.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 96
+		},
+		{
+			"id": "ZWBOUAW7",
+			"name": "Hãy Buông Tay Em (EDM Version)",
+			"title": "Hãy Buông Tay Em (EDM Version)",
+			"code": "ZmJHtZGaigdxlBEtmTbmLGtZCzhWgWdmV",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Hương Ly",
+				"link": "/nghe-si/Hay-Buong-Tay-Em-EDM-Version-Huong-Ly-ACV"
+			}],
+			"artists_names": "Hương Ly, ACV",
+			"performer": "Hương Ly, ACV",
+			"type": "audio",
+			"link": "/bai-hat/Hay-Buong-Tay-Em-EDM-Version-Huong-Ly-ACV/ZWBOUAW7.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/5/2/4/8/5248a1db5bb40b68130e51dd91133b4e.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/5/e/3/2/5e322024f707148e51c0591591f0ee38.jpg?fs=MTY0NjU1NDUwMzMzM3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 227,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/7fee20ec30abd9f580ba/6398604906433538302?authen=exp=1646727303~acl=/7fee20ec30abd9f580ba/*~hmac=63dae36883b724cbbdea8896de4e18dc&fs=MTY0NjU1NDUwMzMzNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IW6ZO9UB",
+				"name": "Hương Ly",
+				"link": "/nghe-si/Nguyen-Huong-Ly",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/c/b/3/4cb3cc5a19be786f0771ba8e2c530828.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 97
+		},
+		{
+			"id": "ZZOW98UF",
+			"name": "Thê Tử (EDM)",
+			"title": "Thê Tử (EDM)",
+			"code": "ZGxGyLLbkpdQiWkTmyFHkmtkXzCQCQdmd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/The-Tu-EDM-Minh-Vuong-M4U"
+			}],
+			"artists_names": "Minh Vương M4U",
+			"performer": "Minh Vương M4U",
+			"type": "audio",
+			"link": "/bai-hat/The-Tu-EDM-Minh-Vuong-M4U/ZZOW98UF.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/4/7/0/b470e04a6f8137381496f20eb4f727e1.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg?fs=MTY0NjU1NDUwMzMzNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 289,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/f9b0b322c3632a3d7372/411684975258436105?authen=exp=1646727303~acl=/f9b0b322c3632a3d7372/*~hmac=d2e34c569ad1d481d2b031da241cd7f0&fs=MTY0NjU1NDUwMzMzN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZFA7",
+				"name": "Minh Vương M4U",
+				"link": "/nghe-si/Minh-Vuong-M4U",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 98
+		},
+		{
+			"id": "ZWBUCAZZ",
+			"name": "Cần Gì Hơn (DSmall Remix)",
+			"title": "Cần Gì Hơn (DSmall Remix)",
+			"code": "ZnJGtZGaisVXsxRtmyvnZmTkCzhQgWdnB",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "6IOEB007",
+			"artists": [
+			{
+				"name": "Tiên Tiên",
+				"link": "/nghe-si/Can-Gi-Hon-DSmall-Remix-Tien-Tien-JustaTee-DJ-DSmall"
+			}],
+			"artists_names": "Tiên Tiên, JustaTee, DJ DSmall",
+			"performer": "Tiên Tiên, JustaTee, DJ DSmall",
+			"type": "audio",
+			"link": "/bai-hat/Can-Gi-Hon-DSmall-Remix-Tien-Tien-JustaTee-DJ-DSmall/ZWBUCAZZ.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/1/5/8/b158fe644931c601d8edf7af441b64d5.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/b/c/1/3/bc13a41527f88fe72b851e0e3990863f.jpg?fs=MTY0NjU1NDUwMzMzN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 183,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/6ccb53415f06b658ef17/8838516980346078049?authen=exp=1646727303~acl=/6ccb53415f06b658ef17/*~hmac=4588c906f13a72abb43cd6556a930bd1&fs=MTY0NjU1NDUwMzMzOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "6IOEB007",
+				"link": "/album/Can-Gi-Hon-The-Remixes-Single-Tien-Tien-JustaTee/6IOEB007.html",
+				"title": "Cần Gì Hơn (The Remixes) (Single)",
+				"name": "Cần Gì Hơn (The Remixes) (Single)",
+				"isoffical": true,
+				"artists_names": "Tiên Tiên, JustaTee",
+				"artists": [
+				{
+					"name": "Tiên Tiên",
+					"link": "/nghe-si/Tien-Tien-JustaTee"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/a/3/f/d/a3fdc03f714f2543df6e01f34f08966b.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/a/3/f/d/a3fdc03f714f2543df6e01f34f08966b.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZAOAIC",
+				"name": "Tiên Tiên",
+				"link": "/nghe-si/Tien-Tien",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/1/8/18fd179b43ebc62fd7d2bcda665c4a2e_1483435909.png",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/4/5/a/d45a6d2bdf4894b2249b45d16f31c7a1.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 99
+		},
+		{
+			"id": "ZWBIAO0I",
+			"name": "Đừng Gọi Tên Nhau Nữa (Remix)",
+			"title": "Đừng Gọi Tên Nhau Nữa (Remix)",
+			"code": "LmJHyZmNRWdmZLByHtbmZnTZCShWXQVGd",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZFBBDFI7",
+			"artists": [
+			{
+				"name": "Khang Việt",
+				"link": "/nghe-si/Dung-Goi-Ten-Nhau-Nua-Remix-Khang-Viet"
+			}],
+			"artists_names": "Khang Việt",
+			"performer": "Khang Việt",
+			"type": "audio",
+			"link": "/bai-hat/Dung-Goi-Ten-Nhau-Nua-Remix-Khang-Viet/ZWBIAO0I.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/b/b/7/b/bb7b6c077e40f887dd0fdb1805434c48.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/8/5/f/985f3ceb5417a3308d1ba6c07c1573ab.jpg?fs=MTY0NjU1NDUwMzM0Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 291,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/670d25f63cb1d5ef8ca0/1993473790129082939?authen=exp=1646727303~acl=/670d25f63cb1d5ef8ca0/*~hmac=d3a82fc2c6def66d490c7ce05fa49722&fs=MTY0NjU1NDUwMzM0M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZFBBDFI7",
+				"link": "/album/Dung-Goi-Ten-Nhau-Nua-Remix-Single-Khang-Viet/ZFBBDFI7.html",
+				"title": "Đừng Gọi Tên Nhau Nữa (Remix) (Single)",
+				"name": "Đừng Gọi Tên Nhau Nữa (Remix) (Single)",
+				"isoffical": true,
+				"artists_names": "Khang Việt",
+				"artists": [
+				{
+					"name": "Khang Việt",
+					"link": "/nghe-si/Khang-Viet"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/9/8/5/f/985f3ceb5417a3308d1ba6c07c1573ab.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/8/5/f/985f3ceb5417a3308d1ba6c07c1573ab.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZB7D",
+				"name": "Khang Việt",
+				"link": "/nghe-si/Khang-Viet",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/4/d/7/24d7c0feb63a0f52e6d6df9fa03ff94d.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 100
+		}],
+		"is_vip": false,
+		"info":
+		{
+			"id": "Z6CZOIWU",
+			"link": "/album/Top-100-Nhac-EDM-Viet-Hay-Nhat-Masew-Phao-CM1X-Tang-Duy-Tan/Z6CZOIWU.html",
+			"title": "Top 100 Nhạc EDM Việt Hay Nhất",
+			"name": "Top 100 Nhạc EDM Việt Hay Nhất",
+			"isoffical": true,
+			"artists_names": "Masew, Pháo, CM1X, Tăng Duy Tân",
+			"artists": [
+			{
+				"name": "Nhiều Nghệ Sĩ",
+				"link": "/nghe-si/Masew-Phao-CM1X-Tang-Duy-Tan"
+			}],
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/e/7/f/d/e7fd4a8069cd341063b838aeaa249626.jpg",
+			"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/e/7/f/d/e7fd4a8069cd341063b838aeaa249626.jpg"
+		},
+		"ip": "58.187.12.190"
+	},
+	"timestamp": 1646554503345
+}

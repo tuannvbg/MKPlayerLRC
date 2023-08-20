@@ -1,0 +1,1621 @@
+{
+	"err": 0,
+	"msg": "Success",
+	"data":
+	{
+		"items": [
+		{
+			"id": "ZWZA8DIA",
+			"name": "Thà Rằng Như Thế",
+			"title": "Thà Rằng Như Thế",
+			"code": "kmxHtkmNdcvvJNSyHyFGZnTkCShWcRHsC",
+			"content_owner": 10088,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ9Z9AO",
+			"artists": [
+			{
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Tha-Rang-Nhu-The-Ung-Hoang-Phuc"
+			}],
+			"artists_names": "Ưng Hoàng Phúc",
+			"performer": "Ưng Hoàng Phúc",
+			"type": "audio",
+			"link": "/bai-hat/Tha-Rang-Nhu-The-Ung-Hoang-Phuc/ZWZA8DIA.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/0/1/01b9d0bc08bbc54d9e99e6bee68f73ac_1073822874.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/3/9/390f947faa694395ba013fd7b6c88bc9_1287301958.jpg?fs=MTY0NjU3ODI3NjgxNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 201,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/9cdf65696f2d8673df3c/3045651052895090130?authen=exp=1646751076~acl=/9cdf65696f2d8673df3c/*~hmac=16c4c6d463ea12a615cda6bf5ea7f8a3&fs=MTY0NjU3ODI3NjgxN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9Z9AO",
+				"link": "/album/Tha-Rang-Nhu-The-Toi-Di-Tim-Toi-Ung-Hoang-Phuc/ZWZ9Z9AO.html",
+				"title": "Thà Rằng Như Thế... Tôi Đi Tìm Tôi",
+				"name": "Thà Rằng Như Thế... Tôi Đi Tìm Tôi",
+				"isoffical": true,
+				"artists_names": "Ưng Hoàng Phúc",
+				"artists": [
+				{
+					"name": "Ưng Hoàng Phúc",
+					"link": "/nghe-si/Ung-Hoang-Phuc"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/3/9/390f947faa694395ba013fd7b6c88bc9_1287301958.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/3/9/390f947faa694395ba013fd7b6c88bc9_1287301958.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZWI8",
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Ung-Hoang-Phuc",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/c/5/c5412bfcbf2bdd7299e0f438d732dc9a_1502849125.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/c/8/3/fc835d5168a4263c6a2d5fae30c0a589.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "01"
+		},
+		{
+			"id": "ZWZD9U9U",
+			"name": "Hãy Về Đây Bên Anh",
+			"title": "Hãy Về Đây Bên Anh",
+			"code": "ZHcmykmsSHFLdRhyHyFHknyZgSXWxRnag",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ9CZZI",
+			"artists": [
+			{
+				"name": "Duy Mạnh",
+				"link": "/nghe-si/Hay-Ve-Day-Ben-Anh-Duy-Manh"
+			}],
+			"artists_names": "Duy Mạnh",
+			"performer": "Duy Mạnh",
+			"type": "audio",
+			"link": "/bai-hat/Hay-Ve-Day-Ben-Anh-Duy-Manh/ZWZD9U9U.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/8/f/8fd83ca65deb87fe99ec8de3c2b2f71b_1074021396.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1315705260.jpg?fs=MTY0NjU3ODI3NjgxOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 310,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/4452abe331a7d8f981b6/8789869682202117571?authen=exp=1646751076~acl=/4452abe331a7d8f981b6/*~hmac=efa726bb80c7b12e821ad254650dbe40&fs=MTY0NjU3ODI3NjgxOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9CZZI",
+				"link": "/album/Best-Collection-Duy-Manh-Duy-Manh/ZWZ9CZZI.html",
+				"title": "Best Collection Duy Mạnh",
+				"name": "Best Collection Duy Mạnh",
+				"isoffical": true,
+				"artists_names": "Duy Mạnh",
+				"artists": [
+				{
+					"name": "Duy Mạnh",
+					"link": "/nghe-si/Duy-Manh"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1315705260.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1315705260.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZOZE",
+				"name": "Duy Mạnh",
+				"link": "/nghe-si/Duy-Manh",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/3/f/3fb2db6cccf4a23383383394b28b2b31_1513830388.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/c/9c2ca828fe79504b0017f809274552f6_1509935628.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "02"
+		},
+		{
+			"id": "ZWZ9798D",
+			"name": "Tình Khúc Vàng",
+			"title": "Tình Khúc Vàng",
+			"code": "ZHxHykGadNpDdddTHyFnLnyZCShWxRGaC",
+			"content_owner": 10087,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ9ZUCI",
+			"artists": [
+			{
+				"name": "Đan Trường",
+				"link": "/nghe-si/Tinh-Khuc-Vang-Dan-Truong"
+			}],
+			"artists_names": "Đan Trường",
+			"performer": "Đan Trường",
+			"type": "audio",
+			"link": "/bai-hat/Tinh-Khuc-Vang-Dan-Truong/ZWZ9798D.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/2/a/2aa78bbd2940570f965e662c625c7132_1073752333.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/4/b/4b1c59c7728e2b1cb65f6cb20aaf5cf9_1286475329.jpg?fs=MTY0NjU3ODI3NjgyMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 308,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/09d137c93f8dd6d38f9c/5894329757017281731?authen=exp=1646751076~acl=/09d137c93f8dd6d38f9c/*~hmac=1a7a0d8038f7a4804156b9d674b3ef5b&fs=MTY0NjU3ODI3NjgyMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9ZUCI",
+				"link": "/album/Truong-Chi-My-Nuong-Dan-Truong/ZWZ9ZUCI.html",
+				"title": "Trương Chi - Mỵ Nương",
+				"name": "Trương Chi - Mỵ Nương",
+				"isoffical": true,
+				"artists_names": "Đan Trường",
+				"artists": [
+				{
+					"name": "Đan Trường",
+					"link": "/nghe-si/Dan-Truong"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/4/b/4b1c59c7728e2b1cb65f6cb20aaf5cf9_1286475329.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/4/b/4b1c59c7728e2b1cb65f6cb20aaf5cf9_1286475329.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9Z0CW",
+				"name": "Đan Trường",
+				"link": "/nghe-si/Dan-Truong",
+				"cover": "https://photo-zmp3.zadn.vn/cover3_artist/e/8/e89cc900df82ababd2dc6cfe8813c412_1411585112.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/7/2/f/072fc82083bbf30a171de034a71b3dbb.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "03"
+		},
+		{
+			"id": "ZWZCODCA",
+			"name": "Vì Yêu",
+			"title": "Vì Yêu",
+			"code": "kGcmyLmNdidBhSFymybHLmyZXAgWcEmaX",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ99EE0",
+			"artists": [
+			{
+				"name": "Kasim Hoàng Vũ",
+				"link": "/nghe-si/Vi-Yeu-Kasim-Hoang-Vu"
+			}],
+			"artists_names": "Kasim Hoàng Vũ",
+			"performer": "Kasim Hoàng Vũ",
+			"type": "audio",
+			"link": "/bai-hat/Vi-Yeu-Kasim-Hoang-Vu/ZWZCODCA.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2017/3/8/3854eb91e898e1325292eecbf4f97f10.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/4/c/4cfcaa97232769f2afb463275306bb9b_1307179217.jpg?fs=MTY0NjU3ODI3NjgyNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Vi-Yeu-Kasim-Hoang-Vu/ZWZCODCA.html",
+			"duration": 178,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/634e22ceb68a5fd4069b/1608806377494010338?authen=exp=1646751076~acl=/634e22ceb68a5fd4069b/*~hmac=b2ee060f86ee829c6999ca79616eba62&fs=MTY0NjU3ODI3NjgyNXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ99EE0",
+				"link": "/album/Sao-Mai-Diem-Hen-Hit-Songs-Various-Artists/ZWZ99EE0.html",
+				"title": "Sao Mai Điểm Hẹn - Hit Songs",
+				"name": "Sao Mai Điểm Hẹn - Hit Songs",
+				"isoffical": true,
+				"artists_names": "Various Artists",
+				"artists": [],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/4/c/4cfcaa97232769f2afb463275306bb9b_1307179217.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/4/c/4cfcaa97232769f2afb463275306bb9b_1307179217.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9Z79I",
+				"name": "Kasim Hoàng Vũ",
+				"link": "/nghe-si/Kasim-Hoang-Vu",
+				"cover": "https://photo-zmp3.zadn.vn/cover3_artist/1/3/13e5a66f038b4430a2bd5c0caccd52cc_1412907209.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/6/a6d815db3ef27480260491c1af3de11b_1510386181.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "04"
+		},
+		{
+			"id": "ZWZBFCWF",
+			"name": "Thằng Hề Khóc",
+			"title": "Thằng Hề Khóc",
+			"code": "kmxHyLHaBikgJSatHTFmkGtkXlgQcRGah",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ996DA",
+			"artists": [
+			{
+				"name": "Dương 565",
+				"link": "/nghe-si/Thang-He-Khoc-Duong-565"
+			}],
+			"artists_names": "Dương 565",
+			"performer": "Dương 565",
+			"type": "audio",
+			"link": "/bai-hat/Thang-He-Khoc-Duong-565/ZWZBFCWF.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/5/9/59eef7845758614e6c50cae62461a762_1073916847.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1305441739.jpg?fs=MTY0NjU3ODI3NjgyOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 228,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/7ddec96fc02b2975703a/8413251381046437987?authen=exp=1646751076~acl=/7ddec96fc02b2975703a/*~hmac=e37f827fa9e2341374d6f014ef377b36&fs=MTY0NjU3ODI3NjgyOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ996DA",
+				"link": "/album/Thang-He-Khoc-Duong-565/ZWZ996DA.html",
+				"title": "Thằng Hề Khóc",
+				"name": "Thằng Hề Khóc",
+				"isoffical": true,
+				"artists_names": "Dương 565",
+				"artists": [
+				{
+					"name": "Dương 565",
+					"link": "/nghe-si/Duong-565"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1305441739.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1305441739.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZBUE",
+				"name": "Dương 565",
+				"link": "/nghe-si/Duong-565",
+				"cover": "https://photo-zmp3.zadn.vn/cover3_artist/5/0/50d6a1d1b2ada42dd8df1c9422d51fa2_1412123395.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_png/avatars/8/a/8a2f10d29b3601a13659ac7d1bfd2e95_1488177941.png"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "05"
+		},
+		{
+			"id": "ZWZBIU70",
+			"name": "Người Ra Đi Vì Đâu",
+			"title": "Người Ra Đi Vì Đâu",
+			"code": "ZnxmyLmNBcWNpDHynyDGZmyZhlCQxuHNh",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"artists": [
+			{
+				"name": "Phạm Khánh Hưng",
+				"link": "/nghe-si/Nguoi-Ra-Di-Vi-Dau-Pham-Khanh-Hung"
+			}],
+			"artists_names": "Phạm Khánh Hưng",
+			"performer": "Phạm Khánh Hưng",
+			"type": "audio",
+			"link": "/bai-hat/Nguoi-Ra-Di-Vi-Dau-Pham-Khanh-Hung/ZWZBIU70.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/7/b/6/f/7b6f7b1754462d863210077c11fc3405.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/f/1/f1c7cfd15812fbf2a6912f172463ce38_1345364204.jpg?fs=MTY0NjU3ODI3NjgzMnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Nguoi-Ra-Di-Vi-Dau-Pham-Khanh-Hung/ZWZBIU70.html",
+			"duration": 280,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/f6bc377fa33b4a65132a/5144706612088069260?authen=exp=1646751076~acl=/f6bc377fa33b4a65132a/*~hmac=34ea466fcb90fa702e379772d5b2ec2e&fs=MTY0NjU3ODI3NjgzN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZZAW",
+				"name": "Phạm Khánh Hưng",
+				"link": "/nghe-si/Pham-Khanh-Hung",
+				"cover": "https://photo-zmp3.zadn.vn/cover3_artist/a/7/a7a0b690d3b6a7cebda2aa1802c6d028_1411999125.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/a/f/2/faf2a7ef26d54e68c66f630b907fdc85.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "06"
+		},
+		{
+			"id": "ZW6I7AO8",
+			"name": "Nếu Lúc Trước Em Đừng Tới",
+			"title": "Nếu Lúc Trước Em Đừng Tới",
+			"code": "kmcnykHsSbNCaRDtHybmkHtLgSXQximsh",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZAIEBO",
+			"artists": [
+			{
+				"name": "Quang Vinh",
+				"link": "/nghe-si/Neu-Luc-Truoc-Em-Dung-Toi-Quang-Vinh"
+			}],
+			"artists_names": "Quang Vinh",
+			"performer": "Quang Vinh",
+			"type": "audio",
+			"link": "/bai-hat/Neu-Luc-Truoc-Em-Dung-Toi-Quang-Vinh/ZW6I7AO8.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/6/d/5/d/6d5d8bca32c8f9f31d67c9cb0d197018.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/4/f/4f04235e8ef8b25b0bd41ed404cc96fa_1341416425.jpg?fs=MTY0NjU3ODI3NjgzOHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 273,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/0f923f263662df3c8673/462415611358182120?authen=exp=1646751076~acl=/0f923f263662df3c8673/*~hmac=7ad8807eda5fcbdbe0d72448629090ab&fs=MTY0NjU3ODI3NjgzOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZAIEBO",
+				"link": "/album/Greatest-Hits-Collection-Quang-Vinh/ZWZAIEBO.html",
+				"title": "Greatest Hits Collection",
+				"name": "Greatest Hits Collection",
+				"isoffical": true,
+				"artists_names": "Quang Vinh",
+				"artists": [
+				{
+					"name": "Quang Vinh",
+					"link": "/nghe-si/Quang-Vinh"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/4/f/4f04235e8ef8b25b0bd41ed404cc96fa_1341416425.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/4/f/4f04235e8ef8b25b0bd41ed404cc96fa_1341416425.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9Z0A6",
+				"name": "Quang Vinh",
+				"link": "/nghe-si/Tran-Quang-Vinh",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/4/3/4338da88d54e276e78d65a54dbbbe727_1512617230.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/2/8/d/f28d80ff4eca2403eff48dcbbf7fcb11.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "07"
+		},
+		{
+			"id": "ZWZBEUID",
+			"name": "Mong Người Ta Luôn Tốt Luôn Yêu Em",
+			"title": "Mong Người Ta Luôn Tốt Luôn Yêu Em",
+			"code": "LGJnTkmaBRknCJWyHyFHLHtkgShpJRmNX",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ99U0B",
+			"artists": [
+			{
+				"name": "Lưu Chí Vỹ",
+				"link": "/nghe-si/Mong-Nguoi-Ta-Luon-Tot-Luon-Yeu-Em-Luu-Chi-Vy"
+			}],
+			"artists_names": "Lưu Chí Vỹ",
+			"performer": "Lưu Chí Vỹ",
+			"type": "audio",
+			"link": "/bai-hat/Mong-Nguoi-Ta-Luon-Tot-Luon-Yeu-Em-Luu-Chi-Vy/ZWZBEUID.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2014/4/e/4e5bdd85892c7aac17597424c6fe5f5e_1073910685.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1305085584.jpg?fs=MTY0NjU3ODI3Njg0MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 349,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/0cdabbefc0ab29f570ba/1150040436806973533?authen=exp=1646751076~acl=/0cdabbefc0ab29f570ba/*~hmac=917eeb51c3ce76f4e38699ff7edff4aa&fs=MTY0NjU3ODI3Njg0Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ99U0B",
+				"link": "/album/Mong-Nguoi-Ta-Luon-Tot-Luon-Yeu-Em-Luu-Chi-Vy/ZWZ99U0B.html",
+				"title": "Mong Người Ta Luôn Tốt Luôn Yêu Em",
+				"name": "Mong Người Ta Luôn Tốt Luôn Yêu Em",
+				"isoffical": true,
+				"artists_names": "Lưu Chí Vỹ",
+				"artists": [
+				{
+					"name": "Lưu Chí Vỹ",
+					"link": "/nghe-si/Luu-Chi-Vy"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1305085584.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1305085584.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZB9U",
+				"name": "Lưu Chí Vỹ",
+				"link": "/nghe-si/Luu-Chi-Vy",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/b/0/b06314996d3782951c4a6abeab9748f0_1480912628.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/6/2661b9a04d133cf188955a517d0315cf_1510026545.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "08"
+		},
+		{
+			"id": "ZWZB97O8",
+			"name": "Mối Tình Chiều Mưa Bay",
+			"title": "Mối Tình Chiều Mưa Bay",
+			"code": "ZHJHyLGsdcEkHmHyGtbnkHykhlgWJRnNh",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ98BOB",
+			"artists": [
+			{
+				"name": "Lâm Chấn Hải",
+				"link": "/nghe-si/Moi-Tinh-Chieu-Mua-Bay-Lam-Chan-Hai"
+			}],
+			"artists_names": "Lâm Chấn Hải",
+			"performer": "Lâm Chấn Hải",
+			"type": "audio",
+			"link": "/bai-hat/Moi-Tinh-Chieu-Mua-Bay-Lam-Chan-Hai/ZWZB97O8.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2/d/6/9/2d694ccecd9ca21e15b048ae9252b1a8.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1303391472.jpg?fs=MTY0NjU3ODI3Njg0Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Moi-Tinh-Chieu-Mua-Bay-Lam-Chan-Hai/ZWZB97O8.html",
+			"duration": 323,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/d80d56d15f95b6cbef84/9211860588384272239?authen=exp=1646751076~acl=/d80d56d15f95b6cbef84/*~hmac=b3458da2ef234a20d90946c2b17af30e&fs=MTY0NjU3ODI3Njg1MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ98BOB",
+				"link": "/album/Moi-Tinh-Chieu-Mua-Bay-Lam-Chan-Hai/ZWZ98BOB.html",
+				"title": "Mối Tình Chiều Mưa Bay",
+				"name": "Mối Tình Chiều Mưa Bay",
+				"isoffical": true,
+				"artists_names": "Lâm Chấn Hải",
+				"artists": [
+				{
+					"name": "Lâm Chấn Hải",
+					"link": "/nghe-si/Lam-Chan-Hai"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1303391472.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1303391472.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ96Z0U",
+				"name": "Lâm Chấn Hải",
+				"link": "/nghe-si/Lam-Chan-Hai",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/b/a/2/5/ba25230f7794cdeec8c5d6764eb2e865.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": "09"
+		},
+		{
+			"id": "ZWZB98FE",
+			"name": "Không Yêu Thì Thôi",
+			"title": "Không Yêu Thì Thôi",
+			"code": "kGcmyZmNdcRZSpltmTvHkHykgSXWJEnah",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ98BCU",
+			"artists": [
+			{
+				"name": "Lý Hải",
+				"link": "/nghe-si/Khong-Yeu-Thi-Thoi-Ly-Hai"
+			}],
+			"artists_names": "Lý Hải",
+			"performer": "Lý Hải",
+			"type": "audio",
+			"link": "/bai-hat/Khong-Yeu-Thi-Thoi-Ly-Hai/ZWZB98FE.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/8/7/87a72c9e26311994ee0e0704f1d9c234_1073891454.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/8/68d5535b971d558f594f10a5affd0a71_1303465533.jpg?fs=MTY0NjU3ODI3Njg1Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 235,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/7c64d94d4d09a457fd18/726947910002841232?authen=exp=1646751076~acl=/7c64d94d4d09a457fd18/*~hmac=5d425dd328912af6ed62ff7e235d2c6d&fs=MTY0NjU3ODI3Njg1M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ98BCU",
+				"link": "/album/Giay-Phut-Chia-Xa-Ao-Hoa-Ben-Nguoi-Ly-Hai/ZWZ98BCU.html",
+				"title": "Giây Phút Chia Xa - Áo Hoa Bên Người",
+				"name": "Giây Phút Chia Xa - Áo Hoa Bên Người",
+				"isoffical": true,
+				"artists_names": "Lý Hải",
+				"artists": [
+				{
+					"name": "Lý Hải",
+					"link": "/nghe-si/Ly-Hai"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/6/8/68d5535b971d558f594f10a5affd0a71_1303465533.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/6/8/68d5535b971d558f594f10a5affd0a71_1303465533.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZWUI",
+				"name": "Lý Hải",
+				"link": "/nghe-si/Ly-Hai",
+				"cover": "https://photo-zmp3.zadn.vn/cover3_artist/0/d/0ddd75d1091fa33613c6903581f412df_1411584244.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/2/72acded3acd45e4c8b6ed680854b8ab1_1512616501.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 10
+		},
+		{
+			"id": "ZWZA8DU9",
+			"name": "Giờ Anh Hứa Để Làm Gì",
+			"title": "Giờ Anh Hứa Để Làm Gì",
+			"code": "kmcnyZnsVJFvEFZymybHZHykhSCQcRHNh",
+			"content_owner": 10088,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ9706C",
+			"artists": [
+			{
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Gio-Anh-Hua-De-Lam-Gi-Ung-Hoang-Phuc-H-A-T"
+			}],
+			"artists_names": "Ưng Hoàng Phúc, H.A.T",
+			"performer": "Ưng Hoàng Phúc, H.A.T",
+			"type": "audio",
+			"link": "/bai-hat/Gio-Anh-Hua-De-Lam-Gi-Ung-Hoang-Phuc-H-A-T/ZWZA8DU9.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/6/7/673c3d8f8518ca2f304e89925fdb3e80_1073822921.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/8/68d5535b971d558f594f10a5affd0a71_1292994989.jpg?fs=MTY0NjU3ODI3Njg1N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 337,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/585725665e22b77cee33/6916251657820091881?authen=exp=1646751076~acl=/585725665e22b77cee33/*~hmac=1f1db0c77ec6a61863d06a98bf7aa51e&fs=MTY0NjU3ODI3Njg1OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9706C",
+				"link": "/album/Anh-Khong-Muon-Bat-Cong-Voi-Em-2-Ung-Hoang-Phuc-H-A-T/ZWZ9706C.html",
+				"title": "Anh Không Muốn Bất Công Với Em 2",
+				"name": "Anh Không Muốn Bất Công Với Em 2",
+				"isoffical": true,
+				"artists_names": "Ưng Hoàng Phúc,H.A.T",
+				"artists": [
+				{
+					"name": "Ưng Hoàng Phúc",
+					"link": "/nghe-si/Ung-Hoang-Phuc-H-A-T"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/6/8/68d5535b971d558f594f10a5affd0a71_1292994989.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/6/8/68d5535b971d558f594f10a5affd0a71_1292994989.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZWI8",
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Ung-Hoang-Phuc",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/c/5/c5412bfcbf2bdd7299e0f438d732dc9a_1502849125.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/c/8/3/fc835d5168a4263c6a2d5fae30c0a589.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 11
+		},
+		{
+			"id": "ZWZBFBC0",
+			"name": "Giọt Nước Mắt Chảy Ngược",
+			"title": "Giọt Nước Mắt Chảy Ngược",
+			"code": "kmJHTLnadiLgadCymTbHLnyLgShQxiHsg",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ996CZ",
+			"artists": [
+			{
+				"name": "MBK",
+				"link": "/nghe-si/Giot-Nuoc-Mat-Chay-Nguoc-MBK"
+			}],
+			"artists_names": "MBK",
+			"performer": "MBK",
+			"type": "audio",
+			"link": "/bai-hat/Giot-Nuoc-Mat-Chay-Nguoc-MBK/ZWZBFBC0.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2017/12/23/a5c3116b960c8cabbbbe259a6c723fbf_1073916736.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1305437335.jpg?fs=MTY0NjU3ODI3Njg2MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 284,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/b127b4f7bdb354ed0da2/988704718166499861?authen=exp=1646751076~acl=/b127b4f7bdb354ed0da2/*~hmac=fa8f215e6ffcec89ab6d1904bef5cc8b&fs=MTY0NjU3ODI3Njg2Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ996CZ",
+				"link": "/album/Qua-Roi-Cuoc-Vui-MBK/ZWZ996CZ.html",
+				"title": "Qua Rồi Cuộc Vui",
+				"name": "Qua Rồi Cuộc Vui",
+				"isoffical": true,
+				"artists_names": "MBK",
+				"artists": [
+				{
+					"name": "MBK",
+					"link": "/nghe-si/MBK"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1305437335.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1305437335.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZD90",
+				"name": "MBK",
+				"link": "/nghe-si/MBK",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/9/8/6/6/98664fabac2713befc3a0371994b80cf.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/4/3/9/44393a144d618c0552e37f36c3a816f6.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 12
+		},
+		{
+			"id": "ZWZD9U97",
+			"name": "Ta Đâu Có Say",
+			"title": "Ta Đâu Có Say",
+			"code": "ZHxmtZHazmDLVuRymybmkmykhlCpJRmah",
+			"content_owner": 10101,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ9CZZI",
+			"artists": [
+			{
+				"name": "Duy Mạnh",
+				"link": "/nghe-si/Ta-Dau-Co-Say-Duy-Manh"
+			}],
+			"artists_names": "Duy Mạnh",
+			"performer": "Duy Mạnh",
+			"type": "audio",
+			"link": "/bai-hat/Ta-Dau-Co-Say-Duy-Manh/ZWZD9U97.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/6/6/66b4ece2e0102ab7590d5e05064e367d_1074021399.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1315705260.jpg?fs=MTY0NjU3ODI3Njg2Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 287,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/faf03441ae05475b1e14/4884819480091759967?authen=exp=1646751076~acl=/faf03441ae05475b1e14/*~hmac=adf731de20b1b250997b616314c44f91&fs=MTY0NjU3ODI3Njg2N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9CZZI",
+				"link": "/album/Best-Collection-Duy-Manh-Duy-Manh/ZWZ9CZZI.html",
+				"title": "Best Collection Duy Mạnh",
+				"name": "Best Collection Duy Mạnh",
+				"isoffical": true,
+				"artists_names": "Duy Mạnh",
+				"artists": [
+				{
+					"name": "Duy Mạnh",
+					"link": "/nghe-si/Duy-Manh"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1315705260.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1315705260.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZOZE",
+				"name": "Duy Mạnh",
+				"link": "/nghe-si/Duy-Manh",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/3/f/3fb2db6cccf4a23383383394b28b2b31_1513830388.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/c/9c2ca828fe79504b0017f809274552f6_1509935628.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 13
+		},
+		{
+			"id": "ZWZA8DO7",
+			"name": "Vì Một Người Ra Đi",
+			"title": "Vì Một Người Ra Đi",
+			"code": "ZGcmykmadcbbEmBtHyFmkmyZCACpcuHsh",
+			"content_owner": 10088,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ9Z9AZ",
+			"artists": [
+			{
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Vi-Mot-Nguoi-Ra-Di-Ung-Hoang-Phuc"
+			}],
+			"artists_names": "Ưng Hoàng Phúc",
+			"performer": "Ưng Hoàng Phúc",
+			"type": "audio",
+			"link": "/bai-hat/Vi-Mot-Nguoi-Ra-Di-Ung-Hoang-Phuc/ZWZA8DO7.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/7/7/777b9b4ba3a3583a421662bd583ee14f_1073822903.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/8/9/89e0cff4f169a92404d500dc990d6bae_1287301999.jpg?fs=MTY0NjU3ODI3Njg2N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 266,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/e1dc166a1c2ef570ac3f/8578292689425389244?authen=exp=1646751076~acl=/e1dc166a1c2ef570ac3f/*~hmac=29a955056468e6eb9a1e74ffe5f76299&fs=MTY0NjU3ODI3Njg2OXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9Z9AZ",
+				"link": "/album/Nguoi-Ta-Noi-Tha-Mot-Lan-Dau-Ung-Hoang-Phuc/ZWZ9Z9AZ.html",
+				"title": "Người Ta Nói...  Thà Một Lần Đau",
+				"name": "Người Ta Nói...  Thà Một Lần Đau",
+				"isoffical": true,
+				"artists_names": "Ưng Hoàng Phúc",
+				"artists": [
+				{
+					"name": "Ưng Hoàng Phúc",
+					"link": "/nghe-si/Ung-Hoang-Phuc"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/8/9/89e0cff4f169a92404d500dc990d6bae_1287301999.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/8/9/89e0cff4f169a92404d500dc990d6bae_1287301999.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZWI8",
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Ung-Hoang-Phuc",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/c/5/c5412bfcbf2bdd7299e0f438d732dc9a_1502849125.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/c/8/3/fc835d5168a4263c6a2d5fae30c0a589.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 14
+		},
+		{
+			"id": "ZWZFDBE6",
+			"name": "Dáng Em",
+			"title": "Dáng Em",
+			"code": "ZmxnyLmazkaHsDXTnyDmLGyLXzCpJumag",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ9F9O6",
+			"artists": [
+			{
+				"name": "Nguyễn Phi Hùng",
+				"link": "/nghe-si/Dang-Em-Nguyen-Phi-Hung"
+			}],
+			"artists_names": "Nguyễn Phi Hùng",
+			"performer": "Nguyễn Phi Hùng",
+			"type": "audio",
+			"link": "/bai-hat/Dang-Em-Nguyen-Phi-Hung/ZWZFDBE6.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/9/c/9c7c1cdb99773b9a7ccfab4d0965bac2_1074170726.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/1/0/107e0c213de97026454ed1e670ccef1a_1332907631.jpg?fs=MTY0NjU3ODI3Njg3MHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 282,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/28e502c6988271dc2893/8313959002403244773?authen=exp=1646751076~acl=/28e502c6988271dc2893/*~hmac=51014a4e2b57c952d298fa8f901d941a&fs=MTY0NjU3ODI3Njg3MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9F9O6",
+				"link": "/album/Nhung-Tinh-Khuc-Nhac-Hoa-Loi-Viet-Nguyen-Phi-Hung/ZWZ9F9O6.html",
+				"title": "Những Tình Khúc Nhạc Hoa Lời Việt",
+				"name": "Những Tình Khúc Nhạc Hoa Lời Việt",
+				"isoffical": true,
+				"artists_names": "Nguyễn Phi Hùng",
+				"artists": [
+				{
+					"name": "Nguyễn Phi Hùng",
+					"link": "/nghe-si/Nguyen-Phi-Hung"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/1/0/107e0c213de97026454ed1e670ccef1a_1332907631.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/1/0/107e0c213de97026454ed1e670ccef1a_1332907631.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZOF6",
+				"name": "Nguyễn Phi Hùng",
+				"link": "/nghe-si/Nguyen-Phi-Hung",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/b/3/b3843d200416e789ce01fc3a8651359f_1502336062.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/1/41e23f2e81f47c4f9a621244ef4045a4_1502336403.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 15
+		},
+		{
+			"id": "ZWZ987CC",
+			"name": "Ngôi Sao Lẻ Loi",
+			"title": "Ngôi Sao Lẻ Loi",
+			"code": "kHJGtZnNdsWWuxHtHyFmkmyZCAXQJRHaC",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"artists": [
+			{
+				"name": "Phan Đinh Tùng",
+				"link": "/nghe-si/Ngoi-Sao-Le-Loi-Phan-Dinh-Tung"
+			}],
+			"artists_names": "Phan Đinh Tùng",
+			"performer": "Phan Đinh Tùng",
+			"type": "audio",
+			"link": "/bai-hat/Ngoi-Sao-Le-Loi-Phan-Dinh-Tung/ZWZ987CC.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/5/5/5593e486a51d44a9696d9ae878430556_1073755980.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/c/2/c270eb7dd0e8b6b2e46e7b8efb3a1362_1469157758.jpg?fs=MTY0NjU3ODI3Njg3M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Ngoi-Sao-Le-Loi-Phan-Dinh-Tung/ZWZ987CC.html",
+			"duration": 333,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/ae4fcefec7ba2ee477ab/2276103703360198924?authen=exp=1646751076~acl=/ae4fcefec7ba2ee477ab/*~hmac=e79c9d5477827e94808e1041fd3fc3b6&fs=MTY0NjU3ODI3Njg3NXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZC6B",
+				"name": "Phan Đinh Tùng",
+				"link": "/nghe-si/Phan-Dinh-Tung",
+				"cover": "https://photo-zmp3.zadn.vn/cover3_artist/7/9/792069df363c9e9a3737d98e38ffb46e_1451978907.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/b/6b4fc5bcc489808ff729eef71cf76571_1509635732.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 16
+		},
+		{
+			"id": "ZWZB90BZ",
+			"name": "Đàn Ông Là Thế",
+			"title": "Đàn Ông Là Thế",
+			"code": "kmxntLGadJcEdBByHybHZnykCzXpxRmsX",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ98A6I",
+			"artists": [
+			{
+				"name": "Vboys",
+				"link": "/nghe-si/Dan-Ong-La-The-Vboys"
+			}],
+			"artists_names": "Vboys",
+			"performer": "Vboys",
+			"type": "audio",
+			"link": "/bai-hat/Dan-Ong-La-The-Vboys/ZWZB90BZ.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/a/6/f/f/a6fff222353e8621ba3ae533a0c74521.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/2/d/2d671ef9ad2e578dd35037a451c47b99_1303200150.jpg?fs=MTY0NjU3ODI3Njg3N3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 321,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/48ff5e4c5708be56e719/6708408790473511559?authen=exp=1646751076~acl=/48ff5e4c5708be56e719/*~hmac=7d1f16d4436a730cd1d1f88527206d8e&fs=MTY0NjU3ODI3Njg3OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ98A6I",
+				"link": "/album/Doi-Gian-Tinh-Dau-Vboys/ZWZ98A6I.html",
+				"title": "Dối Gian Tình Đầu",
+				"name": "Dối Gian Tình Đầu",
+				"isoffical": true,
+				"artists_names": "Vboys",
+				"artists": [
+				{
+					"name": "Vboys",
+					"link": "/nghe-si/Vboys"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/2/d/2d671ef9ad2e578dd35037a451c47b99_1303200150.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/d/2d671ef9ad2e578dd35037a451c47b99_1303200150.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ97Z09",
+				"name": "Vboys",
+				"link": "/nghe-si/Vboys",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/8/68d5535b971d558f594f10a5affd0a71_1302856449.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 17
+		},
+		{
+			"id": "ZWZB7B6C",
+			"name": "Đêm Trăng Tình Yêu",
+			"title": "Đêm Trăng Tình Yêu",
+			"code": "kGxmyLmNdcJBxczyHyvGZmykglgQcRnsX",
+			"content_owner": 8,
+			"isoffical": true,
+			"isWorldWide": false,
+			"artists": [
+			{
+				"name": "Ưng Đại Vệ",
+				"link": "/nghe-si/Dem-Trang-Tinh-Yeu-Ung-Dai-Ve"
+			}],
+			"artists_names": "Ưng Đại Vệ",
+			"performer": "Ưng Đại Vệ",
+			"type": "audio",
+			"link": "/bai-hat/Dem-Trang-Tinh-Yeu-Ung-Dai-Ve/ZWZB7B6C.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2017/08/24/a42cc71e8afc36121bb878a8a1f2e09c_1073883884.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/1/8/18c4e339f1711c8d7d0c48ae7dca6cd4_1437444960.jpg?fs=MTY0NjU3ODI3Njg4Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 313,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/dce83cf736b3dfed86a2/1043106733496956430?authen=exp=1646751076~acl=/dce83cf736b3dfed86a2/*~hmac=b36bb8bc4b0fee613556dab9187b1c2a&fs=MTY0NjU3ODI3Njg4Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZCCF",
+				"name": "Ưng Đại Vệ",
+				"link": "/nghe-si/Ung-Dai-Ve",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/3/f/3fb2db6cccf4a23383383394b28b2b31_1513059513.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/f/3fab761c261bee35fee32ae56c511b2d_1512639409.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 18
+		},
+		{
+			"id": "ZWZEBB96",
+			"name": "Đừng Trách Người Ơi",
+			"title": "Đừng Trách Người Ơi",
+			"code": "LmcmykGaSGRXEZcynTFHLmtkgShWcEGsC",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ9E0BA",
+			"artists": [
+			{
+				"name": "Vũ Hà",
+				"link": "/nghe-si/Dung-Trach-Nguoi-Oi-Vu-Ha"
+			}],
+			"artists_names": "Vũ Hà",
+			"performer": "Vũ Hà",
+			"type": "audio",
+			"link": "/bai-hat/Dung-Trach-Nguoi-Oi-Vu-Ha/ZWZEBB96.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/8/b/3/1/8b3124e745b86ebd20a7ddf4274eaf9a.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/0/c/0caa4ce95122f00ba9764897c0cd884a_1324294296.jpg?fs=MTY0NjU3ODI3Njg4M3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 221,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/6fb8d934d070392e6061/5795589248201414298?authen=exp=1646751076~acl=/6fb8d934d070392e6061/*~hmac=9a42f2c0d36d609bace67394a029d9aa&fs=MTY0NjU3ODI3Njg4NHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9E0BA",
+				"link": "/album/Tinh-La-The-Dung-Trach-Nguoi-Oi-Vu-Ha/ZWZ9E0BA.html",
+				"title": "Tình Là Thế - Đừng Trách Người Ơi",
+				"name": "Tình Là Thế - Đừng Trách Người Ơi",
+				"isoffical": true,
+				"artists_names": "Vũ Hà",
+				"artists": [
+				{
+					"name": "Vũ Hà",
+					"link": "/nghe-si/Vu-Ha"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/0/c/0caa4ce95122f00ba9764897c0cd884a_1324294296.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/0/c/0caa4ce95122f00ba9764897c0cd884a_1324294296.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ96ZFI",
+				"name": "Vũ Hà",
+				"link": "/nghe-si/Vu-Ha",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/5/5/5527a58f6fbb6287ac95b45f9d68bbd2_1511757947.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/e/f/1/2ef1369a220003a315c73445c1596b04.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 19
+		},
+		{
+			"id": "ZWZABAAE",
+			"name": "Vị Trí Nào Cho Anh",
+			"title": "Vị Trí Nào Cho Anh",
+			"code": "LHxHyknadJdSWlbyntbmLGykClgQJumaC",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ97Z0I",
+			"artists": [
+			{
+				"name": "Lý Hải",
+				"link": "/nghe-si/Vi-Tri-Nao-Cho-Anh-Ly-Hai"
+			}],
+			"artists_names": "Lý Hải",
+			"performer": "Lý Hải",
+			"type": "audio",
+			"link": "/bai-hat/Vi-Tri-Nao-Cho-Anh-Ly-Hai/ZWZABAAE.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/2/5/251bc74d5016e1a6f33ab2128b2e283a_1073834542.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/e/9/e9f46f968c158fdbda86a394b1cf9903_1294975250.jpg?fs=MTY0NjU3ODI3Njg4OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 303,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/ef3c99040240eb1eb251/4973512264225780682?authen=exp=1646751076~acl=/ef3c99040240eb1eb251/*~hmac=7a50ec8c1aea26962e3c4a2eccce9890&fs=MTY0NjU3ODI3Njg4OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ97Z0I",
+				"link": "/album/Tron-Doi-Ben-Em-5-Cho-Nuoi-Tiec-Ly-Hai/ZWZ97Z0I.html",
+				"title": "Trọn Đời Bên Em 5 - Chớ Nuối Tiếc",
+				"name": "Trọn Đời Bên Em 5 - Chớ Nuối Tiếc",
+				"isoffical": true,
+				"artists_names": "Lý Hải",
+				"artists": [
+				{
+					"name": "Lý Hải",
+					"link": "/nghe-si/Ly-Hai"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/e/9/e9f46f968c158fdbda86a394b1cf9903_1294975250.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/9/e9f46f968c158fdbda86a394b1cf9903_1294975250.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZWUI",
+				"name": "Lý Hải",
+				"link": "/nghe-si/Ly-Hai",
+				"cover": "https://photo-zmp3.zadn.vn/cover3_artist/0/d/0ddd75d1091fa33613c6903581f412df_1411584244.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/2/72acded3acd45e4c8b6ed680854b8ab1_1512616501.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 20
+		},
+		{
+			"id": "ZWZ9ZWEB",
+			"name": "Không Gì Có Thể Thay Thế Em",
+			"title": "Không Gì Có Thể Thay Thế Em",
+			"code": "ZGJmTkGaVsAbzAdynyDHkHtkClhQxRHsC",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ9Z0D9",
+			"artists": [
+			{
+				"name": "Lâm Chấn Huy",
+				"link": "/nghe-si/Khong-Gi-Co-The-Thay-The-Em-Lam-Chan-Huy"
+			}],
+			"artists_names": "Lâm Chấn Huy",
+			"performer": "Lâm Chấn Huy",
+			"type": "audio",
+			"link": "/bai-hat/Khong-Gi-Co-The-Thay-The-Em-Lam-Chan-Huy/ZWZ9ZWEB.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2016/3/8/38c7294dde780f3ebefc9a5c55d129df_1073742443.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/3/c/3c16b1ed3ebd5630c8a62b224edd400f_1285387494.jpg?fs=MTY0NjU3ODI3Njg5MXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 280,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/2d26e8fae1be08e051af/1863516341014422756?authen=exp=1646751076~acl=/2d26e8fae1be08e051af/*~hmac=21114f4cac404239004cac34b9054652&fs=MTY0NjU3ODI3Njg5Mnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9Z0D9",
+				"link": "/album/Anh-Khong-Muon-Lam-Nguoi-Thu-Ba-Lam-Chan-Huy/ZWZ9Z0D9.html",
+				"title": "Anh Không Muốn Làm Người Thứ Ba",
+				"name": "Anh Không Muốn Làm Người Thứ Ba",
+				"isoffical": true,
+				"artists_names": "Lâm Chấn Huy",
+				"artists": [
+				{
+					"name": "Lâm Chấn Huy",
+					"link": "/nghe-si/Lam-Chan-Huy"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/3/c/3c16b1ed3ebd5630c8a62b224edd400f_1285387494.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/3/c/3c16b1ed3ebd5630c8a62b224edd400f_1285387494.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZIZO",
+				"name": "Lâm Chấn Huy",
+				"link": "/nghe-si/Lam-Chan-Huy",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/b/8/7/1/b8716882ddb8ec9a8fa152d591138355.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 21
+		},
+		{
+			"id": "ZW60FDAB",
+			"name": "Người Ta Nói",
+			"title": "Người Ta Nói",
+			"code": "LHcGtZmaSDASEGsTnybHkmyZhAgQcRnah",
+			"content_owner": 10088,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZAIF00",
+			"artists": [
+			{
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Nguoi-Ta-Noi-Ung-Hoang-Phuc"
+			}],
+			"artists_names": "Ưng Hoàng Phúc",
+			"performer": "Ưng Hoàng Phúc",
+			"type": "audio",
+			"link": "/bai-hat/Nguoi-Ta-Noi-Ung-Hoang-Phuc/ZW60FDAB.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2/b/6/1/2b61723f63eaaadad182a6978358b4d0.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/0/8/08352c065805de8dede67f073ef43a21_1341494706.jpg?fs=MTY0NjU3ODI3Njg5NXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 230,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/e19d6886f2c21b9c42d3/6483566261205801073?authen=exp=1646751076~acl=/e19d6886f2c21b9c42d3/*~hmac=65d2b029b6ca793301393493e04af5bb&fs=MTY0NjU3ODI3Njg5Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZAIF00",
+				"link": "/album/Greatest-Hits-Nhin-Lai-Toi-Di-Tim-Toi-Ung-Hoang-Phuc/ZWZAIF00.html",
+				"title": "Greatest Hits - Nhìn Lại... Tôi Đi Tìm Tôi",
+				"name": "Greatest Hits - Nhìn Lại... Tôi Đi Tìm Tôi",
+				"isoffical": true,
+				"artists_names": "Ưng Hoàng Phúc",
+				"artists": [
+				{
+					"name": "Ưng Hoàng Phúc",
+					"link": "/nghe-si/Ung-Hoang-Phuc"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/0/8/08352c065805de8dede67f073ef43a21_1341494706.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/0/8/08352c065805de8dede67f073ef43a21_1341494706.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZWI8",
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Ung-Hoang-Phuc",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/c/5/c5412bfcbf2bdd7299e0f438d732dc9a_1502849125.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/c/8/3/fc835d5168a4263c6a2d5fae30c0a589.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 22
+		},
+		{
+			"id": "ZWZB07CO",
+			"name": "Hãy Xem Là Giấc Mơ",
+			"title": "Hãy Xem Là Giấc Mơ",
+			"code": "ZHJHTknNdJQSvsQynyvHLHtLhzXpJimsC",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ97C8I",
+			"artists": [
+			{
+				"name": "Chu Bin",
+				"link": "/nghe-si/Hay-Xem-La-Giac-Mo-Chu-Bin"
+			}],
+			"artists_names": "Chu Bin",
+			"performer": "Chu Bin",
+			"type": "audio",
+			"link": "/bai-hat/Hay-Xem-La-Giac-Mo-Chu-Bin/ZWZB07CO.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/f/c/f/5/fcf5f66b6d3019a57b73c87ed8af70aa.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1299817578.jpg?fs=MTY0NjU3ODI3Njg5Nnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Hay-Xem-La-Giac-Mo-Chu-Bin/ZWZB07CO.html",
+			"duration": 289,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/4b10bf0a254ecc10955f/855640234925692734?authen=exp=1646751076~acl=/4b10bf0a254ecc10955f/*~hmac=5836229e869f741e0e59aa6856ec3d5c&fs=MTY0NjU3ODI3Njg5OHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ97C8I",
+				"link": "/album/Hay-Xem-La-Giac-Mo-Chu-Hieu-Minh-Chu-Bin/ZWZ97C8I.html",
+				"title": "Hãy Xem Là Giấc Mơ",
+				"name": "Hãy Xem Là Giấc Mơ",
+				"isoffical": true,
+				"artists_names": "Chu Hiểu Minh (Chu Bin)",
+				"artists": [
+				{
+					"name": "Chu Hiểu Minh (Chu Bin)",
+					"link": "/nghe-si/Chu-Hieu-Minh-Chu-Bin"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1299817578.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1299817578.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9Z9A6",
+				"name": "Chu Bin",
+				"link": "/nghe-si/Chu-Bin",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/b/3/f/2/b3f2b586b250a6fa1afa4617a35edbed.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/f/3/9/ef3982b7065156106d330a1a6ba86f78.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 23
+		},
+		{
+			"id": "ZWZB6EIB",
+			"name": "Vẫn Nhớ Người",
+			"title": "Vẫn Nhớ Người",
+			"code": "kmxnyLmNdJxmlsptmybGkHtkXShWcimsg",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"artists": [
+			{
+				"name": "Ngô Trường",
+				"link": "/nghe-si/Van-Nho-Nguoi-Ngo-Truong"
+			}],
+			"artists_names": "Ngô Trường",
+			"performer": "Ngô Trường",
+			"type": "audio",
+			"link": "/bai-hat/Van-Nho-Nguoi-Ngo-Truong/ZWZB6EIB.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/3/e/9/2/3e92e63118ccb3d90d5b180c3b763ad9.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/f/df8b8a62fc704aa2dd2775f55eb83af6_1331793131.jpg?fs=MTY0NjU3ODI3NjkwMHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Van-Nho-Nguoi-Ngo-Truong/ZWZB6EIB.html",
+			"duration": 254,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/82645511c055290b7044/3683933404904842597?authen=exp=1646751076~acl=/82645511c055290b7044/*~hmac=48f75eb0bb057172045c5bf0f6eb81d7&fs=MTY0NjU3ODI3NjkwNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ96EWF",
+				"name": "Ngô Trường",
+				"link": "/nghe-si/Ngo-Truong",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/9/5/95a8ec271c701fcd2591bd306b37b371_1517285557.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/3/63a0840d31b5bdc72e8c2d1216149017_1482231547.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 24
+		},
+		{
+			"id": "ZW6WZ6E6",
+			"name": "Anh Sẽ Quay Về",
+			"title": "Anh Sẽ Quay Về",
+			"code": "LHxHtZmsSdBdFJCymyFHZHTZCSCWJinaC",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZAOCE7",
+			"artists": [
+			{
+				"name": "Weboys",
+				"link": "/nghe-si/Anh-Se-Quay-Ve-Weboys"
+			}],
+			"artists_names": "Weboys",
+			"performer": "Weboys",
+			"type": "audio",
+			"link": "/bai-hat/Anh-Se-Quay-Ve-Weboys/ZW6WZ6E6.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2017/08/24/81f092fc6db2d66f7a86452ca3e2f772_1074333286.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/7/3/73688444a73a76169d03b689a7e785cf_1358677291.jpg?fs=MTY0NjU3ODI3NjkwNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 259,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/705a8dfe17bafee4a7ab/1349123688585607619?authen=exp=1646751076~acl=/705a8dfe17bafee4a7ab/*~hmac=1b5a1c37f13f1aa858a3471e641029be&fs=MTY0NjU3ODI3NjkwN3x3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"artist":
+			{
+				"id": "IWZ9ZCFD",
+				"name": "Weboys",
+				"link": "/nghe-si/Weboys",
+				"cover": "//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/d/0d3a82cfc7fc49da87aa17cd5dd261a2_1336298265.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 25
+		},
+		{
+			"id": "ZWZB8F7E",
+			"name": "Vết Thương Lòng",
+			"title": "Vết Thương Lòng",
+			"code": "ZmJHyZnadcJEnbbTmTFmLHtkglhWxRnNC",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ989CD",
+			"artists": [
+			{
+				"name": "Khánh Phương",
+				"link": "/nghe-si/Vet-Thuong-Long-Khanh-Phuong"
+			}],
+			"artists_names": "Khánh Phương",
+			"performer": "Khánh Phương",
+			"type": "audio",
+			"link": "/bai-hat/Vet-Thuong-Long-Khanh-Phuong/ZWZB8F7E.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2014/d/5/d5eebee1a908bd22ed51b033ec705f4b_1073889022.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/2/4/24964c29d0e08cd152567c6e8dfcb7ea_1496907644.jpg?fs=MTY0NjU3ODI3NjkxMHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 238,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/2477848603c2ea9cb3d3/2186891194966613802?authen=exp=1646751076~acl=/2477848603c2ea9cb3d3/*~hmac=aa8b1dc7a735d1da014fd105f5a83eb1&fs=MTY0NjU3ODI3NjkxMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ989CD",
+				"link": "/album/Loi-Tai-Ai-Khanh-Phuong/ZWZ989CD.html",
+				"title": "Lỗi Tại Ai",
+				"name": "Lỗi Tại Ai",
+				"isoffical": true,
+				"artists_names": "Khánh Phương",
+				"artists": [
+				{
+					"name": "Khánh Phương",
+					"link": "/nghe-si/Khanh-Phuong"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/2/4/24964c29d0e08cd152567c6e8dfcb7ea_1496907644.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/4/24964c29d0e08cd152567c6e8dfcb7ea_1496907644.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZIZI",
+				"name": "Khánh Phương",
+				"link": "/nghe-si/Khanh-Phuong",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/2/4/4/c/244c1333d86150ea1ae5b39fa031c85c.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/c/8c729d43259008afb25f4a29d43405b3_1514371054.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 26
+		},
+		{
+			"id": "ZWZD9U9Z",
+			"name": "Kiếp Đỏ Đen",
+			"title": "Kiếp Đỏ Đen",
+			"code": "ZHxmtLHNzmFZBRsyHTFHLmyLCzCWxRGsh",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ9CZZI",
+			"artists": [
+			{
+				"name": "Duy Mạnh",
+				"link": "/nghe-si/Kiep-Do-Den-Duy-Manh"
+			}],
+			"artists_names": "Duy Mạnh",
+			"performer": "Duy Mạnh",
+			"type": "audio",
+			"link": "/bai-hat/Kiep-Do-Den-Duy-Manh/ZWZD9U9Z.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2014/2/7/276c8f3d32d72e3444905f95a87cc906_1074021397.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1315705260.jpg?fs=MTY0NjU3ODI3NjkxNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 322,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/a9b85609cc4d25137c5c/2287614674015209690?authen=exp=1646751076~acl=/a9b85609cc4d25137c5c/*~hmac=7caffae1ab6c60a2fdc9eada8b6ad4e6&fs=MTY0NjU3ODI3NjkxNXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9CZZI",
+				"link": "/album/Best-Collection-Duy-Manh-Duy-Manh/ZWZ9CZZI.html",
+				"title": "Best Collection Duy Mạnh",
+				"name": "Best Collection Duy Mạnh",
+				"isoffical": true,
+				"artists_names": "Duy Mạnh",
+				"artists": [
+				{
+					"name": "Duy Mạnh",
+					"link": "/nghe-si/Duy-Manh"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1315705260.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1315705260.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZOZE",
+				"name": "Duy Mạnh",
+				"link": "/nghe-si/Duy-Manh",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/3/f/3fb2db6cccf4a23383383394b28b2b31_1513830388.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/c/9c2ca828fe79504b0017f809274552f6_1509935628.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 27
+		},
+		{
+			"id": "ZWZB080U",
+			"name": "Thêm Một Lần Đau",
+			"title": "Thêm Một Lần Đau",
+			"code": "ZncmyZGadxpzdAHtmTbGZmyZhlCWcEnaC",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ97BW7",
+			"artists": [
+			{
+				"name": "HKT",
+				"link": "/nghe-si/Them-Mot-Lan-Dau-HKT"
+			}],
+			"artists_names": "HKT",
+			"performer": "HKT",
+			"type": "audio",
+			"link": "/bai-hat/Them-Mot-Lan-Dau-HKT/ZWZB080U.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/9/f/9f54e3dec286d7c8d666067d27544d04_1073854340.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/4/c/4c99c999e0983f314e104c5821c48193_1299834031.jpg?fs=MTY0NjU3ODI3NjkxNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Them-Mot-Lan-Dau-HKT/ZWZB080U.html",
+			"duration": 280,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/a94c91e498a071fe28b1/1137552478619167220?authen=exp=1646751076~acl=/a94c91e498a071fe28b1/*~hmac=5ee1117c68d5ff83d26491001f9f4c67&fs=MTY0NjU3ODI3NjkxOXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ97BW7",
+				"link": "/album/Mat-Trai-Cua-Su-That-HKT/ZWZ97BW7.html",
+				"title": "Mặt Trái Của Sự Thật",
+				"name": "Mặt Trái Của Sự Thật",
+				"isoffical": true,
+				"artists_names": "HKT",
+				"artists": [
+				{
+					"name": "HKT",
+					"link": "/nghe-si/HKT"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/4/c/4c99c999e0983f314e104c5821c48193_1299834031.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/4/c/4c99c999e0983f314e104c5821c48193_1299834031.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ968UE",
+				"name": "HKT",
+				"link": "/nghe-si/HKT",
+				"cover": "https://photo-zmp3.zadn.vn/cover3_artist/6/5/659ff13a53b37839ed3a2bb21b588516_1413820091.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/5/659ff13a53b37839ed3a2bb21b588516_1510288325.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 28
+		},
+		{
+			"id": "ZWZ9ZZ7U",
+			"name": "Mùa Đông Không Lạnh",
+			"title": "Mùa Đông Không Lạnh",
+			"code": "ZmxHykGsBaABmRFynTvHkHyZCACpJEHNC",
+			"content_owner": 7,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ9Z0FC",
+			"artists": [
+			{
+				"name": "Akira Phan",
+				"link": "/nghe-si/Mua-Dong-Khong-Lanh-Akira-Phan"
+			}],
+			"artists_names": "Akira Phan",
+			"performer": "Akira Phan",
+			"type": "audio",
+			"link": "/bai-hat/Mua-Dong-Khong-Lanh-Akira-Phan/ZWZ9ZZ7U.html#video-clip",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2016/6/c/6c903612aeb7785f606ac7021627c077_1073743092.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/8/9/89af1855ce349828e851a9fe834afc80_1285430079.jpg?fs=MTY0NjU3ODI3NjkyMHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"mv_link": "/video-clip/Mua-Dong-Khong-Lanh-Akira-Phan/ZWZ9ZZ7U.html",
+			"duration": 280,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/62641cc9868d6fd3369c/5837218097813289330?authen=exp=1646751076~acl=/62641cc9868d6fd3369c/*~hmac=b54374cf937073d977cc65b14ee2ce51&fs=MTY0NjU3ODI3NjkyMXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9Z0FC",
+				"link": "/album/Dung-Day-Vuon-Vai-Akira-Phan/ZWZ9Z0FC.html",
+				"title": "Đứng Dậy Vươn Vai",
+				"name": "Đứng Dậy Vươn Vai",
+				"isoffical": true,
+				"artists_names": "Akira Phan",
+				"artists": [
+				{
+					"name": "Akira Phan",
+					"link": "/nghe-si/Akira-Phan"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/8/9/89af1855ce349828e851a9fe834afc80_1285430079.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/8/9/89af1855ce349828e851a9fe834afc80_1285430079.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZIAD",
+				"name": "Akira Phan",
+				"link": "/nghe-si/Akira-Phan",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/7/2/72acded3acd45e4c8b6ed680854b8ab1_1511495817.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/7/676c250bfb0a25358e7a62075e47416a_1511495598.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 29
+		},
+		{
+			"id": "ZWZAOZ8F",
+			"name": "Bởi Tin Lời Thề",
+			"title": "Bởi Tin Lời Thề",
+			"code": "ZGJGyZHsdxmnShdyGtvmkmtZCACWJumsC",
+			"content_owner": 73,
+			"isoffical": true,
+			"isWorldWide": false,
+			"playlist_id": "ZWZ9668Z",
+			"artists": [
+			{
+				"name": "Vân Quang Long",
+				"link": "/nghe-si/Boi-Tin-Loi-The-Van-Quang-Long"
+			}],
+			"artists_names": "Vân Quang Long",
+			"performer": "Vân Quang Long",
+			"type": "audio",
+			"link": "/bai-hat/Boi-Tin-Loi-The-Van-Quang-Long/ZWZAOZ8F.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/f/6/0/3/f603565e0bdf16c92349653b60c33840.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/2/0/20e2e1c4ac6a112112bb2fac75791cc7_1290348390.jpg?fs=MTY0NjU3ODI3NjkyNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 263,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/f5e56419e35d0a03534c/3905073388018532706?authen=exp=1646751076~acl=/f5e56419e35d0a03534c/*~hmac=7249764d19630fd7cc7e90c1f41b6c68&fs=MTY0NjU3ODI3NjkyNHx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ9668Z",
+				"link": "/album/Boi-Tin-Loi-The-Be-Mat-Nhung-Van-Quang-Long/ZWZ9668Z.html",
+				"title": "Bởi Tin Lời Thề - Bé Mắt Nhung",
+				"name": "Bởi Tin Lời Thề - Bé Mắt Nhung",
+				"isoffical": true,
+				"artists_names": "Vân Quang Long",
+				"artists": [
+				{
+					"name": "Vân Quang Long",
+					"link": "/nghe-si/Van-Quang-Long"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/2/0/20e2e1c4ac6a112112bb2fac75791cc7_1290348390.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/0/20e2e1c4ac6a112112bb2fac75791cc7_1290348390.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZO6Z",
+				"name": "Vân Quang Long",
+				"link": "/nghe-si/Van-Quang-Long",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/9/6/96c582ee0a5cfdbba714f13e37c4c443_1511593051.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/b/f/bf723f9ed39493944ebd5037d688e06a_1511592963.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 30
+		},
+		{
+			"id": "ZWZBFAOA",
+			"name": "Anh Chỉ Biết Câm Nín Nghe Tiếng Em Khóc",
+			"title": "Anh Chỉ Biết Câm Nín Nghe Tiếng Em Khóc",
+			"code": "ZnJmTLmaBRZhBShtGyvGLmyLhAhQJRHaC",
+			"content_owner": 10088,
+			"isoffical": true,
+			"isWorldWide": true,
+			"playlist_id": "ZWZ99U9W",
+			"artists": [
+			{
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Anh-Chi-Biet-Cam-Nin-Nghe-Tieng-Em-Khoc-Ung-Hoang-Phuc"
+			}],
+			"artists_names": "Ưng Hoàng Phúc",
+			"performer": "Ưng Hoàng Phúc",
+			"type": "audio",
+			"link": "/bai-hat/Anh-Chi-Biet-Cam-Nin-Nghe-Tieng-Em-Khoc-Ung-Hoang-Phuc/ZWZBFAOA.html",
+			"lyric": "https://static-zmp3.zadn.vn/lyrics/2015/f/c/fc679e3cf86b395c977ba8f07f58cb4e_1073916346.lrc",
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1305127518.jpg?fs=MTY0NjU3ODI3NjkyNXx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+			"duration": 288,
+			"source":
+			{
+				"128": "https://mp3-s1-m-zmp3.zadn.vn/516b75d37e9797c9ce86/3367786871080864106?authen=exp=1646751076~acl=/516b75d37e9797c9ce86/*~hmac=fa8eef5f82b0ea56ffe18a7e29c75bb0&fs=MTY0NjU3ODI3NjkyNnx3ZWJWNHw1OC4xODmUsICdUngMTIdUngMTkw",
+				"320": ""
+			},
+			"album":
+			{
+				"id": "ZWZ99U9W",
+				"link": "/album/Hua-That-Nhieu-That-Hua-That-Nhieu-Ung-Hoang-Phuc/ZWZ99U9W.html",
+				"title": "Hứa Thật Nhiều Thất Hứa Thật Nhiều",
+				"name": "Hứa Thật Nhiều Thất Hứa Thật Nhiều",
+				"isoffical": true,
+				"artists_names": "Ưng Hoàng Phúc",
+				"artists": [
+				{
+					"name": "Ưng Hoàng Phúc",
+					"link": "/nghe-si/Ung-Hoang-Phuc"
+				}],
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1305127518.jpg",
+				"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1305127518.jpg"
+			},
+			"artist":
+			{
+				"id": "IWZ9ZWI8",
+				"name": "Ưng Hoàng Phúc",
+				"link": "/nghe-si/Ung-Hoang-Phuc",
+				"cover": "https://photo-zmp3.zadn.vn/cover_artist/c/5/c5412bfcbf2bdd7299e0f438d732dc9a_1502849125.jpg",
+				"thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/c/8/3/fc835d5168a4263c6a2d5fae30c0a589.jpg"
+			},
+			"ads": true,
+			"is_vip": false,
+			"order": 31
+		}],
+		"is_vip": false,
+		"info":
+		{
+			"id": "ZOB6OA87",
+			"link": "/album/Nhac-Tre-Huyen-Thoai-Mot-Thoi-Dan-Truong-Ung-Hoang-Phuc-Duy-Manh-Ly-Hai/ZOB6OA87.html",
+			"title": "Nhạc Trẻ Huyền Thoại Một Thời",
+			"name": "Nhạc Trẻ Huyền Thoại Một Thời",
+			"isoffical": true,
+			"artists_names": "Đan Trường, Ưng Hoàng Phúc, Duy Mạnh, Lý Hải",
+			"artists": [
+			{
+				"name": "Nhiều Nghệ Sĩ",
+				"link": "/nghe-si/Dan-Truong-Ung-Hoang-Phuc-Duy-Manh-Ly-Hai"
+			}],
+			"thumbnail": "https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/c/2/2/2/c22248eb1f0a214fbc78b42709427947.jpg",
+			"thumbnail_medium": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/2/2/2/c22248eb1f0a214fbc78b42709427947.jpg"
+		},
+		"ip": "58.187.12.190"
+	},
+	"timestamp": 1646578276928
+}
