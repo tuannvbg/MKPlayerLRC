@@ -1,3 +1,78 @@
+# 🎧 MKPlayerLRC
+
+> A lightweight music player based on MKOnlineMusicPlayer, rebuilt to support direct links and local lyrics — no Chinese APIs, no limits.
+
+## 🌐 Demo
+
+👉 [tuannvbg.github.io/MKPlayerLRC](https://tuannvbg.github.io/MKPlayerLRC)
+
+---
+
+## 🇬🇧 English
+
+**MKPlayerLRC** is a customized version of [MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer), edited to support music from direct links (e.g. Dropbox, raw URLs) and lyrics in multiple formats.
+
+I’m Vietnamese, and I wanted to listen to Vietnamese music with synced lyrics — not just Chinese songs. So I rewrote the player to support:
+
+- `.mp3` from any direct link  
+- Lyrics in `.lrc`, `.json`, `.js`, or raw content  
+- JSON playlist loading  
+- No dependency on Chinese music APIs  
+- Friendly fallback messages when lyrics are missing  
+- Fixed karaoke bug: timestamps with empty lyrics no longer break display
+
+**Simple First. Just play the music.**
+
+---
+
+## 🇻🇳 Tiếng Việt
+
+**MKPlayerLRC** là phiên bản chỉnh sửa từ [MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer), hỗ trợ phát nhạc từ link trực tiếp (Dropbox, link raw...) và lời bài hát ở nhiều định dạng.
+
+Tôi là người Việt, tôi muốn nghe nhạc Việt có lời karaoke — không chỉ nhạc Trung Quốc. Vì vậy tôi đã chỉnh sửa lại player để:
+
+- Phát nhạc từ link `.mp3` bất kỳ  
+- Hỗ trợ lời bài hát dạng `.lrc`, `.json`, `.js`, hoặc nội dung trực tiếp  
+- Tải playlist từ file JSON  
+- Không phụ thuộc API Trung Quốc  
+- Hiển thị thông báo thân thiện khi chưa có lời bài hát  
+- Sửa lỗi karaoke: dòng có timestamp nhưng không có lời sẽ không gây lỗi hiển thị
+
+**Đơn giản là phát nhạc. Không màu mè. Không giới hạn.**
+
+---
+
+## 🇨🇳 中文（简体）
+
+**MKPlayerLRC** 是从 [MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) 修改而来的版本，支持从直链播放音乐，并加载多种格式的歌词。
+
+我是越南人，我想听越南歌曲并显示歌词，而不仅仅是中文音乐。所以我重新编辑了播放器，支持：
+
+- 从任何直链播放 `.mp3` 音乐  
+- 支持 `.lrc`、`.json`、`.js` 或直接歌词内容  
+- 加载 JSON 播放列表  
+- 不依赖中国音乐 API  
+- 当歌词缺失时显示友好提示  
+- 修复歌词问题：有时间戳但歌词为空时不会导致显示错误
+
+**简单为先，只为播放你想听的音乐。**
+
+---
+
+## 📁 How to Use
+
+1. Upload your `.mp3` files to a direct link (Dropbox, CDN, etc.)  
+2. Create a playlist in JSON format  
+3. Add lyrics in `.lrc`, `.json`, `.js`, or inline  
+4. Open the player and enjoy
+
+---
+
+## 💬 Author Note
+
+> “I made this because I needed it. If you need it too, feel free to use it. If not, fork it and make it yours — just like I did.”
+
+
 MKPlayerLRC 1.0: I like MKOnlineMusicPlayer from https://github.com/mengkunsoft/MKOnlineMusicPlayer but player not support local music (only china music but I'm Vietnamese, I Want listen music Vietnam with lyric lrc). I edit code support local music or any hosting support direct link (example: dropbox.com) with lrc support 4 type: .lrc, .js, .json, content lrc. Demo: https://tuannvbg.github.io/MKPlayerLRC/
 ========
 MKOnlineMusicPlayer 是一款全屏的音乐播放器 UI 框架（为避免侵权，已移除所有后端功能）。
