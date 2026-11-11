@@ -1,25 +1,15 @@
 # 🎧 MKPlayerLRC
 
 > A lightweight music player based on MKOnlineMusicPlayer, rebuilt to support direct links and local lyrics — no Chinese APIs, no limits.
-<div align="center">
-  <p>
-    <a href="https://github.com/tuannvbg/MKPlayerLRC/releases">
-      <img src="https://img.shields.io/github/downloads/MKPlayerLRC/total?label=Downloads&style=flat" alt="Downloads"/>
-    </a>
-    <a href="https://github.com/tuannvbg/MKPlayerLRC/stargazers">
-      <img src="https://img.shields.io/github/stars/tuannvbg/MKPlayerLRC?color=green&label=Stars&style=flat" alt="Stars"/>
-    </a>
-    <a href="https://github.com/tuannvbg/MKPlayerLRC/subscription">
-      <img src="https://img.shields.io/github/watchers/tuannvbg/MKPlayerLRC?color=green&label=Watchers&style=flat" alt="Watchers"/>
-    </a>
-    <a href="https://github.com/tuannvbg/MKPlayerLRC">
-      <img src="https://img.shields.io/badge/tuannvbg/MKPlayerLRC?style=flat&label=my%20blog" alt="Read my blog"/>
-    </a>
-  </p>
-</div>
-## 🌐 Demo
 
-👉 [tuannvbg.github.io/MKPlayerLRC](https://tuannvbg.github.io/MKPlayerLRC)
+# 🎧 MKPlayerLRC
+
+![GitHub Stars](https://img.shields.io/github/stars/tuannvbg/MKPlayerLRC?label=Stars&style=flat-square)
+![GitHub Watchers](https://img.shields.io/github/watchers/tuannvbg/MKPlayerLRC?label=Watchers&style=flat-square)
+![GitHub Forks](https://img.shields.io/github/forks/tuannvbg/MKPlayerLRC?label=Forks&style=flat-square)
+
+👉 Demo: **tuannvbg.github.io/MKPlayerLRC**
+
 
 ---
 
